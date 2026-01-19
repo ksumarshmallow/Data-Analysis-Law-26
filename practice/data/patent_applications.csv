@@ -1,0 +1,2001 @@
+application_id,filing_year,tech_domain,applicant_type,country_origin,industry_sector,international_filing,prior_examination,commercial_potential,market_size_estimate,processing_fee_usd,number_of_claims,number_of_citations,complexity_level,examiner_load,novelty_score,grant_probability,office_action_count
+PAT-2000-001,2023,quantum,2,CHN,software,False,1,Yes,53.84,1467.59,35,37,3,Low,Moderate,Medium,3
+PAT-2000-002,2022,blockchain,2,CHN,fintech,True,1,Yes,216.01,3849.55,19,25,2,High,Marginal,Low,4
+PAT-2000-003,2024,cybersecurity,2,USA,software,True,0,Yes,162.45,529.92,23,13,1,High,Moderate,Low,2
+PAT-2000-004,2023,iot,3,USA,hardware,True,0,Yes,29.93,9506.33,13,9,2,Low,Marginal,Low,0
+PAT-2000-005,2020,ai_ml,3,USA,software,True,1,No,15.11,6445.82,23,36,2,High,Marginal,Very Low,1
+PAT-2000-006,2024,cybersecurity,3,USA,software,True,0,No,6.27,2976.98,16,8,1,Medium,Moderate,Medium,0
+PAT-2000-007,2023,blockchain,2,JPN,fintech,True,1,Yes,91.18,9632.17,7,25,1,Low,Moderate,Medium,1
+PAT-2000-008,2023,ai_ml,1,CHN,fintech,False,1,No,58.71,4914.28,48,51,2,Low,Breakthrough,High,2
+PAT-2000-009,2020,ai_ml,2,DEU,healthtech,True,1,No,55.68,9821.72,24,24,3,Low,Breakthrough,Very High,5
+PAT-2000-010,2022,iot,3,IND,healthtech,True,0,Yes,242.71,7786.88,12,8,2,Low,Significant,Low,5
+PAT-2000-011,2022,ai_ml,2,CHN,healthtech,False,1,Yes,28.95,3801.6,46,30,3,Low,Moderate,Medium,3
+PAT-2000-012,2024,ai_ml,2,USA,software,True,0,No,13.42,884.82,31,12,3,Medium,Significant,Medium,5
+PAT-2000-013,2023,ai_ml,1,JPN,software,False,1,No,10.64,1204.42,46,42,2,Medium,Breakthrough,High,3
+PAT-2000-014,2023,blockchain,4,RUS,software,False,1,No,9.7,7112.87,5,27,2,Low,Significant,Very High,2
+PAT-2000-015,2022,blockchain,2,DEU,fintech,True,1,Yes,84.89,6648.09,10,18,2,High,Moderate,Low,2
+PAT-2000-016,2021,iot,2,USA,hardware,True,1,Yes,81.02,9519.51,18,16,1,Medium,Moderate,Medium,2
+PAT-2000-017,2022,ai_ml,1,GBR,fintech,False,1,Yes,500.0,5001.64,29,34,2,Low,Moderate,Low,1
+PAT-2000-018,2020,ai_ml,2,CHN,software,True,1,Yes,129.56,7115.03,42,42,2,Medium,Marginal,Very Low,3
+PAT-2000-019,2023,iot,4,DEU,hardware,False,1,Yes,212.3,9300.4,19,29,3,Medium,Significant,Medium,6
+PAT-2000-020,2023,blockchain,4,RUS,software,False,0,No,5.22,8121.06,7,8,2,Medium,Marginal,Low,3
+PAT-2000-021,2023,iot,4,IND,hardware,False,1,No,17.94,8034.44,24,30,2,Medium,Marginal,Low,2
+PAT-2000-022,2022,ai_ml,2,USA,healthtech,True,1,No,10.8,8708.04,29,33,3,Medium,Breakthrough,Medium,2
+PAT-2000-023,2024,ai_ml,1,DEU,fintech,True,0,Yes,500.0,2546.25,17,15,2,Medium,Significant,Medium,3
+PAT-2000-024,2024,ai_ml,1,CHN,healthtech,True,1,No,51.38,9955.57,16,31,3,Medium,Breakthrough,High,5
+PAT-2000-025,2023,blockchain,3,USA,fintech,True,0,Yes,42.6,1555.54,16,3,1,Medium,Moderate,High,2
+PAT-2000-026,2021,blockchain,3,GBR,fintech,False,0,Yes,500.0,8377.75,13,14,2,Medium,Moderate,High,0
+PAT-2000-027,2022,quantum,1,CHN,hardware,False,1,No,4.45,2835.25,26,36,2,Low,Significant,High,2
+PAT-2000-028,2020,blockchain,2,JPN,fintech,True,1,No,10.07,8144.7,19,17,3,Low,Marginal,Low,2
+PAT-2000-029,2021,iot,3,CHN,telecom,False,0,No,90.61,1147.05,28,16,1,Low,Marginal,Low,2
+PAT-2000-030,2023,iot,3,USA,hardware,False,1,Yes,402.41,9369.54,28,18,3,Medium,Significant,Medium,5
+PAT-2000-031,2023,ai_ml,1,GBR,fintech,True,1,Yes,54.76,1812.87,42,31,2,Low,Breakthrough,High,3
+PAT-2000-032,2024,iot,1,USA,hardware,True,0,No,38.11,1014.93,17,9,2,Low,Moderate,Low,0
+PAT-2000-033,2021,ai_ml,2,CHN,healthtech,True,0,Yes,35.98,2916.61,47,13,2,Low,Breakthrough,Low,2
+PAT-2000-034,2022,blockchain,4,USA,fintech,False,0,No,16.63,7425.54,15,12,2,Medium,Marginal,Low,1
+PAT-2000-035,2022,ai_ml,2,USA,fintech,False,0,Yes,27.23,501.21,41,18,2,Medium,Moderate,High,1
+PAT-2000-036,2021,quantum,1,GBR,software,True,1,No,23.37,6796.32,46,36,3,Low,Breakthrough,Medium,5
+PAT-2000-037,2020,cybersecurity,4,RUS,software,False,1,Yes,239.72,5428.81,22,20,3,High,Significant,Very High,5
+PAT-2000-038,2022,ai_ml,3,DEU,software,True,1,No,46.44,8997.65,33,40,2,High,Significant,High,6
+PAT-2000-039,2021,iot,3,USA,telecom,True,1,No,6.8,4544.21,28,32,2,Low,Moderate,Medium,2
+PAT-2000-040,2023,quantum,3,USA,hardware,False,1,Yes,26.2,9549.21,26,57,2,Medium,Marginal,Low,1
+PAT-2000-041,2022,ai_ml,3,DEU,fintech,True,1,Yes,109.74,3701.28,38,27,3,Medium,Marginal,Very Low,5
+PAT-2000-042,2023,quantum,1,KOR,hardware,True,1,Yes,500.0,7162.58,32,36,3,Medium,Significant,Very High,4
+PAT-2000-043,2023,iot,3,IND,software,True,0,Yes,171.23,1330.4,26,8,3,Medium,Marginal,Low,3
+PAT-2000-044,2021,cybersecurity,4,IND,software,False,0,Yes,141.71,913.89,29,9,3,Low,Significant,Low,4
+PAT-2000-045,2023,cybersecurity,2,CHN,software,False,0,Yes,58.14,8499.15,16,9,3,Medium,Moderate,High,2
+PAT-2000-046,2023,ai_ml,1,CHN,fintech,False,1,Yes,244.68,1693.14,38,34,3,Low,Breakthrough,Medium,6
+PAT-2000-047,2022,blockchain,3,DEU,fintech,True,1,Yes,500.0,8174.52,9,26,2,Low,Marginal,Low,0
+PAT-2000-048,2021,iot,3,USA,hardware,False,1,Yes,39.21,5367.75,24,28,2,Medium,Moderate,Low,3
+PAT-2000-049,2023,ai_ml,2,USA,software,True,0,Yes,237.46,6665.42,46,10,2,Low,Marginal,Low,2
+PAT-2000-050,2020,ai_ml,2,CHN,software,True,1,Yes,67.43,4358.23,18,31,2,Low,Moderate,High,1
+PAT-2000-051,2021,cybersecurity,2,CHN,software,False,0,Yes,280.08,7715.57,20,8,1,Low,Significant,Medium,1
+PAT-2000-052,2020,ai_ml,2,CHN,software,False,1,Yes,164.06,7722.3,50,46,3,Low,Significant,Very High,2
+PAT-2000-053,2023,blockchain,4,USA,fintech,False,0,Yes,6.94,6131.49,11,11,3,High,Moderate,Low,4
+PAT-2000-054,2023,quantum,1,CHN,hardware,False,1,No,14.84,6294.29,42,27,3,Medium,Moderate,Low,2
+PAT-2000-055,2023,ai_ml,3,USA,healthtech,True,0,Yes,99.11,1408.44,22,13,2,High,Significant,Medium,2
+PAT-2000-056,2023,blockchain,2,USA,fintech,False,0,No,35.06,3637.32,14,13,2,Medium,Moderate,Low,0
+PAT-2000-057,2022,cybersecurity,3,IND,fintech,False,1,Yes,6.75,6916.71,17,15,1,Medium,Significant,Medium,1
+PAT-2000-058,2022,blockchain,3,CHN,fintech,True,0,Yes,77.27,8336.35,18,13,3,Medium,Marginal,Very Low,2
+PAT-2000-059,2020,ai_ml,2,CHN,healthtech,False,1,Yes,253.57,8982.07,35,45,3,Medium,Moderate,Low,4
+PAT-2000-060,2020,ai_ml,3,GBR,fintech,False,1,Yes,33.04,9266.66,22,31,3,High,Moderate,Medium,2
+PAT-2000-061,2023,cybersecurity,3,USA,software,False,0,Yes,33.22,854.75,11,19,1,Medium,Significant,Low,1
+PAT-2000-062,2022,ai_ml,2,DEU,fintech,True,1,Yes,67.73,6604.11,21,43,3,Medium,Moderate,High,3
+PAT-2000-063,2022,iot,1,USA,hardware,True,1,Yes,264.09,3360.48,11,16,2,Medium,Marginal,Very Low,1
+PAT-2000-064,2023,ai_ml,2,USA,healthtech,True,0,Yes,17.26,1315.34,34,16,2,Low,Moderate,High,1
+PAT-2000-065,2023,blockchain,3,RUS,fintech,True,1,Yes,9.31,5158.76,5,28,1,Medium,Moderate,Medium,0
+PAT-2000-066,2022,cybersecurity,3,USA,telecom,False,1,No,6.04,3125.64,14,24,3,Medium,Moderate,Low,1
+PAT-2000-067,2022,iot,1,USA,hardware,True,0,No,6.98,3137.68,19,10,1,Medium,Marginal,Very Low,0
+PAT-2000-068,2021,cybersecurity,4,USA,software,False,1,No,14.92,4191.31,27,21,1,Low,Moderate,Low,2
+PAT-2000-069,2020,ai_ml,2,JPN,software,False,1,Yes,130.99,9518.29,44,34,2,Medium,Moderate,High,0
+PAT-2000-070,2022,iot,1,CHN,hardware,False,1,Yes,459.2,1810.61,14,25,3,High,Moderate,Low,4
+PAT-2000-071,2021,cybersecurity,3,USA,software,True,1,Yes,64.57,1704.68,8,14,1,High,Breakthrough,Very High,3
+PAT-2000-072,2022,blockchain,2,CHN,fintech,False,1,Yes,124.9,8404.97,19,27,2,Low,Marginal,Very Low,3
+PAT-2000-073,2024,ai_ml,2,USA,hardware,True,1,Yes,236.23,5102.34,32,46,2,Medium,Significant,Medium,4
+PAT-2000-074,2021,cybersecurity,3,USA,software,False,0,No,10.39,2345.42,18,9,3,Low,Moderate,Medium,3
+PAT-2000-075,2020,blockchain,3,USA,fintech,False,0,Yes,120.75,7783.91,7,8,2,High,Marginal,Very Low,3
+PAT-2000-076,2021,iot,4,IND,hardware,False,0,Yes,52.49,8037.25,9,11,1,Medium,Moderate,Medium,1
+PAT-2000-077,2021,cybersecurity,3,USA,fintech,True,1,Yes,134.89,1887.13,17,27,1,Medium,Moderate,Low,0
+PAT-2000-078,2023,ai_ml,1,GBR,healthtech,False,1,Yes,480.88,3915.84,49,46,3,Medium,Moderate,Low,3
+PAT-2000-079,2022,ai_ml,1,USA,software,False,1,No,4.61,5369.99,20,31,2,Low,Significant,Medium,1
+PAT-2000-080,2023,ai_ml,3,IND,healthtech,True,1,Yes,53.81,8204.63,40,51,2,Low,Significant,Very High,1
+PAT-2000-081,2023,blockchain,3,RUS,fintech,True,1,Yes,68.39,6389.27,16,26,2,Medium,Marginal,Very Low,2
+PAT-2000-082,2022,ai_ml,2,JPN,software,True,1,No,2.97,5717.32,34,34,3,Medium,Moderate,High,2
+PAT-2000-083,2023,iot,4,USA,hardware,True,1,Yes,436.85,9865.99,8,27,1,Low,Breakthrough,Very High,1
+PAT-2000-084,2021,ai_ml,3,USA,software,False,0,No,20.67,4736.57,25,27,3,Low,Moderate,High,4
+PAT-2000-085,2020,iot,1,CHN,software,False,1,No,48.16,3148.28,15,32,1,High,Significant,High,4
+PAT-2000-086,2020,ai_ml,1,USA,software,True,0,No,5.33,6055.81,23,15,3,High,Breakthrough,Medium,6
+PAT-2000-087,2023,blockchain,4,USA,telecom,False,0,No,54.21,8234.31,17,9,2,Medium,Marginal,Low,3
+PAT-2000-088,2022,ai_ml,3,USA,fintech,False,1,Yes,71.24,1211.69,40,25,3,Low,Moderate,High,4
+PAT-2000-089,2021,iot,3,IND,hardware,True,1,Yes,427.4,3278.04,12,22,2,Low,Marginal,Very Low,3
+PAT-2000-090,2022,blockchain,4,DEU,software,False,0,Yes,71.83,9854.84,7,9,3,Low,Marginal,Low,5
+PAT-2000-091,2021,blockchain,4,RUS,software,False,0,No,17.68,3414.28,5,10,3,High,Moderate,Medium,5
+PAT-2000-092,2023,cybersecurity,4,USA,software,False,1,Yes,500.0,7719.91,17,19,3,Medium,Moderate,Low,3
+PAT-2000-093,2022,iot,2,KOR,hardware,False,1,Yes,500.0,2947.13,12,32,2,Low,Significant,High,1
+PAT-2000-094,2022,ai_ml,2,USA,software,False,1,No,37.94,9784.15,15,34,2,High,Significant,Medium,2
+PAT-2000-095,2021,cybersecurity,3,USA,telecom,False,0,Yes,104.91,6560.7,19,14,2,Low,Moderate,Medium,1
+PAT-2000-096,2023,ai_ml,1,KOR,software,True,0,No,37.69,991.63,20,16,3,Medium,Moderate,Low,1
+PAT-2000-097,2022,ai_ml,3,GBR,software,False,1,Yes,88.48,627.85,33,43,3,Low,Marginal,Very Low,4
+PAT-2000-098,2020,blockchain,2,USA,fintech,False,0,Yes,45.11,8073.13,15,11,2,Medium,Marginal,Very Low,3
+PAT-2000-099,2020,ai_ml,3,IND,software,True,0,No,13.46,5369.54,26,18,2,Medium,Moderate,High,1
+PAT-2000-100,2024,ai_ml,2,CHN,healthtech,False,1,No,41.05,3647.79,26,33,2,Medium,Moderate,Medium,4
+PAT-2000-101,2024,iot,2,JPN,healthtech,True,1,Yes,122.42,9622.3,26,31,2,Low,Moderate,Low,1
+PAT-2000-102,2023,ai_ml,1,USA,software,True,0,No,113.82,1627.55,37,18,3,High,Significant,Medium,4
+PAT-2000-103,2021,quantum,2,USA,cybersecurity,True,1,Yes,112.43,6415.1,42,25,2,Medium,Significant,High,2
+PAT-2000-104,2024,cybersecurity,3,IND,telecom,True,1,Yes,64.45,564.38,20,28,1,Low,Moderate,High,1
+PAT-2000-105,2023,iot,2,KOR,hardware,False,0,Yes,500.0,643.79,14,9,1,Low,Marginal,Very Low,0
+PAT-2000-106,2023,iot,3,CHN,software,False,1,Yes,368.2,9817.91,27,24,1,Low,Marginal,Very Low,0
+PAT-2000-107,2022,iot,4,RUS,software,False,1,No,68.27,5208.77,25,27,2,Medium,Significant,High,2
+PAT-2000-108,2021,cybersecurity,3,GBR,software,False,1,Yes,29.78,8437.9,20,28,1,High,Marginal,Very Low,3
+PAT-2000-109,2020,ai_ml,1,DEU,software,True,1,Yes,405.08,1334.38,41,36,2,Low,Significant,Very High,2
+PAT-2000-110,2024,ai_ml,2,KOR,fintech,True,1,No,22.4,1332.91,42,31,2,Medium,Moderate,Medium,5
+PAT-2000-111,2022,iot,1,KOR,hardware,False,0,No,29.21,7525.04,20,12,3,Medium,Moderate,Low,1
+PAT-2000-112,2021,iot,2,KOR,hardware,True,1,No,8.15,1564.21,27,18,2,Low,Significant,Medium,3
+PAT-2000-113,2021,ai_ml,1,USA,software,True,0,Yes,17.37,8919.37,29,9,2,High,Moderate,Low,3
+PAT-2000-114,2022,iot,4,USA,hardware,False,0,No,5.85,4392.79,20,10,3,Medium,Moderate,High,4
+PAT-2000-115,2021,ai_ml,2,USA,healthtech,True,0,Yes,112.84,2006.72,33,9,2,Medium,Breakthrough,High,3
+PAT-2000-116,2024,cybersecurity,4,DEU,telecom,False,0,No,2.07,2178.08,13,10,2,Medium,Significant,Low,1
+PAT-2000-117,2023,ai_ml,2,KOR,software,False,0,Yes,116.57,1458.47,30,10,3,Medium,Marginal,Very Low,2
+PAT-2000-118,2023,ai_ml,1,DEU,software,True,1,No,8.34,6614.26,37,39,3,Low,Significant,Medium,5
+PAT-2000-119,2022,ai_ml,3,GBR,hardware,False,0,Yes,35.03,1551.52,46,7,2,Medium,Moderate,Medium,1
+PAT-2000-120,2023,ai_ml,1,CHN,healthtech,False,1,Yes,117.7,2597.63,50,42,3,High,Significant,Very High,5
+PAT-2000-121,2022,ai_ml,1,CHN,healthtech,False,1,Yes,220.89,9193.36,38,49,2,Medium,Moderate,Medium,2
+PAT-2000-122,2023,ai_ml,3,DEU,software,False,1,Yes,500.0,6710.48,45,43,3,Medium,Moderate,Medium,1
+PAT-2000-123,2020,ai_ml,2,CHN,software,False,1,Yes,87.89,8540.0,43,39,2,Medium,Breakthrough,Very High,2
+PAT-2000-124,2022,ai_ml,2,USA,software,False,1,Yes,107.34,1215.82,24,34,2,Medium,Marginal,Very Low,0
+PAT-2000-125,2020,blockchain,3,USA,fintech,True,1,Yes,166.81,2379.81,9,21,1,Medium,Moderate,Low,0
+PAT-2000-126,2022,blockchain,2,JPN,fintech,False,1,Yes,55.5,2901.56,7,21,2,Low,Marginal,Low,1
+PAT-2000-127,2021,ai_ml,3,USA,software,False,1,No,28.61,3536.62,34,49,3,High,Moderate,Low,6
+PAT-2000-128,2020,ai_ml,1,USA,software,True,1,No,22.55,4539.04,25,37,3,Medium,Breakthrough,Medium,3
+PAT-2000-129,2020,ai_ml,3,CHN,software,False,1,No,49.19,5174.17,48,40,3,Low,Breakthrough,Medium,5
+PAT-2000-130,2022,ai_ml,1,GBR,software,True,1,Yes,187.24,6310.26,15,34,2,Medium,Breakthrough,Very High,2
+PAT-2000-131,2021,ai_ml,1,GBR,software,True,0,No,32.81,3761.87,30,13,2,Medium,Significant,High,1
+PAT-2000-132,2024,quantum,2,CHN,hardware,False,1,Yes,154.72,4593.55,42,31,3,High,Moderate,Medium,3
+PAT-2000-133,2022,cybersecurity,1,GBR,software,True,1,No,4.14,4585.81,17,19,1,Medium,Significant,Medium,7
+PAT-2000-134,2021,cybersecurity,3,DEU,telecom,False,0,Yes,20.79,1763.95,29,12,2,Low,Marginal,Low,3
+PAT-2000-135,2022,iot,1,USA,hardware,True,1,Yes,44.03,9393.55,21,26,1,Medium,Significant,High,3
+PAT-2000-136,2020,iot,3,CHN,hardware,True,0,No,18.51,2021.4,25,8,1,Low,Marginal,Very Low,0
+PAT-2000-137,2024,ai_ml,3,USA,software,False,1,Yes,71.21,5747.92,21,43,2,Medium,Moderate,Medium,1
+PAT-2000-138,2022,quantum,1,GBR,hardware,True,1,No,10.07,7045.11,26,45,3,Medium,Significant,Very High,6
+PAT-2000-139,2023,quantum,1,GBR,hardware,True,0,No,197.45,4319.86,30,6,3,Medium,Breakthrough,Medium,3
+PAT-2000-140,2020,quantum,1,USA,hardware,True,1,No,15.41,6739.58,27,42,3,Medium,Breakthrough,Very High,4
+PAT-2000-141,2022,cybersecurity,2,USA,software,True,1,Yes,52.04,4366.14,14,27,2,Medium,Significant,High,5
+PAT-2000-142,2022,blockchain,2,CHN,fintech,False,1,Yes,122.4,4238.19,6,29,3,High,Marginal,Very Low,7
+PAT-2000-143,2024,quantum,1,USA,hardware,True,1,No,8.72,8935.95,37,22,3,Low,Significant,High,6
+PAT-2000-144,2022,quantum,1,CHN,cybersecurity,False,1,No,4.9,5946.35,41,31,2,Medium,Breakthrough,Very High,3
+PAT-2000-145,2022,ai_ml,3,USA,software,True,1,Yes,243.03,9629.05,30,25,2,Medium,Moderate,Medium,3
+PAT-2000-146,2021,cybersecurity,3,RUS,software,False,1,No,36.07,6349.21,29,19,2,High,Significant,Medium,3
+PAT-2000-147,2021,ai_ml,1,CHN,software,False,1,Yes,137.28,2981.56,18,36,3,Medium,Significant,Medium,7
+PAT-2000-148,2022,cybersecurity,2,KOR,fintech,False,0,Yes,64.69,3629.75,19,18,3,High,Moderate,Medium,4
+PAT-2000-149,2022,quantum,1,CHN,hardware,False,1,No,26.78,9970.84,21,33,2,Low,Breakthrough,Medium,1
+PAT-2000-150,2020,ai_ml,2,CHN,software,True,1,Yes,139.18,8675.65,50,36,3,High,Moderate,Medium,4
+PAT-2000-151,2023,iot,4,GBR,telecom,False,0,No,20.22,7366.23,9,5,2,Medium,Marginal,Very Low,0
+PAT-2000-152,2024,ai_ml,2,CHN,software,True,1,No,17.53,4601.97,42,33,2,Medium,Significant,Medium,3
+PAT-2000-153,2020,quantum,1,DEU,hardware,True,1,Yes,30.45,7055.22,50,37,2,Medium,Significant,Medium,3
+PAT-2000-154,2022,quantum,3,IND,hardware,False,0,No,157.3,3054.19,46,13,2,Medium,Significant,Low,1
+PAT-2000-155,2020,iot,2,DEU,hardware,True,1,Yes,500.0,5538.9,16,23,2,High,Significant,Medium,2
+PAT-2000-156,2023,cybersecurity,1,USA,software,False,1,Yes,249.22,1304.84,29,17,2,Medium,Moderate,Low,1
+PAT-2000-157,2021,ai_ml,3,USA,fintech,False,1,Yes,21.9,8535.3,42,54,2,Medium,Moderate,Medium,1
+PAT-2000-158,2023,ai_ml,1,DEU,software,True,1,No,43.09,8353.97,48,42,3,Low,Moderate,Medium,1
+PAT-2000-159,2023,blockchain,3,GBR,fintech,True,1,Yes,197.07,5000.91,9,19,1,Medium,Marginal,Low,2
+PAT-2000-160,2023,ai_ml,1,JPN,hardware,True,1,No,52.17,8915.31,35,43,3,Medium,Moderate,Medium,2
+PAT-2000-161,2020,blockchain,3,GBR,software,False,1,No,29.41,5610.82,11,22,1,Medium,Marginal,Very Low,0
+PAT-2000-162,2024,ai_ml,1,JPN,software,True,1,No,14.73,1920.11,21,37,2,Low,Moderate,Low,3
+PAT-2000-163,2021,blockchain,3,USA,fintech,True,1,No,46.81,1060.78,11,25,3,Medium,Moderate,Low,2
+PAT-2000-164,2020,blockchain,3,IND,software,False,1,Yes,263.43,7368.48,17,27,1,High,Marginal,Low,2
+PAT-2000-165,2022,cybersecurity,4,USA,software,False,1,No,13.15,689.26,15,24,2,Medium,Significant,Medium,1
+PAT-2000-166,2022,ai_ml,1,CHN,software,False,1,No,43.24,1697.08,30,48,3,Medium,Moderate,Medium,1
+PAT-2000-167,2023,cybersecurity,4,DEU,software,False,0,Yes,40.02,4971.08,16,11,1,Medium,Moderate,Low,2
+PAT-2000-168,2023,blockchain,3,GBR,fintech,True,1,Yes,91.2,6424.91,17,23,3,High,Marginal,Very Low,2
+PAT-2000-169,2021,ai_ml,1,CHN,software,False,1,No,2.78,3903.56,18,42,3,Low,Moderate,High,1
+PAT-2000-170,2024,iot,1,GBR,hardware,True,1,No,14.4,633.75,15,26,1,Low,Moderate,Low,3
+PAT-2000-171,2021,blockchain,3,IND,software,False,0,Yes,500.0,943.52,18,15,3,High,Marginal,Very Low,4
+PAT-2000-172,2022,ai_ml,1,USA,software,True,0,Yes,116.73,1898.42,32,10,3,Medium,Significant,Medium,4
+PAT-2000-173,2021,iot,2,USA,software,True,1,Yes,66.45,879.34,15,25,2,Low,Moderate,Medium,0
+PAT-2000-174,2024,ai_ml,1,USA,software,False,0,No,13.51,660.01,41,10,3,Medium,Breakthrough,Medium,4
+PAT-2000-175,2021,blockchain,3,RUS,software,True,1,No,12.37,2406.19,18,25,2,Low,Moderate,High,0
+PAT-2000-176,2020,iot,3,DEU,telecom,False,0,No,66.17,1850.9,27,12,1,High,Significant,Medium,6
+PAT-2000-177,2022,blockchain,2,CHN,software,True,1,Yes,81.79,3595.31,6,27,1,Medium,Marginal,Very Low,0
+PAT-2000-178,2024,quantum,1,DEU,hardware,True,1,No,116.21,3146.54,27,34,2,Medium,Significant,Very High,1
+PAT-2000-179,2024,ai_ml,2,USA,healthtech,True,1,Yes,194.69,2525.82,20,39,2,Medium,Moderate,Medium,0
+PAT-2000-180,2023,cybersecurity,4,USA,software,False,0,No,10.0,4064.04,16,8,1,Medium,Marginal,Low,5
+PAT-2000-181,2024,quantum,1,USA,cybersecurity,False,1,Yes,220.91,9239.2,19,42,3,Medium,Significant,High,3
+PAT-2000-182,2024,cybersecurity,2,CHN,software,False,1,No,181.31,5454.47,19,31,1,Low,Moderate,Medium,3
+PAT-2000-183,2022,quantum,3,USA,software,False,1,Yes,232.03,9887.66,24,34,2,Medium,Marginal,Very Low,2
+PAT-2000-184,2021,ai_ml,1,USA,healthtech,True,0,Yes,116.38,6050.41,37,24,3,Low,Moderate,Medium,3
+PAT-2000-185,2023,iot,1,DEU,hardware,False,1,No,17.18,8330.59,27,21,2,Medium,Moderate,Low,3
+PAT-2000-186,2023,ai_ml,2,JPN,healthtech,False,1,Yes,269.74,3065.84,21,30,3,Medium,Moderate,Medium,3
+PAT-2000-187,2022,quantum,1,GBR,cybersecurity,False,0,Yes,274.76,7189.31,26,10,2,Medium,Moderate,Medium,3
+PAT-2000-188,2020,iot,2,USA,software,True,0,Yes,77.41,1481.68,28,7,1,Medium,Breakthrough,Low,2
+PAT-2000-189,2023,ai_ml,1,DEU,healthtech,True,1,Yes,490.29,2214.58,45,42,3,Medium,Significant,High,5
+PAT-2000-190,2021,cybersecurity,1,DEU,software,False,1,No,9.92,9390.9,14,21,2,Medium,Significant,Medium,3
+PAT-2000-191,2024,ai_ml,1,JPN,software,True,1,No,129.76,1271.16,25,42,3,Low,Moderate,Medium,1
+PAT-2000-192,2021,iot,2,KOR,hardware,False,0,Yes,131.93,9220.9,9,6,2,High,Moderate,Low,1
+PAT-2000-193,2020,iot,4,USA,hardware,False,1,Yes,108.68,1045.21,10,24,1,Medium,Moderate,Low,1
+PAT-2000-194,2023,ai_ml,1,DEU,healthtech,True,1,Yes,500.0,1922.95,33,42,2,Medium,Significant,Medium,1
+PAT-2000-195,2021,iot,4,GBR,telecom,False,1,No,22.29,3912.97,16,29,3,Low,Significant,Very High,4
+PAT-2000-196,2021,quantum,2,CHN,cybersecurity,False,1,No,43.01,1219.86,15,48,3,Medium,Moderate,Low,4
+PAT-2000-197,2022,ai_ml,2,KOR,software,True,1,Yes,186.3,1796.41,24,43,3,High,Moderate,Medium,2
+PAT-2000-198,2024,iot,2,JPN,hardware,False,1,Yes,500.0,8744.32,28,19,2,Medium,Moderate,Low,1
+PAT-2000-199,2021,ai_ml,1,KOR,software,False,1,Yes,190.89,1157.16,29,36,2,Medium,Significant,Medium,4
+PAT-2000-200,2021,iot,1,CHN,hardware,False,1,No,6.68,1286.44,21,21,3,Low,Significant,Medium,5
+PAT-2000-201,2023,ai_ml,2,DEU,hardware,False,1,No,9.79,9495.82,44,36,3,Low,Moderate,High,3
+PAT-2000-202,2024,cybersecurity,3,GBR,software,False,1,Yes,26.46,4620.71,10,31,2,Medium,Marginal,Very Low,3
+PAT-2000-203,2022,cybersecurity,4,USA,software,False,0,No,19.31,3224.83,25,19,2,Medium,Significant,Medium,3
+PAT-2000-204,2020,ai_ml,3,RUS,software,False,1,Yes,88.31,8890.14,47,39,2,Low,Marginal,Very Low,1
+PAT-2000-205,2020,ai_ml,2,CHN,software,False,1,Yes,451.97,5424.56,49,37,2,Medium,Moderate,High,1
+PAT-2000-206,2021,iot,2,USA,telecom,True,1,Yes,7.06,6727.29,26,20,3,Low,Significant,High,4
+PAT-2000-207,2020,iot,2,CHN,hardware,False,1,Yes,83.2,8228.25,17,23,1,Low,Marginal,Low,1
+PAT-2000-208,2023,blockchain,4,IND,software,False,0,No,5.18,4932.4,6,12,2,Medium,Moderate,Medium,1
+PAT-2000-209,2020,ai_ml,1,DEU,fintech,True,1,Yes,352.71,3525.9,39,42,3,High,Significant,High,6
+PAT-2000-210,2022,ai_ml,1,USA,software,True,0,No,43.78,3182.77,19,21,3,Medium,Moderate,High,2
+PAT-2000-211,2023,cybersecurity,2,CHN,software,True,1,No,90.74,1687.93,23,20,3,High,Moderate,Low,3
+PAT-2000-212,2022,blockchain,2,CHN,fintech,False,1,Yes,10.78,1046.18,6,24,1,High,Moderate,Medium,4
+PAT-2000-213,2021,cybersecurity,2,JPN,software,False,0,Yes,63.46,5833.58,19,9,3,Low,Moderate,Medium,3
+PAT-2000-214,2023,blockchain,2,USA,fintech,True,1,No,23.6,9945.64,8,27,1,Medium,Marginal,Very Low,0
+PAT-2000-215,2023,cybersecurity,2,USA,software,False,0,Yes,238.99,3118.9,9,11,3,Low,Moderate,High,2
+PAT-2000-216,2023,ai_ml,3,CHN,software,True,1,No,19.29,8851.75,20,45,2,Medium,Significant,High,4
+PAT-2000-217,2020,ai_ml,1,CHN,fintech,False,1,Yes,61.57,7210.34,41,40,2,Low,Moderate,Medium,0
+PAT-2000-218,2020,cybersecurity,4,USA,software,False,0,Yes,109.82,7345.42,12,9,1,Medium,Significant,Low,5
+PAT-2000-219,2024,cybersecurity,2,KOR,telecom,False,1,Yes,96.85,9798.51,20,18,2,Low,Moderate,Medium,2
+PAT-2000-220,2022,ai_ml,1,DEU,software,False,1,No,44.85,1066.29,19,43,2,High,Breakthrough,Very High,6
+PAT-2000-221,2021,blockchain,3,CHN,fintech,True,0,No,93.78,756.2,15,9,2,Medium,Marginal,Very Low,2
+PAT-2000-222,2022,blockchain,2,CHN,fintech,False,1,Yes,123.24,5899.39,6,23,3,High,Moderate,Medium,7
+PAT-2000-223,2023,blockchain,4,RUS,software,False,1,Yes,125.32,6732.85,11,24,2,Medium,Marginal,Very Low,1
+PAT-2000-224,2024,ai_ml,1,USA,software,True,1,No,31.57,5578.31,24,46,2,Medium,Breakthrough,High,1
+PAT-2000-225,2021,cybersecurity,1,USA,software,True,1,No,304.38,9487.03,24,20,2,Medium,Marginal,Low,2
+PAT-2000-226,2024,ai_ml,1,USA,software,True,1,No,35.4,9075.05,34,36,3,High,Significant,Medium,3
+PAT-2000-227,2020,iot,1,JPN,healthtech,True,1,Yes,500.0,7614.98,14,22,1,Medium,Moderate,Medium,0
+PAT-2000-228,2022,ai_ml,1,GBR,healthtech,False,0,No,39.75,7499.29,22,13,3,Low,Significant,Medium,3
+PAT-2000-229,2023,ai_ml,3,USA,software,False,0,No,12.57,1927.52,34,16,2,Medium,Significant,Low,4
+PAT-2000-230,2020,iot,2,KOR,telecom,False,1,No,6.45,5681.67,25,17,2,High,Marginal,Very Low,3
+PAT-2000-231,2020,ai_ml,2,USA,healthtech,False,1,Yes,47.61,541.97,25,40,3,Medium,Significant,Very High,4
+PAT-2000-232,2022,iot,4,RUS,telecom,False,0,Yes,500.0,5165.18,21,7,2,Medium,Marginal,Very Low,2
+PAT-2000-233,2024,ai_ml,2,CHN,software,False,1,No,142.35,9343.69,34,28,2,High,Marginal,Very Low,2
+PAT-2000-234,2022,cybersecurity,3,CHN,software,False,0,Yes,141.28,6751.19,9,9,2,Low,Moderate,High,1
+PAT-2000-235,2024,iot,2,CHN,hardware,True,1,Yes,49.11,5844.04,28,33,2,Low,Moderate,Medium,0
+PAT-2000-236,2023,cybersecurity,2,USA,software,True,0,Yes,142.89,5078.91,28,10,2,Low,Marginal,Low,2
+PAT-2000-237,2022,ai_ml,1,CHN,healthtech,False,1,No,16.7,2203.25,27,36,2,Medium,Moderate,Medium,2
+PAT-2000-238,2023,ai_ml,1,DEU,fintech,True,1,Yes,6.54,1886.29,31,43,3,Medium,Significant,High,4
+PAT-2000-239,2020,blockchain,3,USA,fintech,False,1,Yes,500.0,8111.39,16,27,3,Medium,Marginal,Very Low,3
+PAT-2000-240,2020,iot,3,IND,hardware,False,1,Yes,461.13,3616.91,12,22,3,Medium,Moderate,Medium,5
+PAT-2000-241,2023,ai_ml,2,CHN,software,True,1,Yes,101.04,7486.38,34,37,2,Medium,Moderate,Medium,2
+PAT-2000-242,2023,ai_ml,2,USA,software,True,0,No,30.39,9584.26,17,19,3,Low,Significant,Medium,3
+PAT-2000-243,2021,blockchain,4,USA,fintech,False,0,No,19.9,7922.49,18,10,1,Medium,Marginal,Very Low,1
+PAT-2000-244,2022,ai_ml,2,USA,fintech,False,1,Yes,119.13,4973.04,45,37,3,High,Moderate,High,3
+PAT-2000-245,2023,blockchain,3,USA,telecom,False,0,Yes,47.82,4318.65,8,19,2,Low,Moderate,Medium,1
+PAT-2000-246,2024,ai_ml,2,JPN,software,True,1,Yes,32.23,5668.58,31,30,3,Medium,Marginal,Very Low,3
+PAT-2000-247,2023,ai_ml,1,DEU,software,False,1,No,3.56,7899.84,31,33,2,Medium,Breakthrough,Medium,2
+PAT-2000-248,2022,iot,2,JPN,hardware,False,1,No,10.06,1521.92,27,20,3,Medium,Marginal,Low,5
+PAT-2000-249,2022,blockchain,2,USA,fintech,False,1,Yes,22.26,3742.87,19,19,1,Low,Marginal,Low,1
+PAT-2000-250,2022,ai_ml,2,KOR,software,False,1,Yes,345.06,8272.53,17,39,3,Low,Significant,Medium,4
+PAT-2000-251,2023,iot,1,CHN,hardware,False,1,No,133.02,5905.16,25,24,2,Low,Moderate,Medium,5
+PAT-2000-252,2024,quantum,2,DEU,hardware,True,1,Yes,15.89,8737.63,39,51,3,Medium,Moderate,Medium,4
+PAT-2000-253,2022,blockchain,3,CHN,fintech,False,1,No,15.0,6928.71,6,34,2,High,Marginal,Low,2
+PAT-2000-254,2021,iot,4,RUS,telecom,False,1,No,26.44,7287.0,21,31,3,Medium,Moderate,Medium,5
+PAT-2000-255,2021,cybersecurity,4,RUS,software,False,0,No,6.18,3391.48,27,14,3,Medium,Marginal,Very Low,1
+PAT-2000-256,2023,iot,2,JPN,telecom,True,1,Yes,44.68,4190.24,10,28,1,Low,Significant,High,2
+PAT-2000-257,2023,cybersecurity,2,JPN,software,False,1,Yes,251.83,8876.1,18,25,2,Medium,Moderate,Low,0
+PAT-2000-258,2020,quantum,1,USA,hardware,True,1,No,13.27,8856.45,21,31,2,Low,Breakthrough,High,1
+PAT-2000-259,2020,ai_ml,1,USA,software,True,1,No,27.24,4966.0,18,36,2,Low,Significant,Very High,2
+PAT-2000-260,2022,blockchain,2,USA,fintech,True,1,Yes,500.0,8553.33,19,31,3,Low,Marginal,Low,5
+PAT-2000-261,2020,iot,2,DEU,healthtech,True,1,Yes,494.06,4336.56,23,41,1,Medium,Significant,Very High,1
+PAT-2000-262,2023,cybersecurity,3,CHN,telecom,True,0,No,65.69,5874.81,8,14,2,High,Moderate,Low,5
+PAT-2000-263,2021,blockchain,3,DEU,fintech,False,1,Yes,6.88,9151.76,10,24,1,Low,Marginal,Low,2
+PAT-2000-264,2020,ai_ml,2,CHN,software,True,0,No,17.54,5674.67,25,18,3,Medium,Significant,Medium,3
+PAT-2000-265,2024,iot,2,DEU,hardware,True,0,Yes,22.2,8499.32,16,10,1,Low,Moderate,Medium,1
+PAT-2000-266,2021,ai_ml,1,USA,software,True,1,Yes,83.79,2894.68,24,34,2,High,Moderate,Medium,4
+PAT-2000-267,2021,quantum,3,DEU,hardware,False,0,Yes,191.59,9428.69,38,21,2,Medium,Moderate,Low,3
+PAT-2000-268,2021,iot,2,USA,hardware,True,1,Yes,458.4,9723.63,9,31,1,Medium,Moderate,Medium,2
+PAT-2000-269,2020,iot,4,IND,hardware,False,0,Yes,39.35,5788.89,15,10,1,Low,Moderate,High,2
+PAT-2000-270,2020,cybersecurity,3,IND,software,True,1,No,122.45,1873.1,8,24,1,Medium,Moderate,High,1
+PAT-2000-271,2020,iot,3,GBR,telecom,True,0,Yes,107.81,2237.2,10,9,1,Medium,Moderate,Low,1
+PAT-2000-272,2021,iot,4,RUS,hardware,False,1,Yes,175.91,7348.1,22,22,1,High,Moderate,Low,3
+PAT-2000-273,2020,quantum,1,CHN,hardware,False,1,Yes,11.81,4163.67,16,40,3,Medium,Moderate,Low,2
+PAT-2000-274,2022,quantum,2,JPN,hardware,True,0,Yes,406.0,7515.94,25,7,2,Medium,Moderate,Low,2
+PAT-2000-275,2023,cybersecurity,3,DEU,software,True,1,Yes,46.34,6813.77,17,27,2,Medium,Moderate,Low,3
+PAT-2000-276,2022,ai_ml,2,USA,software,True,1,Yes,93.24,3517.1,28,19,2,High,Marginal,Very Low,2
+PAT-2000-277,2021,iot,3,CHN,telecom,False,1,No,26.92,4505.58,19,24,2,Medium,Significant,High,3
+PAT-2000-278,2022,ai_ml,1,DEU,healthtech,True,1,Yes,260.44,2828.72,40,39,3,Low,Breakthrough,High,3
+PAT-2000-279,2024,cybersecurity,2,KOR,software,False,1,Yes,97.62,5818.94,20,28,3,High,Significant,Very High,6
+PAT-2000-280,2024,iot,1,USA,hardware,False,1,No,33.24,5033.18,18,20,1,Medium,Marginal,Low,1
+PAT-2000-281,2020,blockchain,4,RUS,fintech,False,0,Yes,86.79,4334.62,10,3,1,Low,Marginal,Low,2
+PAT-2000-282,2021,ai_ml,2,CHN,software,False,1,No,11.36,5015.86,23,27,3,Medium,Moderate,Medium,2
+PAT-2000-283,2021,ai_ml,1,DEU,software,False,1,No,9.01,5846.63,45,45,3,Low,Significant,Very High,4
+PAT-2000-284,2021,iot,3,USA,telecom,False,1,Yes,98.58,3386.14,11,15,3,Low,Moderate,High,3
+PAT-2000-285,2022,ai_ml,3,USA,software,False,0,No,10.61,4852.35,45,9,3,Medium,Marginal,Very Low,1
+PAT-2000-286,2022,ai_ml,3,IND,healthtech,True,0,Yes,207.23,9910.75,30,12,3,Low,Marginal,Very Low,2
+PAT-2000-287,2020,cybersecurity,1,USA,software,True,1,Yes,96.25,7373.61,16,25,1,High,Marginal,Low,1
+PAT-2000-288,2022,quantum,3,USA,software,False,1,Yes,107.32,7510.96,40,42,3,High,Significant,High,5
+PAT-2000-289,2022,ai_ml,2,USA,software,True,1,Yes,18.86,2902.55,21,39,2,Low,Significant,High,1
+PAT-2000-290,2020,ai_ml,1,CHN,healthtech,True,1,No,19.55,798.4,47,42,3,High,Significant,Very High,5
+PAT-2000-291,2023,cybersecurity,2,USA,software,True,1,No,36.15,3632.97,11,23,3,Medium,Marginal,Very Low,3
+PAT-2000-292,2020,iot,3,IND,telecom,True,0,Yes,280.12,4526.08,22,11,2,Low,Moderate,High,1
+PAT-2000-293,2024,iot,2,JPN,hardware,True,1,Yes,139.96,3352.42,21,23,2,Low,Marginal,Low,1
+PAT-2000-294,2020,ai_ml,1,USA,software,False,1,No,24.54,9757.51,18,45,2,Low,Significant,Very High,2
+PAT-2000-295,2023,ai_ml,2,USA,fintech,False,0,No,15.41,1640.57,40,13,2,Medium,Moderate,Low,3
+PAT-2000-296,2024,ai_ml,3,USA,healthtech,True,0,No,20.06,5367.99,30,9,3,Medium,Moderate,High,4
+PAT-2000-297,2024,iot,2,DEU,hardware,True,1,Yes,94.05,8361.06,17,25,1,Medium,Moderate,Medium,1
+PAT-2000-298,2023,ai_ml,1,CHN,software,False,0,No,39.81,7934.68,45,15,2,Medium,Breakthrough,Medium,2
+PAT-2000-299,2023,ai_ml,2,CHN,software,False,0,Yes,309.44,6005.76,36,10,2,Low,Moderate,Low,0
+PAT-2000-300,2023,iot,3,RUS,software,False,1,Yes,24.35,2366.99,17,32,3,High,Significant,High,6
+PAT-2000-301,2023,cybersecurity,2,USA,software,True,1,Yes,190.68,4679.58,29,35,2,Medium,Marginal,Very Low,1
+PAT-2000-302,2020,quantum,3,DEU,hardware,False,1,Yes,67.4,1818.96,43,28,2,Low,Significant,Medium,2
+PAT-2000-303,2022,blockchain,4,USA,fintech,False,1,No,87.72,7342.49,6,31,3,Medium,Moderate,Medium,5
+PAT-2000-304,2022,blockchain,2,USA,fintech,False,1,Yes,156.87,3959.0,15,22,1,Medium,Moderate,Medium,1
+PAT-2000-305,2024,blockchain,3,CHN,fintech,False,0,No,35.17,6565.67,19,13,2,Medium,Significant,Low,4
+PAT-2000-306,2022,ai_ml,3,DEU,healthtech,False,1,Yes,159.5,6586.8,30,37,3,High,Moderate,High,2
+PAT-2000-307,2022,iot,4,RUS,hardware,False,1,No,6.9,5628.19,13,28,2,Low,Moderate,Medium,5
+PAT-2000-308,2023,blockchain,2,USA,software,True,1,Yes,500.0,7827.82,12,25,1,Medium,Marginal,Very Low,3
+PAT-2000-309,2021,iot,2,USA,hardware,True,1,Yes,55.92,1397.46,10,27,3,High,Moderate,Medium,6
+PAT-2000-310,2020,cybersecurity,2,JPN,software,False,0,Yes,500.0,3585.86,17,10,1,Low,Moderate,Medium,0
+PAT-2000-311,2022,cybersecurity,3,GBR,telecom,True,0,No,8.11,7159.99,14,11,2,Medium,Marginal,Low,0
+PAT-2000-312,2022,ai_ml,1,DEU,software,True,1,Yes,79.95,2536.29,45,42,2,Medium,Significant,High,3
+PAT-2000-313,2021,blockchain,3,DEU,fintech,False,0,Yes,73.97,4583.04,5,10,2,Medium,Moderate,Low,1
+PAT-2000-314,2022,ai_ml,1,JPN,software,False,1,No,21.55,6701.19,27,27,3,Medium,Breakthrough,High,4
+PAT-2000-315,2022,blockchain,3,CHN,fintech,False,1,No,128.48,9932.44,5,26,3,Medium,Moderate,Low,2
+PAT-2000-316,2021,ai_ml,3,GBR,healthtech,False,0,No,17.87,3821.67,44,9,2,High,Moderate,Medium,4
+PAT-2000-317,2022,ai_ml,2,JPN,software,True,1,Yes,18.75,4449.7,21,46,3,Medium,Moderate,High,3
+PAT-2000-318,2023,quantum,2,USA,cybersecurity,False,1,No,26.4,4366.6,39,39,2,High,Moderate,Low,4
+PAT-2000-319,2021,blockchain,2,USA,software,False,0,No,8.04,6646.45,14,15,1,Medium,Moderate,Low,0
+PAT-2000-320,2024,cybersecurity,2,CHN,telecom,False,1,No,21.34,2518.98,17,23,1,Medium,Moderate,Low,0
+PAT-2000-321,2024,ai_ml,1,USA,software,True,1,No,37.33,8865.17,20,36,3,Medium,Moderate,Medium,6
+PAT-2000-322,2022,ai_ml,1,USA,software,True,1,Yes,302.88,2679.82,28,36,3,Medium,Moderate,Medium,5
+PAT-2000-323,2021,blockchain,3,USA,fintech,False,0,Yes,500.0,9324.13,18,14,1,Medium,Marginal,Very Low,1
+PAT-2000-324,2022,ai_ml,2,CHN,software,False,1,No,21.06,5731.41,30,27,3,Low,Breakthrough,Medium,4
+PAT-2000-325,2023,ai_ml,1,JPN,software,False,1,No,9.24,8836.32,22,42,2,Medium,Significant,High,3
+PAT-2000-326,2023,cybersecurity,2,CHN,software,False,1,Yes,500.0,1491.45,29,23,1,High,Marginal,Very Low,2
+PAT-2000-327,2023,ai_ml,3,CHN,fintech,False,0,Yes,134.79,3603.41,23,13,3,Low,Moderate,High,2
+PAT-2000-328,2022,ai_ml,1,CHN,software,False,1,Yes,500.0,2476.42,49,45,2,Low,Moderate,Medium,2
+PAT-2000-329,2023,iot,2,USA,telecom,False,1,Yes,341.25,6152.02,15,22,2,Medium,Significant,Medium,2
+PAT-2000-330,2021,blockchain,2,DEU,fintech,False,1,No,9.07,3924.56,8,23,1,High,Marginal,Very Low,3
+PAT-2000-331,2023,iot,1,JPN,telecom,True,1,No,34.95,1625.14,24,13,1,Medium,Significant,Very High,2
+PAT-2000-332,2021,blockchain,3,GBR,fintech,True,0,No,15.83,6187.61,7,14,2,Low,Marginal,Low,0
+PAT-2000-333,2023,quantum,1,CHN,hardware,False,1,No,32.86,8407.88,20,30,3,Medium,Moderate,Low,2
+PAT-2000-334,2024,ai_ml,2,USA,healthtech,False,0,Yes,176.04,2171.71,17,15,3,Low,Moderate,Medium,2
+PAT-2000-335,2020,blockchain,3,USA,fintech,False,0,Yes,452.58,9158.27,10,18,3,Low,Moderate,Medium,4
+PAT-2000-336,2023,iot,2,JPN,telecom,True,0,Yes,129.01,5635.44,25,14,2,Low,Significant,Medium,2
+PAT-2000-337,2020,cybersecurity,3,IND,software,True,0,Yes,152.74,1648.77,17,11,3,Medium,Significant,Medium,3
+PAT-2000-338,2023,blockchain,3,USA,software,False,0,Yes,83.86,2997.78,17,13,2,Low,Moderate,Medium,1
+PAT-2000-339,2020,iot,1,USA,telecom,False,1,No,43.32,4663.93,19,27,2,Medium,Significant,Very High,3
+PAT-2000-340,2024,ai_ml,2,CHN,software,False,1,Yes,107.93,4267.47,43,28,3,Medium,Moderate,Medium,1
+PAT-2000-341,2020,ai_ml,3,RUS,fintech,False,0,No,19.6,2999.67,20,6,3,High,Moderate,Low,4
+PAT-2000-342,2024,ai_ml,2,CHN,healthtech,False,1,Yes,138.57,8186.31,39,28,2,High,Significant,High,6
+PAT-2000-343,2023,iot,2,USA,telecom,True,0,Yes,239.26,6203.37,24,13,3,Low,Significant,High,6
+PAT-2000-344,2022,ai_ml,1,USA,fintech,False,1,Yes,86.65,8909.65,20,22,3,High,Significant,High,3
+PAT-2000-345,2023,iot,1,CHN,telecom,False,1,No,21.52,4280.08,14,22,3,Low,Moderate,Low,3
+PAT-2000-346,2023,ai_ml,1,JPN,software,False,1,No,17.83,4481.34,49,28,3,Medium,Breakthrough,Medium,3
+PAT-2000-347,2024,cybersecurity,4,DEU,software,False,0,No,24.17,6690.75,14,6,3,Medium,Significant,Low,3
+PAT-2000-348,2021,quantum,1,CHN,hardware,False,1,Yes,500.0,9457.87,35,46,3,Low,Moderate,Low,1
+PAT-2000-349,2022,ai_ml,1,KOR,software,False,0,No,10.64,1800.43,38,22,2,High,Significant,High,2
+PAT-2000-350,2020,ai_ml,3,USA,hardware,False,1,Yes,14.37,2559.83,46,30,3,Medium,Moderate,High,2
+PAT-2000-351,2023,ai_ml,1,CHN,software,True,1,No,20.92,5603.23,43,37,2,Medium,Breakthrough,Medium,3
+PAT-2000-352,2021,cybersecurity,1,JPN,software,True,1,No,57.67,2165.1,15,32,3,Low,Moderate,Low,3
+PAT-2000-353,2022,ai_ml,2,CHN,healthtech,False,1,No,12.49,5215.82,30,37,2,Low,Significant,Medium,3
+PAT-2000-354,2022,iot,1,USA,hardware,True,1,No,35.42,8554.18,20,28,2,High,Moderate,Low,2
+PAT-2000-355,2022,blockchain,3,USA,telecom,True,1,Yes,157.68,3737.76,16,23,2,Low,Marginal,Low,0
+PAT-2000-356,2022,quantum,2,CHN,hardware,False,0,Yes,500.0,4306.22,24,12,2,Low,Marginal,Low,2
+PAT-2000-357,2023,blockchain,2,CHN,fintech,False,1,No,27.37,646.05,14,31,1,Medium,Marginal,Low,1
+PAT-2000-358,2023,iot,2,CHN,telecom,True,0,Yes,58.08,7639.93,29,8,3,Low,Significant,Low,3
+PAT-2000-359,2022,cybersecurity,4,USA,software,False,1,Yes,169.9,4743.89,17,24,1,Medium,Moderate,High,1
+PAT-2000-360,2022,ai_ml,1,CHN,healthtech,False,1,No,32.0,8409.79,38,34,3,High,Moderate,Medium,4
+PAT-2000-361,2024,quantum,1,DEU,hardware,True,1,Yes,285.47,8391.95,48,42,3,Low,Breakthrough,Medium,4
+PAT-2000-362,2020,ai_ml,1,KOR,software,False,1,No,25.39,4378.8,49,33,3,High,Moderate,High,6
+PAT-2000-363,2020,blockchain,3,IND,telecom,False,0,No,7.53,3412.17,7,9,3,Medium,Marginal,Very Low,5
+PAT-2000-364,2020,cybersecurity,2,CHN,telecom,False,1,Yes,33.33,9239.64,17,28,1,Low,Significant,Medium,2
+PAT-2000-365,2023,iot,2,CHN,healthtech,False,1,Yes,97.14,2693.58,13,19,3,Low,Moderate,Medium,4
+PAT-2000-366,2022,iot,3,GBR,telecom,False,1,No,132.11,7909.49,9,32,2,Medium,Significant,Medium,1
+PAT-2000-367,2023,ai_ml,3,RUS,software,True,1,No,40.99,3925.54,19,39,3,Low,Moderate,Medium,3
+PAT-2000-368,2023,blockchain,2,USA,fintech,True,1,Yes,25.23,7615.82,19,25,2,High,Marginal,Very Low,3
+PAT-2000-369,2021,blockchain,4,RUS,fintech,False,1,No,18.79,768.01,18,21,3,Medium,Moderate,High,1
+PAT-2000-370,2024,iot,2,CHN,software,False,1,Yes,11.07,7951.18,27,25,2,Medium,Marginal,Low,1
+PAT-2000-371,2023,blockchain,2,CHN,software,False,1,Yes,212.55,2243.18,9,27,2,Medium,Moderate,Low,2
+PAT-2000-372,2021,ai_ml,3,USA,fintech,False,0,Yes,60.41,5530.66,33,13,2,Medium,Moderate,Low,1
+PAT-2000-373,2022,ai_ml,2,JPN,software,True,1,Yes,143.27,4872.18,31,40,3,Medium,Moderate,Medium,2
+PAT-2000-374,2021,ai_ml,2,CHN,software,False,0,Yes,54.61,6956.57,25,21,3,Medium,Marginal,Very Low,2
+PAT-2000-375,2021,blockchain,3,GBR,fintech,False,1,No,27.76,3261.57,19,26,1,Low,Moderate,Medium,1
+PAT-2000-376,2020,ai_ml,1,CHN,software,False,1,Yes,145.06,3649.8,29,40,2,Medium,Moderate,High,1
+PAT-2000-377,2024,cybersecurity,4,GBR,software,True,0,Yes,500.0,8327.75,20,8,2,Medium,Moderate,Medium,0
+PAT-2000-378,2022,iot,1,USA,hardware,True,1,No,4.85,3729.63,25,27,2,High,Marginal,Very Low,3
+PAT-2000-379,2022,ai_ml,3,IND,software,False,0,No,10.51,2359.02,39,12,3,Medium,Moderate,High,2
+PAT-2000-380,2023,iot,1,USA,software,False,1,Yes,123.77,7525.17,23,31,1,Low,Significant,High,2
+PAT-2000-381,2022,quantum,2,CHN,hardware,False,1,Yes,13.97,3571.22,45,49,3,Low,Marginal,Very Low,2
+PAT-2000-382,2024,ai_ml,3,USA,fintech,True,1,Yes,388.71,9722.8,44,46,3,Low,Moderate,Low,4
+PAT-2000-383,2023,ai_ml,3,IND,fintech,True,1,Yes,63.07,4633.09,41,33,2,Low,Significant,Very High,3
+PAT-2000-384,2022,ai_ml,1,DEU,software,True,1,Yes,183.91,3660.21,49,46,2,Low,Moderate,Medium,2
+PAT-2000-385,2022,ai_ml,2,USA,software,True,1,Yes,11.75,5013.3,45,40,2,High,Moderate,Medium,2
+PAT-2000-386,2024,quantum,1,CHN,hardware,True,0,No,8.28,7575.33,36,4,3,Medium,Breakthrough,Medium,3
+PAT-2000-387,2023,cybersecurity,2,USA,fintech,True,1,Yes,156.77,7484.76,24,20,1,High,Moderate,Low,1
+PAT-2000-388,2024,ai_ml,3,USA,software,False,1,No,12.63,4771.15,21,34,3,Medium,Marginal,Very Low,6
+PAT-2000-389,2020,iot,3,DEU,hardware,False,0,Yes,14.49,1636.67,26,14,3,Medium,Moderate,Medium,4
+PAT-2000-390,2024,ai_ml,2,USA,software,False,1,No,11.94,4084.62,18,34,3,Medium,Marginal,Very Low,5
+PAT-2000-391,2023,iot,3,GBR,software,True,0,No,82.62,2634.63,8,8,2,Medium,Significant,Medium,3
+PAT-2000-392,2020,quantum,1,USA,hardware,False,1,No,15.14,4832.84,16,40,3,Medium,Breakthrough,Medium,5
+PAT-2000-393,2022,blockchain,2,USA,fintech,True,1,No,34.81,6277.86,9,27,3,High,Significant,High,5
+PAT-2000-394,2023,ai_ml,2,JPN,software,True,1,Yes,43.15,8403.91,23,19,3,Medium,Moderate,High,1
+PAT-2000-395,2020,iot,1,DEU,hardware,True,0,Yes,346.19,5041.62,11,14,1,Low,Moderate,Low,1
+PAT-2000-396,2022,cybersecurity,4,USA,software,False,0,No,4.53,1467.82,25,10,2,Low,Marginal,Very Low,2
+PAT-2000-397,2023,ai_ml,3,GBR,healthtech,True,1,Yes,500.0,6419.65,44,51,3,Medium,Marginal,Low,6
+PAT-2000-398,2021,ai_ml,2,USA,healthtech,True,1,Yes,122.1,7022.63,25,49,2,Medium,Significant,Medium,3
+PAT-2000-399,2022,ai_ml,3,CHN,software,False,0,Yes,53.73,4153.42,35,13,3,Low,Significant,Medium,4
+PAT-2000-400,2022,iot,2,JPN,telecom,True,1,Yes,490.87,5341.68,15,24,2,Medium,Significant,Medium,2
+PAT-2001-001,2021,iot,2,USA,hardware,False,1,Yes,338.37,6305.33,25,23,2,High,Moderate,Low,2
+PAT-2001-002,2024,quantum,2,USA,hardware,True,1,Yes,159.8,2527.56,20,42,3,Medium,Moderate,Low,4
+PAT-2001-003,2023,quantum,1,KOR,hardware,False,1,No,62.17,1151.2,26,45,3,Low,Breakthrough,Medium,5
+PAT-2001-004,2020,cybersecurity,1,CHN,software,True,1,No,32.14,8509.93,23,21,1,High,Marginal,Very Low,2
+PAT-2001-005,2024,quantum,3,CHN,hardware,True,1,Yes,55.42,5442.01,42,33,3,Low,Marginal,Low,5
+PAT-2001-006,2024,ai_ml,2,CHN,software,True,0,Yes,32.35,5106.5,31,19,2,Medium,Moderate,Low,5
+PAT-2001-007,2021,iot,2,USA,hardware,True,1,Yes,87.55,7756.2,16,26,1,High,Moderate,Medium,1
+PAT-2001-008,2023,ai_ml,2,USA,software,True,1,Yes,500.0,5895.96,15,40,3,Medium,Moderate,High,5
+PAT-2001-009,2020,ai_ml,2,CHN,software,True,1,Yes,33.86,6981.33,38,28,3,Medium,Moderate,High,2
+PAT-2001-010,2024,cybersecurity,1,USA,software,False,1,No,8.14,1937.31,18,16,2,Medium,Moderate,Low,4
+PAT-2001-011,2023,iot,4,GBR,hardware,True,0,Yes,84.89,7110.15,13,13,3,Medium,Moderate,Medium,4
+PAT-2001-012,2023,cybersecurity,2,JPN,software,False,1,Yes,65.44,8039.69,18,20,3,Medium,Significant,Medium,4
+PAT-2001-013,2020,blockchain,2,USA,fintech,True,1,Yes,161.32,3505.31,11,24,3,Medium,Moderate,Medium,4
+PAT-2001-014,2024,iot,3,USA,hardware,True,0,Yes,134.69,2681.19,29,14,3,Low,Moderate,Medium,2
+PAT-2001-015,2020,blockchain,3,USA,fintech,False,0,No,4.68,3474.8,7,9,3,Low,Marginal,Low,1
+PAT-2001-016,2021,ai_ml,2,CHN,software,False,1,Yes,113.79,4313.39,21,37,2,Medium,Marginal,Low,0
+PAT-2001-017,2020,ai_ml,1,JPN,software,True,1,No,33.14,9136.49,42,45,3,Medium,Breakthrough,Medium,5
+PAT-2001-018,2023,iot,1,USA,software,False,1,Yes,70.34,8185.09,20,24,2,Low,Moderate,Medium,2
+PAT-2001-019,2021,ai_ml,2,KOR,healthtech,False,1,Yes,500.0,5637.05,19,33,2,High,Moderate,Medium,2
+PAT-2001-020,2024,cybersecurity,2,CHN,software,False,1,Yes,281.82,7198.5,10,23,2,High,Marginal,Very Low,1
+PAT-2001-021,2023,ai_ml,2,CHN,software,False,0,Yes,36.48,8463.82,26,18,3,High,Moderate,Medium,2
+PAT-2001-022,2020,ai_ml,3,USA,software,True,1,Yes,117.96,7459.03,39,33,3,Medium,Marginal,Very Low,1
+PAT-2001-023,2020,quantum,1,JPN,cybersecurity,True,1,Yes,500.0,3048.57,42,34,3,Medium,Moderate,Medium,3
+PAT-2001-024,2020,ai_ml,2,DEU,fintech,True,1,Yes,500.0,6957.02,21,40,3,Medium,Moderate,Low,3
+PAT-2001-025,2023,cybersecurity,4,DEU,software,False,1,Yes,500.0,3683.5,29,21,1,High,Moderate,Low,2
+PAT-2001-026,2023,iot,3,GBR,telecom,True,1,Yes,500.0,3317.99,13,26,2,Low,Moderate,Low,0
+PAT-2001-027,2021,ai_ml,1,GBR,hardware,True,1,Yes,131.83,3449.74,31,40,3,Medium,Significant,Very High,5
+PAT-2001-028,2023,iot,2,DEU,hardware,True,1,Yes,311.71,3507.75,27,23,3,Low,Marginal,Low,2
+PAT-2001-029,2020,iot,1,USA,software,False,1,No,20.13,6815.86,10,16,3,Low,Marginal,Low,4
+PAT-2001-030,2023,quantum,2,USA,software,False,1,Yes,312.1,9414.49,40,25,2,Medium,Significant,Very High,4
+PAT-2001-031,2024,quantum,1,CHN,software,False,1,Yes,92.87,3592.75,42,40,3,High,Breakthrough,Medium,5
+PAT-2001-032,2023,iot,3,DEU,telecom,False,1,No,28.37,8246.33,9,26,2,High,Moderate,Low,2
+PAT-2001-033,2023,iot,4,USA,hardware,False,0,No,99.04,2624.3,14,8,1,Medium,Marginal,Low,3
+PAT-2001-034,2023,ai_ml,1,DEU,healthtech,True,1,No,44.54,818.18,24,39,2,Medium,Breakthrough,High,5
+PAT-2001-035,2020,iot,3,USA,hardware,False,0,No,9.35,9937.3,21,12,2,High,Marginal,Very Low,3
+PAT-2001-036,2021,cybersecurity,3,CHN,software,False,1,No,39.23,4221.5,15,24,1,Medium,Moderate,High,0
+PAT-2001-037,2020,iot,1,USA,hardware,True,1,No,16.42,7935.53,15,21,2,Medium,Significant,High,4
+PAT-2001-038,2022,iot,2,USA,telecom,True,1,Yes,19.92,1151.31,17,20,2,Medium,Moderate,Medium,1
+PAT-2001-039,2023,blockchain,3,USA,fintech,True,1,Yes,500.0,6822.48,17,33,1,High,Moderate,Medium,3
+PAT-2001-040,2023,quantum,3,IND,hardware,True,0,Yes,42.67,5738.04,50,9,3,Medium,Breakthrough,Low,4
+PAT-2001-041,2024,cybersecurity,1,DEU,telecom,True,1,No,19.06,724.42,20,25,1,Medium,Moderate,Medium,1
+PAT-2001-042,2021,ai_ml,1,USA,software,False,1,Yes,162.97,6861.01,38,40,2,Medium,Breakthrough,Medium,2
+PAT-2001-043,2023,ai_ml,2,DEU,software,True,1,No,4.15,7339.43,40,40,3,High,Significant,Medium,4
+PAT-2001-044,2021,iot,2,JPN,telecom,False,1,No,7.45,4980.68,25,27,1,Medium,Marginal,Very Low,0
+PAT-2001-045,2021,blockchain,2,USA,fintech,True,1,Yes,85.16,4475.07,5,31,1,Medium,Marginal,Very Low,2
+PAT-2001-046,2023,iot,3,GBR,telecom,True,1,Yes,179.96,4574.06,25,30,2,Medium,Moderate,High,0
+PAT-2001-047,2024,ai_ml,3,USA,software,False,1,No,17.99,4775.65,18,37,3,High,Significant,High,5
+PAT-2001-048,2023,blockchain,2,KOR,fintech,True,1,Yes,156.67,1995.26,10,33,1,Medium,Significant,High,3
+PAT-2001-049,2020,iot,2,USA,telecom,True,1,Yes,210.21,8484.21,26,21,1,Medium,Moderate,Medium,0
+PAT-2001-050,2023,iot,3,GBR,hardware,True,1,No,6.37,6793.98,24,25,3,Medium,Significant,High,5
+PAT-2001-051,2020,iot,4,DEU,telecom,True,1,Yes,184.5,546.15,14,24,2,Low,Moderate,Low,0
+PAT-2001-052,2024,iot,3,CHN,healthtech,True,1,Yes,342.99,772.07,14,21,1,Low,Moderate,Low,2
+PAT-2001-053,2023,iot,3,IND,hardware,False,0,Yes,56.75,3793.62,14,6,1,Medium,Marginal,Very Low,1
+PAT-2001-054,2021,quantum,3,GBR,hardware,True,0,Yes,500.0,708.43,37,10,3,Medium,Significant,Low,3
+PAT-2001-055,2020,iot,1,KOR,software,False,1,No,29.12,2634.93,14,25,2,Low,Moderate,High,2
+PAT-2001-056,2021,iot,4,RUS,software,False,1,No,43.56,5507.21,26,27,3,Medium,Moderate,Medium,3
+PAT-2001-057,2024,iot,4,RUS,hardware,False,0,Yes,500.0,4608.61,24,8,2,Medium,Moderate,Medium,2
+PAT-2001-058,2022,ai_ml,3,USA,software,False,1,No,12.61,3094.51,31,54,2,Medium,Marginal,Very Low,4
+PAT-2001-059,2023,ai_ml,2,JPN,software,True,1,No,8.64,1027.21,23,43,3,Medium,Moderate,Medium,2
+PAT-2001-060,2023,iot,3,USA,software,True,0,Yes,115.84,8629.32,11,10,2,Low,Moderate,Low,2
+PAT-2001-061,2022,cybersecurity,2,JPN,telecom,True,1,Yes,450.96,9970.79,22,28,1,Medium,Moderate,Medium,3
+PAT-2001-062,2020,iot,1,USA,software,True,1,Yes,15.53,1065.27,21,20,1,Medium,Marginal,Low,0
+PAT-2001-063,2024,ai_ml,1,USA,software,True,1,Yes,174.7,628.27,45,36,3,Medium,Moderate,High,2
+PAT-2001-064,2021,iot,4,IND,hardware,False,1,No,20.65,1387.68,26,22,2,Medium,Significant,High,1
+PAT-2001-065,2022,ai_ml,3,IND,software,False,1,No,10.99,8099.14,33,43,3,Low,Significant,Medium,3
+PAT-2001-066,2023,iot,2,USA,hardware,True,0,Yes,217.71,5722.56,12,12,2,High,Marginal,Low,1
+PAT-2001-067,2023,quantum,2,USA,software,True,0,No,15.17,8021.24,47,13,2,Medium,Moderate,Medium,2
+PAT-2001-068,2024,iot,2,CHN,hardware,False,1,Yes,19.41,5417.01,28,26,2,Low,Moderate,Low,4
+PAT-2001-069,2020,iot,3,DEU,hardware,False,1,No,40.21,1666.84,17,20,2,Low,Moderate,High,0
+PAT-2001-070,2022,ai_ml,1,USA,fintech,True,1,Yes,187.0,1452.8,38,34,3,Medium,Moderate,Medium,1
+PAT-2001-071,2022,blockchain,2,JPN,fintech,True,1,No,62.91,5211.35,5,30,2,Low,Significant,High,3
+PAT-2001-072,2022,cybersecurity,1,GBR,software,True,0,No,54.69,1831.77,20,11,1,Medium,Significant,Medium,1
+PAT-2001-073,2020,iot,1,KOR,hardware,False,1,No,21.99,6990.49,22,27,1,Medium,Significant,Medium,2
+PAT-2001-074,2020,iot,2,CHN,hardware,False,1,Yes,115.28,5632.04,11,22,1,Medium,Significant,High,2
+PAT-2001-075,2021,blockchain,3,USA,telecom,False,1,Yes,31.48,5248.66,9,19,2,Medium,Moderate,Low,1
+PAT-2001-076,2021,ai_ml,2,DEU,fintech,True,0,Yes,28.52,7292.76,28,12,2,Medium,Moderate,Medium,2
+PAT-2001-077,2022,ai_ml,3,GBR,software,True,0,Yes,179.18,6295.41,40,21,3,Low,Moderate,High,3
+PAT-2001-078,2023,ai_ml,2,JPN,software,True,1,No,17.5,9041.95,16,54,3,Low,Moderate,Medium,1
+PAT-2001-079,2023,blockchain,3,USA,software,False,0,Yes,118.42,8582.7,13,14,2,High,Moderate,Medium,3
+PAT-2001-080,2022,cybersecurity,2,DEU,software,True,1,No,58.99,5507.22,24,26,1,Medium,Moderate,Medium,0
+PAT-2001-081,2022,iot,1,JPN,software,True,1,Yes,44.53,1783.95,14,24,1,Medium,Moderate,High,1
+PAT-2001-082,2021,ai_ml,2,DEU,software,True,1,Yes,195.22,1283.13,45,40,2,High,Moderate,Medium,2
+PAT-2001-083,2022,ai_ml,3,USA,software,False,1,No,47.02,6236.32,32,36,3,High,Moderate,Low,4
+PAT-2001-084,2021,ai_ml,2,USA,software,True,0,No,69.99,7647.82,18,22,2,High,Moderate,High,4
+PAT-2001-085,2020,quantum,2,USA,cybersecurity,True,1,Yes,8.85,9964.23,15,22,3,Medium,Significant,High,3
+PAT-2001-086,2022,blockchain,3,USA,fintech,True,1,Yes,58.1,8373.15,15,22,1,Medium,Moderate,Medium,2
+PAT-2001-087,2022,quantum,1,USA,software,False,1,No,13.11,4252.89,44,45,2,Medium,Breakthrough,Very High,1
+PAT-2001-088,2021,quantum,1,USA,software,True,1,Yes,58.25,604.94,24,40,2,Medium,Significant,High,3
+PAT-2001-089,2022,ai_ml,1,JPN,healthtech,False,1,Yes,49.4,2280.68,35,37,3,Low,Significant,Medium,5
+PAT-2001-090,2022,iot,1,CHN,hardware,False,0,No,38.27,2090.05,10,11,2,Medium,Moderate,Medium,3
+PAT-2001-091,2023,cybersecurity,3,USA,fintech,True,1,Yes,12.61,2338.9,14,32,2,High,Moderate,Low,3
+PAT-2001-092,2023,blockchain,2,JPN,fintech,True,1,Yes,42.46,6001.28,9,24,1,High,Moderate,Low,1
+PAT-2001-093,2023,ai_ml,1,CHN,software,True,0,No,255.36,3763.33,20,12,3,Low,Moderate,High,4
+PAT-2001-094,2021,cybersecurity,4,USA,software,False,0,No,36.46,8197.9,17,11,2,Low,Significant,High,4
+PAT-2001-095,2023,cybersecurity,2,CHN,telecom,True,1,Yes,27.46,6366.46,19,19,3,Medium,Breakthrough,High,2
+PAT-2001-096,2022,iot,4,DEU,hardware,False,0,No,18.69,7820.52,18,7,3,Medium,Marginal,Very Low,4
+PAT-2001-097,2022,iot,2,JPN,hardware,True,1,Yes,59.59,6876.77,11,23,1,Medium,Significant,High,4
+PAT-2001-098,2023,ai_ml,2,USA,software,True,1,Yes,21.49,3352.96,49,33,3,Medium,Marginal,Low,4
+PAT-2001-099,2022,quantum,3,USA,cybersecurity,False,1,Yes,24.73,5392.27,15,45,2,Low,Moderate,High,1
+PAT-2001-100,2022,blockchain,3,USA,fintech,False,0,Yes,23.46,8400.14,9,8,1,Medium,Moderate,Medium,0
+PAT-2001-101,2023,ai_ml,1,CHN,software,False,1,No,52.41,6708.23,25,54,3,Medium,Breakthrough,Very High,4
+PAT-2001-102,2024,iot,3,RUS,hardware,False,0,Yes,160.76,3384.48,26,12,1,Medium,Moderate,Medium,1
+PAT-2001-103,2024,cybersecurity,1,CHN,telecom,False,1,No,10.03,3193.08,11,19,1,Low,Significant,Medium,2
+PAT-2001-104,2022,quantum,2,USA,hardware,True,1,No,19.58,7046.55,25,33,3,Medium,Breakthrough,High,3
+PAT-2001-105,2022,ai_ml,2,USA,software,True,1,Yes,500.0,3518.2,18,28,3,Low,Significant,High,3
+PAT-2001-106,2023,ai_ml,3,USA,software,True,0,Yes,492.12,7143.53,25,10,3,Low,Moderate,High,4
+PAT-2001-107,2021,cybersecurity,1,DEU,software,True,1,No,25.21,9456.76,24,30,1,High,Moderate,Medium,5
+PAT-2001-108,2023,cybersecurity,2,CHN,software,True,0,Yes,116.47,7466.8,18,6,2,Low,Moderate,Medium,3
+PAT-2001-109,2022,iot,2,DEU,hardware,False,1,Yes,22.57,2681.44,12,21,2,Medium,Moderate,Low,2
+PAT-2001-110,2020,iot,1,KOR,software,False,1,No,32.59,4672.02,26,29,1,High,Moderate,Low,2
+PAT-2001-111,2020,blockchain,3,RUS,fintech,False,1,Yes,35.61,5118.06,12,30,1,Medium,Moderate,Low,3
+PAT-2001-112,2023,blockchain,3,RUS,software,False,1,Yes,178.81,4442.7,5,24,3,High,Moderate,Medium,4
+PAT-2001-113,2020,ai_ml,1,DEU,software,True,1,No,68.77,5547.11,17,34,2,Low,Significant,Very High,1
+PAT-2001-114,2021,ai_ml,1,KOR,software,False,0,Yes,500.0,5116.79,23,18,2,Medium,Significant,Medium,4
+PAT-2001-115,2021,ai_ml,2,CHN,software,False,0,Yes,79.31,3302.0,40,13,2,High,Moderate,Medium,2
+PAT-2001-116,2021,quantum,1,KOR,software,False,1,Yes,89.88,8444.89,30,34,3,Low,Breakthrough,Medium,6
+PAT-2001-117,2021,ai_ml,2,CHN,software,False,1,Yes,196.36,8486.32,27,37,3,Medium,Marginal,Very Low,4
+PAT-2001-118,2023,ai_ml,1,CHN,software,False,1,Yes,202.62,8444.74,26,39,3,Low,Significant,Medium,3
+PAT-2001-119,2020,iot,3,RUS,hardware,False,1,Yes,231.22,7970.98,17,27,2,Low,Significant,High,3
+PAT-2001-120,2023,ai_ml,1,DEU,software,False,1,No,8.8,1997.79,50,25,3,Low,Significant,High,3
+PAT-2001-121,2024,ai_ml,3,USA,software,False,0,Yes,100.87,9003.31,29,18,3,Medium,Moderate,High,2
+PAT-2001-122,2022,iot,1,KOR,hardware,True,1,No,7.09,7935.89,19,25,3,Medium,Significant,High,4
+PAT-2001-123,2021,blockchain,3,USA,fintech,False,0,Yes,48.89,5325.21,13,4,2,High,Moderate,Medium,2
+PAT-2001-124,2023,iot,4,USA,hardware,False,0,No,13.13,2695.26,25,12,3,Low,Marginal,Low,3
+PAT-2001-125,2020,cybersecurity,3,RUS,software,True,0,No,5.93,5860.51,16,12,1,Low,Moderate,Medium,1
+PAT-2001-126,2022,ai_ml,1,KOR,healthtech,True,1,Yes,105.57,7953.9,47,52,3,Medium,Significant,Medium,5
+PAT-2001-127,2024,cybersecurity,4,DEU,software,False,0,No,13.02,8428.62,23,13,1,Medium,Breakthrough,Medium,2
+PAT-2001-128,2024,cybersecurity,2,USA,telecom,False,1,Yes,500.0,4050.28,22,25,1,High,Moderate,Medium,6
+PAT-2001-129,2023,quantum,2,DEU,hardware,False,0,No,21.96,7974.85,18,15,2,Medium,Moderate,Medium,1
+PAT-2001-130,2021,iot,2,CHN,telecom,False,1,Yes,500.0,2790.85,23,21,2,Medium,Marginal,Very Low,3
+PAT-2001-131,2023,iot,2,JPN,telecom,True,1,No,30.1,9795.6,23,24,3,High,Marginal,Very Low,4
+PAT-2001-132,2023,iot,1,DEU,telecom,True,1,Yes,500.0,3401.67,12,19,2,High,Significant,Very High,2
+PAT-2001-133,2022,iot,4,RUS,telecom,False,1,No,7.78,7291.71,27,29,1,Medium,Significant,High,2
+PAT-2001-134,2023,ai_ml,2,CHN,software,True,0,Yes,25.78,6951.52,34,12,3,Low,Moderate,High,2
+PAT-2001-135,2020,cybersecurity,4,GBR,software,False,0,Yes,500.0,7201.95,10,5,1,Medium,Marginal,Very Low,5
+PAT-2001-136,2021,iot,3,USA,telecom,True,0,Yes,135.81,7297.75,8,10,2,Low,Moderate,Medium,3
+PAT-2001-137,2022,quantum,2,JPN,hardware,True,1,Yes,408.81,2413.95,15,37,3,High,Moderate,Low,3
+PAT-2001-138,2021,blockchain,3,USA,fintech,False,1,No,45.15,5366.98,17,26,3,Low,Marginal,Low,1
+PAT-2001-139,2021,ai_ml,2,USA,software,False,1,Yes,500.0,9551.61,48,51,2,Medium,Moderate,Medium,1
+PAT-2001-140,2023,iot,4,IND,hardware,True,1,Yes,500.0,7518.31,20,24,2,Medium,Moderate,Low,0
+PAT-2001-141,2024,iot,2,USA,telecom,False,1,Yes,169.12,5646.51,24,25,1,High,Significant,Medium,3
+PAT-2001-142,2022,blockchain,3,USA,fintech,False,0,Yes,126.48,2759.17,14,9,2,Medium,Moderate,Medium,3
+PAT-2001-143,2023,ai_ml,2,JPN,software,True,0,Yes,196.74,856.35,21,12,2,Medium,Moderate,Medium,1
+PAT-2001-144,2024,ai_ml,1,CHN,software,False,1,No,17.47,2999.72,29,24,3,Medium,Breakthrough,Medium,4
+PAT-2001-145,2020,iot,2,USA,hardware,True,1,Yes,26.09,8697.69,15,25,3,High,Significant,High,5
+PAT-2001-146,2022,blockchain,3,USA,software,False,0,No,52.28,6467.51,10,10,2,Medium,Significant,Medium,3
+PAT-2001-147,2022,cybersecurity,1,DEU,software,False,0,No,13.29,4638.47,24,11,2,High,Significant,Low,3
+PAT-2001-148,2020,ai_ml,2,JPN,software,True,1,Yes,500.0,2849.85,26,34,3,Medium,Moderate,High,2
+PAT-2001-149,2023,ai_ml,2,USA,software,True,1,Yes,500.0,9172.18,27,28,3,High,Moderate,Low,4
+PAT-2001-150,2022,ai_ml,1,CHN,software,False,1,No,89.24,7398.29,15,36,2,Medium,Breakthrough,Very High,2
+PAT-2001-151,2022,iot,4,RUS,telecom,False,0,No,31.48,8648.76,12,9,2,Medium,Breakthrough,Low,1
+PAT-2001-152,2021,blockchain,3,USA,fintech,False,1,Yes,74.24,6651.29,14,38,1,Medium,Moderate,Medium,5
+PAT-2001-153,2021,iot,4,DEU,hardware,False,0,Yes,305.9,2671.07,27,4,1,Medium,Marginal,Very Low,0
+PAT-2001-154,2024,cybersecurity,3,IND,software,False,0,Yes,12.47,2683.07,28,14,1,Low,Moderate,Medium,2
+PAT-2001-155,2020,ai_ml,2,USA,software,True,1,Yes,396.32,6296.32,48,31,2,Medium,Moderate,Low,0
+PAT-2001-156,2021,iot,3,USA,software,False,0,No,62.38,8844.35,20,4,2,Low,Significant,Medium,2
+PAT-2001-157,2021,ai_ml,2,KOR,healthtech,False,1,Yes,107.2,4640.02,26,25,2,High,Moderate,Low,1
+PAT-2001-158,2022,ai_ml,3,USA,software,False,1,No,29.33,854.24,36,42,2,Medium,Significant,Very High,3
+PAT-2001-159,2022,blockchain,3,CHN,fintech,True,1,Yes,107.97,6768.99,6,18,3,High,Marginal,Low,3
+PAT-2001-160,2022,ai_ml,2,JPN,software,False,1,Yes,183.09,4906.64,42,45,2,High,Moderate,Low,3
+PAT-2001-161,2020,iot,4,RUS,hardware,False,1,No,29.75,8594.99,13,27,2,Low,Significant,High,3
+PAT-2001-162,2021,iot,3,IND,hardware,False,0,No,17.03,5678.55,14,10,2,High,Moderate,Medium,4
+PAT-2001-163,2023,iot,1,USA,software,True,1,No,23.67,8131.54,18,24,3,Low,Moderate,Low,2
+PAT-2001-164,2023,iot,4,RUS,hardware,False,1,No,24.48,5024.45,13,28,1,Low,Moderate,Low,1
+PAT-2001-165,2023,iot,3,RUS,telecom,True,1,Yes,19.48,9182.7,15,17,2,Medium,Moderate,Medium,4
+PAT-2001-166,2023,blockchain,2,USA,telecom,False,1,Yes,253.8,4115.88,17,30,1,Medium,Marginal,Low,0
+PAT-2001-167,2023,ai_ml,3,USA,fintech,False,0,Yes,331.34,8673.94,33,10,3,Medium,Moderate,Medium,3
+PAT-2001-168,2020,ai_ml,1,USA,healthtech,False,1,Yes,500.0,777.29,41,34,3,Medium,Significant,Medium,2
+PAT-2001-169,2022,iot,3,IND,healthtech,True,1,Yes,116.07,3001.79,27,28,1,High,Significant,High,4
+PAT-2001-170,2022,cybersecurity,4,USA,software,True,1,No,10.07,7422.18,18,24,1,Medium,Marginal,Very Low,3
+PAT-2001-171,2021,ai_ml,2,CHN,hardware,False,1,Yes,109.33,7229.83,45,36,3,Medium,Marginal,Low,2
+PAT-2001-172,2023,iot,3,USA,hardware,True,0,No,4.81,1480.62,20,10,1,Low,Marginal,Low,1
+PAT-2001-173,2022,quantum,3,CHN,hardware,True,0,Yes,43.58,4146.18,47,12,3,Low,Significant,Low,3
+PAT-2001-174,2023,quantum,1,GBR,hardware,False,1,No,52.47,7114.15,27,34,2,Low,Breakthrough,Very High,2
+PAT-2001-175,2024,iot,1,JPN,software,True,1,Yes,233.12,9951.15,12,27,2,Low,Significant,Medium,3
+PAT-2001-176,2022,iot,4,IND,hardware,True,1,No,37.13,1828.14,24,19,1,Medium,Moderate,High,2
+PAT-2001-177,2024,iot,4,USA,hardware,False,1,No,32.09,9665.04,12,25,2,Low,Moderate,Medium,2
+PAT-2001-178,2022,cybersecurity,4,IND,telecom,False,0,Yes,339.88,9206.25,24,13,2,Low,Significant,High,4
+PAT-2001-179,2024,ai_ml,1,KOR,healthtech,False,0,No,6.86,6965.28,49,16,3,Medium,Significant,Medium,2
+PAT-2001-180,2021,cybersecurity,3,CHN,software,False,1,No,6.9,4490.73,17,22,1,Medium,Moderate,High,1
+PAT-2001-181,2022,ai_ml,2,CHN,healthtech,False,1,No,25.76,9797.88,21,45,2,Medium,Moderate,High,3
+PAT-2001-182,2022,quantum,3,GBR,hardware,True,1,No,28.24,8144.49,40,52,3,Low,Moderate,Low,2
+PAT-2001-183,2020,ai_ml,1,KOR,hardware,False,1,Yes,11.47,3028.8,50,46,3,Medium,Significant,Very High,4
+PAT-2001-184,2022,ai_ml,3,USA,software,False,0,Yes,349.33,7932.49,26,16,2,Medium,Breakthrough,Medium,3
+PAT-2001-185,2024,ai_ml,2,JPN,software,True,1,Yes,81.89,7500.36,17,28,3,Medium,Significant,High,5
+PAT-2001-186,2023,blockchain,3,USA,fintech,False,0,Yes,36.84,5892.2,17,11,3,Low,Marginal,Very Low,3
+PAT-2001-187,2021,ai_ml,1,USA,software,True,1,No,11.88,2473.4,26,34,3,Medium,Significant,High,3
+PAT-2001-188,2021,ai_ml,3,DEU,fintech,False,1,Yes,48.34,1042.14,48,34,3,Low,Significant,High,3
+PAT-2001-189,2021,blockchain,3,IND,fintech,False,1,Yes,10.91,9984.4,10,21,2,Medium,Marginal,Low,2
+PAT-2001-190,2020,blockchain,3,USA,software,False,1,Yes,500.0,8642.03,5,21,3,Medium,Marginal,Very Low,2
+PAT-2001-191,2024,quantum,3,RUS,hardware,True,0,Yes,278.83,1068.83,47,10,3,Medium,Significant,Medium,4
+PAT-2001-192,2022,cybersecurity,3,USA,software,False,1,Yes,284.72,3312.88,26,31,2,High,Marginal,Low,3
+PAT-2001-193,2021,iot,3,IND,telecom,True,1,Yes,367.24,862.83,15,22,2,Low,Marginal,Low,1
+PAT-2001-194,2022,ai_ml,1,KOR,hardware,False,1,No,41.09,4839.94,41,42,2,High,Significant,High,2
+PAT-2001-195,2020,ai_ml,2,KOR,software,False,1,Yes,90.21,9962.08,29,36,3,Low,Marginal,Very Low,3
+PAT-2001-196,2021,cybersecurity,3,RUS,telecom,True,0,Yes,500.0,2547.45,18,11,2,Medium,Moderate,Medium,4
+PAT-2001-197,2023,ai_ml,3,IND,fintech,False,1,Yes,500.0,3585.94,47,31,3,Medium,Significant,High,8
+PAT-2001-198,2023,blockchain,3,USA,fintech,False,0,Yes,500.0,6537.53,12,12,2,Medium,Marginal,Very Low,2
+PAT-2001-199,2024,cybersecurity,3,GBR,software,False,0,Yes,127.1,7215.46,16,10,1,Low,Moderate,Medium,1
+PAT-2001-200,2023,cybersecurity,4,IND,software,False,1,Yes,306.37,4972.7,23,27,2,Low,Moderate,Medium,0
+PAT-2001-201,2022,blockchain,3,GBR,software,False,1,No,94.85,4026.92,7,19,1,Low,Moderate,Medium,3
+PAT-2001-202,2023,iot,3,IND,telecom,False,0,No,1.22,8815.41,12,15,2,Low,Moderate,Medium,0
+PAT-2001-203,2024,blockchain,3,RUS,fintech,False,0,Yes,184.16,5955.8,6,12,3,Medium,Marginal,Low,2
+PAT-2001-204,2023,quantum,2,CHN,hardware,False,0,Yes,31.75,3792.53,27,13,2,High,Moderate,Medium,1
+PAT-2001-205,2024,ai_ml,2,JPN,software,False,0,Yes,500.0,2488.88,17,19,3,Low,Significant,Low,3
+PAT-2001-206,2023,ai_ml,2,USA,software,False,1,Yes,30.18,1719.29,31,43,2,Low,Breakthrough,Medium,3
+PAT-2001-207,2024,iot,2,CHN,telecom,True,1,No,5.09,6322.58,12,19,2,Medium,Moderate,Medium,3
+PAT-2001-208,2020,ai_ml,3,DEU,software,True,0,No,41.54,5909.93,41,16,3,Medium,Moderate,Low,2
+PAT-2001-209,2023,iot,2,USA,telecom,True,1,Yes,443.88,1761.34,10,21,2,High,Breakthrough,Very High,6
+PAT-2001-210,2022,blockchain,2,CHN,software,True,1,Yes,500.0,7815.76,18,27,1,High,Moderate,Low,2
+PAT-2001-211,2022,cybersecurity,3,USA,software,True,1,Yes,436.5,2329.9,23,21,1,Medium,Significant,Medium,2
+PAT-2001-212,2023,quantum,2,CHN,hardware,False,1,No,32.71,7278.88,35,43,3,Medium,Breakthrough,High,5
+PAT-2001-213,2024,blockchain,4,RUS,fintech,False,0,Yes,8.74,6295.3,16,7,1,Low,Moderate,High,1
+PAT-2001-214,2024,quantum,1,CHN,hardware,True,0,No,5.84,9636.42,35,13,3,High,Significant,Medium,4
+PAT-2001-215,2021,ai_ml,1,DEU,software,True,1,No,9.76,2754.67,24,45,2,Medium,Breakthrough,Very High,2
+PAT-2001-216,2023,blockchain,4,GBR,fintech,False,0,Yes,70.75,6357.89,15,10,1,Low,Moderate,Medium,1
+PAT-2001-217,2023,ai_ml,1,GBR,hardware,True,1,Yes,133.72,6578.01,34,45,3,High,Significant,High,5
+PAT-2001-218,2021,cybersecurity,4,USA,software,False,1,No,22.73,1649.31,20,28,2,Medium,Moderate,Medium,1
+PAT-2001-219,2020,quantum,1,JPN,hardware,True,1,Yes,89.75,3124.57,48,48,3,Medium,Moderate,High,3
+PAT-2001-220,2020,cybersecurity,3,GBR,software,False,0,Yes,500.0,4430.72,20,15,2,High,Moderate,Low,1
+PAT-2001-221,2023,cybersecurity,3,USA,software,False,0,No,67.39,7820.09,16,4,1,Medium,Significant,Medium,3
+PAT-2001-222,2022,cybersecurity,3,GBR,software,False,1,Yes,209.3,4036.37,22,25,2,Medium,Moderate,High,1
+PAT-2001-223,2024,ai_ml,3,DEU,software,True,0,Yes,53.42,5365.62,23,10,3,Medium,Moderate,Low,1
+PAT-2001-224,2022,cybersecurity,1,DEU,software,True,1,No,7.4,1422.93,23,22,2,Medium,Significant,Very High,2
+PAT-2001-225,2024,iot,1,USA,hardware,True,1,No,54.47,1262.24,27,28,2,Medium,Significant,Medium,1
+PAT-2001-226,2022,blockchain,3,GBR,fintech,True,0,Yes,408.48,1781.79,10,12,1,Medium,Significant,Low,5
+PAT-2001-227,2023,iot,3,USA,hardware,True,0,Yes,18.4,7162.35,12,10,1,High,Moderate,High,1
+PAT-2001-228,2020,ai_ml,1,GBR,hardware,False,1,No,17.04,6376.62,29,30,2,Medium,Significant,Very High,2
+PAT-2001-229,2022,ai_ml,2,USA,software,True,1,No,18.51,1678.83,26,25,3,Medium,Significant,High,4
+PAT-2001-230,2023,ai_ml,1,JPN,software,True,1,Yes,140.37,7158.61,18,40,3,Medium,Moderate,Medium,2
+PAT-2001-231,2024,ai_ml,3,GBR,software,False,1,Yes,181.79,9281.35,49,37,2,Low,Significant,Medium,2
+PAT-2001-232,2023,blockchain,4,USA,software,False,1,Yes,76.37,9797.15,5,19,1,Low,Marginal,Low,4
+PAT-2001-233,2020,cybersecurity,1,JPN,software,True,1,Yes,134.93,8149.28,18,18,2,Medium,Moderate,High,1
+PAT-2001-234,2022,iot,1,JPN,hardware,False,1,No,23.26,3054.19,22,29,1,Low,Moderate,High,2
+PAT-2001-235,2020,iot,1,GBR,hardware,True,1,Yes,26.93,8575.57,11,24,2,High,Significant,High,3
+PAT-2001-236,2020,blockchain,4,IND,fintech,False,0,No,20.38,4224.97,19,16,2,High,Marginal,Low,5
+PAT-2001-237,2023,blockchain,2,USA,telecom,True,1,No,85.89,9072.13,10,19,1,High,Marginal,Very Low,2
+PAT-2001-238,2023,ai_ml,1,CHN,software,False,0,Yes,122.14,8649.83,34,7,3,Medium,Moderate,Low,5
+PAT-2001-239,2023,quantum,1,DEU,software,False,0,No,16.27,4199.53,36,9,3,High,Significant,Low,4
+PAT-2001-240,2024,ai_ml,2,KOR,software,False,0,Yes,23.61,9549.09,30,13,3,Medium,Moderate,Low,2
+PAT-2001-241,2023,iot,2,USA,telecom,False,1,Yes,44.73,800.66,21,24,1,Low,Moderate,Medium,2
+PAT-2001-242,2023,quantum,1,DEU,hardware,False,1,Yes,399.59,3246.42,41,25,3,Medium,Significant,Very High,2
+PAT-2001-243,2020,iot,4,DEU,software,False,0,No,36.69,7256.01,11,7,2,Low,Marginal,Very Low,2
+PAT-2001-244,2021,cybersecurity,1,KOR,software,False,1,No,42.91,3538.64,21,25,2,Medium,Moderate,Low,2
+PAT-2001-245,2023,ai_ml,1,USA,software,True,1,No,26.37,6378.76,39,30,2,Medium,Significant,Very High,2
+PAT-2001-246,2024,cybersecurity,3,USA,software,False,0,No,16.19,2787.04,22,21,1,High,Moderate,Medium,2
+PAT-2001-247,2020,iot,3,RUS,telecom,True,0,Yes,95.62,901.77,14,12,2,Medium,Significant,Low,1
+PAT-2001-248,2022,quantum,2,USA,software,True,1,Yes,500.0,842.48,50,33,2,Low,Breakthrough,Medium,3
+PAT-2001-249,2023,iot,1,USA,hardware,True,1,Yes,113.21,9957.83,10,28,2,Medium,Marginal,Low,2
+PAT-2001-250,2020,quantum,2,CHN,software,False,1,Yes,500.0,4642.62,47,37,2,Low,Significant,High,3
+PAT-2001-251,2022,cybersecurity,2,CHN,software,False,1,Yes,268.4,1620.06,28,23,3,Medium,Significant,Very High,4
+PAT-2001-252,2024,blockchain,2,CHN,fintech,False,0,Yes,44.73,3688.33,19,12,1,Medium,Moderate,Medium,1
+PAT-2001-253,2023,quantum,2,USA,software,False,1,No,15.9,7361.8,26,31,3,High,Moderate,High,6
+PAT-2001-254,2021,iot,2,USA,hardware,True,1,Yes,263.26,7095.37,9,39,1,High,Significant,High,3
+PAT-2001-255,2024,blockchain,3,USA,fintech,False,1,Yes,500.0,6846.98,14,26,2,Medium,Moderate,Low,2
+PAT-2001-256,2021,cybersecurity,2,JPN,software,True,1,Yes,49.22,9101.04,26,27,2,Medium,Moderate,High,0
+PAT-2001-257,2024,blockchain,3,DEU,fintech,False,1,No,8.2,7245.65,12,27,2,Medium,Moderate,Low,1
+PAT-2001-258,2021,iot,1,CHN,healthtech,False,0,Yes,48.36,6598.17,24,8,1,Low,Significant,High,1
+PAT-2001-259,2022,ai_ml,3,USA,healthtech,True,1,Yes,33.83,5589.46,29,45,3,Medium,Moderate,Medium,4
+PAT-2001-260,2022,ai_ml,1,USA,healthtech,True,1,No,6.81,5516.41,46,42,3,Low,Moderate,High,3
+PAT-2001-261,2021,quantum,2,CHN,software,False,1,Yes,14.61,889.53,25,46,3,Low,Breakthrough,Very High,4
+PAT-2001-262,2024,blockchain,3,GBR,fintech,True,1,Yes,142.26,7985.97,9,23,2,Low,Significant,High,4
+PAT-2001-263,2021,blockchain,2,CHN,telecom,True,1,No,78.39,705.22,12,19,3,Medium,Marginal,Very Low,3
+PAT-2001-264,2020,ai_ml,2,USA,healthtech,True,0,Yes,500.0,8863.53,15,15,3,Low,Marginal,Low,5
+PAT-2001-265,2021,blockchain,4,GBR,fintech,False,1,Yes,500.0,3797.7,18,32,1,Medium,Moderate,Low,1
+PAT-2001-266,2023,quantum,1,DEU,software,False,1,No,50.27,7629.22,18,28,2,Low,Breakthrough,High,2
+PAT-2001-267,2023,cybersecurity,4,DEU,software,False,0,No,15.6,1883.35,8,8,2,Medium,Significant,Medium,1
+PAT-2001-268,2024,ai_ml,1,DEU,software,True,1,No,10.24,3939.9,21,28,2,Medium,Significant,Medium,1
+PAT-2001-269,2021,iot,1,CHN,telecom,True,1,Yes,193.69,3281.73,29,25,1,Medium,Marginal,Very Low,1
+PAT-2001-270,2022,blockchain,4,DEU,software,False,0,No,87.87,9039.81,6,12,2,Low,Significant,Medium,1
+PAT-2001-271,2020,iot,3,DEU,hardware,False,1,No,53.67,536.22,9,24,1,Low,Significant,Medium,3
+PAT-2001-272,2022,blockchain,3,USA,fintech,True,1,Yes,25.17,4771.27,11,24,1,Low,Moderate,Medium,3
+PAT-2001-273,2024,blockchain,2,KOR,software,False,0,Yes,500.0,1952.5,5,12,1,Medium,Moderate,Low,3
+PAT-2001-274,2023,blockchain,4,GBR,software,False,1,No,36.7,7309.77,6,28,1,Low,Marginal,Low,0
+PAT-2001-275,2022,iot,1,JPN,software,True,1,No,15.81,9710.87,24,32,1,Low,Significant,Medium,3
+PAT-2001-276,2022,iot,4,USA,hardware,False,0,No,24.9,5122.18,27,7,3,Low,Moderate,Medium,1
+PAT-2001-277,2024,blockchain,4,USA,fintech,False,0,Yes,36.35,1620.62,8,19,2,Low,Marginal,Very Low,4
+PAT-2001-278,2022,quantum,2,USA,hardware,True,1,Yes,323.95,6986.48,40,57,3,Medium,Moderate,Medium,5
+PAT-2001-279,2020,iot,4,DEU,healthtech,False,0,Yes,95.82,9124.31,20,10,3,High,Moderate,Low,3
+PAT-2001-280,2022,ai_ml,1,USA,software,True,1,No,55.81,4051.46,36,30,3,Low,Moderate,Medium,2
+PAT-2001-281,2020,quantum,2,USA,software,True,0,No,81.83,9628.92,23,10,3,Low,Moderate,Low,5
+PAT-2001-282,2021,cybersecurity,4,RUS,software,True,1,No,81.41,886.99,9,31,2,Medium,Moderate,Medium,0
+PAT-2001-283,2020,ai_ml,1,USA,software,True,1,No,86.59,7616.46,26,39,3,Medium,Significant,Very High,5
+PAT-2001-284,2022,iot,3,IND,telecom,False,0,Yes,482.28,3069.05,23,8,2,Medium,Marginal,Low,1
+PAT-2001-285,2023,ai_ml,3,USA,software,True,1,No,11.96,6528.63,44,34,3,High,Moderate,Medium,3
+PAT-2001-286,2021,iot,1,USA,telecom,True,1,No,3.5,8684.85,19,24,1,Medium,Moderate,High,2
+PAT-2001-287,2022,ai_ml,3,RUS,healthtech,True,0,Yes,500.0,3617.18,48,19,3,Medium,Significant,High,4
+PAT-2001-288,2024,iot,2,USA,hardware,False,1,No,32.92,5259.61,22,25,3,Medium,Moderate,High,5
+PAT-2001-289,2023,ai_ml,1,JPN,software,True,1,Yes,216.19,6962.62,29,30,3,Medium,Significant,High,3
+PAT-2001-290,2022,iot,2,USA,hardware,False,1,Yes,379.94,6894.19,12,29,1,Low,Moderate,Medium,0
+PAT-2001-291,2021,cybersecurity,4,USA,software,False,1,Yes,143.13,8875.7,17,19,2,Low,Marginal,Very Low,1
+PAT-2001-292,2024,blockchain,2,KOR,fintech,True,1,No,6.86,6984.43,13,25,1,High,Marginal,Very Low,1
+PAT-2001-293,2021,cybersecurity,3,USA,software,False,0,Yes,98.08,5520.77,22,15,2,Medium,Marginal,Low,0
+PAT-2001-294,2021,cybersecurity,4,USA,software,False,0,No,13.91,3342.16,15,10,1,Medium,Moderate,Medium,2
+PAT-2001-295,2024,cybersecurity,3,USA,software,True,0,No,7.75,9704.21,19,12,2,High,Moderate,Low,4
+PAT-2001-296,2022,ai_ml,3,IND,software,False,0,Yes,348.62,750.19,26,18,3,Medium,Moderate,Medium,4
+PAT-2001-297,2023,quantum,1,GBR,hardware,True,1,No,9.07,8342.62,39,33,3,Medium,Significant,Medium,5
+PAT-2001-298,2022,ai_ml,1,DEU,healthtech,True,1,Yes,101.66,8850.33,29,37,3,Medium,Moderate,Low,3
+PAT-2001-299,2023,blockchain,4,RUS,fintech,False,1,Yes,54.92,1593.84,13,22,1,Low,Marginal,Low,2
+PAT-2001-300,2021,cybersecurity,3,GBR,software,True,0,No,5.19,4819.23,12,8,1,Low,Moderate,Medium,0
+PAT-2001-301,2021,iot,3,USA,software,True,1,Yes,500.0,1463.93,25,23,1,High,Significant,Medium,5
+PAT-2001-302,2021,iot,4,RUS,healthtech,False,0,Yes,38.93,1097.18,8,14,2,High,Moderate,Medium,1
+PAT-2001-303,2021,blockchain,4,USA,fintech,False,1,Yes,500.0,571.45,16,28,1,Low,Significant,Very High,4
+PAT-2001-304,2024,quantum,2,USA,hardware,True,1,Yes,500.0,7981.73,48,36,2,Low,Moderate,High,0
+PAT-2001-305,2021,iot,2,DEU,hardware,False,1,Yes,208.68,1225.14,19,19,3,Low,Marginal,Very Low,2
+PAT-2001-306,2022,blockchain,3,USA,fintech,True,1,Yes,121.65,520.32,16,29,2,Medium,Moderate,Medium,2
+PAT-2001-307,2023,cybersecurity,4,USA,software,True,1,Yes,41.3,1559.65,27,28,1,Low,Moderate,Medium,2
+PAT-2001-308,2023,ai_ml,1,DEU,software,False,1,No,9.22,6517.89,30,39,3,High,Moderate,High,5
+PAT-2001-309,2022,ai_ml,1,CHN,software,False,0,Yes,209.34,8314.83,45,15,2,Medium,Moderate,Low,0
+PAT-2001-310,2022,iot,1,CHN,hardware,False,1,No,52.1,3346.97,21,27,1,Low,Moderate,Medium,1
+PAT-2001-311,2024,cybersecurity,2,CHN,telecom,False,1,Yes,6.58,7280.67,12,19,2,High,Significant,Medium,2
+PAT-2001-312,2023,ai_ml,1,CHN,software,False,0,No,16.34,807.17,15,16,2,High,Significant,Medium,7
+PAT-2001-313,2023,ai_ml,3,USA,software,False,0,No,8.06,8946.59,20,16,3,Low,Marginal,Very Low,2
+PAT-2001-314,2024,ai_ml,2,USA,software,False,1,Yes,95.2,7910.04,49,40,3,High,Marginal,Very Low,4
+PAT-2001-315,2023,cybersecurity,1,DEU,software,False,1,Yes,21.81,8089.81,17,23,2,Medium,Moderate,Medium,0
+PAT-2001-316,2021,ai_ml,2,JPN,software,True,1,No,38.46,1535.53,36,49,3,Low,Marginal,Very Low,2
+PAT-2001-317,2022,iot,4,IND,software,True,0,Yes,59.58,4139.67,13,8,2,Low,Moderate,High,2
+PAT-2001-318,2020,cybersecurity,3,USA,software,False,0,Yes,426.59,6266.35,10,6,1,Low,Marginal,Low,2
+PAT-2001-319,2023,ai_ml,2,USA,software,False,1,No,166.69,3791.37,34,34,3,High,Significant,Medium,4
+PAT-2001-320,2024,iot,1,USA,healthtech,False,1,No,38.83,3174.15,19,34,3,Low,Moderate,High,3
+PAT-2001-321,2022,iot,3,GBR,hardware,True,0,Yes,193.9,3199.04,12,12,2,Medium,Significant,Medium,2
+PAT-2001-322,2022,quantum,2,KOR,software,False,1,Yes,313.59,6749.9,19,25,3,Medium,Moderate,Low,4
+PAT-2001-323,2020,blockchain,3,IND,fintech,False,0,Yes,53.02,8904.79,12,10,2,High,Significant,Low,3
+PAT-2001-324,2024,blockchain,3,CHN,fintech,False,0,No,89.64,1782.87,16,19,3,Low,Moderate,High,4
+PAT-2001-325,2020,ai_ml,1,CHN,software,False,1,No,54.12,4153.09,46,27,3,Medium,Significant,High,3
+PAT-2001-326,2020,iot,4,IND,hardware,False,1,No,31.38,9455.66,19,31,2,Low,Marginal,Low,0
+PAT-2001-327,2021,quantum,1,CHN,hardware,False,1,Yes,500.0,851.99,41,27,2,Medium,Significant,High,3
+PAT-2001-328,2020,ai_ml,2,KOR,healthtech,False,0,Yes,37.59,6922.53,37,12,2,Low,Moderate,Medium,0
+PAT-2001-329,2022,blockchain,2,JPN,software,True,1,Yes,44.43,2863.89,8,25,2,Medium,Moderate,Medium,0
+PAT-2001-330,2022,cybersecurity,2,CHN,software,True,1,Yes,304.73,6276.33,13,23,2,Medium,Moderate,Low,1
+PAT-2001-331,2021,ai_ml,3,USA,software,False,1,Yes,57.81,8094.83,41,42,2,Low,Significant,Very High,1
+PAT-2001-332,2020,ai_ml,2,USA,software,True,1,Yes,228.2,6456.97,29,48,3,Low,Moderate,Low,2
+PAT-2001-333,2020,iot,3,USA,hardware,True,1,Yes,20.4,4086.28,25,20,3,Medium,Moderate,Medium,2
+PAT-2001-334,2022,ai_ml,3,IND,software,False,0,No,54.29,2441.37,15,15,2,Medium,Significant,Medium,2
+PAT-2001-335,2020,ai_ml,2,USA,software,True,0,Yes,11.67,8240.34,17,12,2,Medium,Significant,High,1
+PAT-2001-336,2023,blockchain,3,USA,fintech,False,1,Yes,189.66,9159.0,5,28,1,High,Moderate,Low,2
+PAT-2001-337,2021,ai_ml,1,JPN,software,True,1,No,30.31,7286.04,42,30,3,Low,Moderate,Medium,6
+PAT-2001-338,2021,iot,3,USA,telecom,True,0,No,59.88,9562.5,29,12,1,Low,Moderate,High,4
+PAT-2001-339,2022,iot,2,USA,telecom,True,1,Yes,75.1,8351.88,21,23,1,Low,Marginal,Very Low,1
+PAT-2001-340,2022,iot,3,USA,hardware,True,0,No,50.86,1281.71,19,15,3,Medium,Moderate,Medium,3
+PAT-2001-341,2020,ai_ml,2,USA,software,False,1,Yes,38.48,5929.17,33,27,3,Medium,Significant,Very High,4
+PAT-2001-342,2020,quantum,1,CHN,hardware,False,1,Yes,17.59,2925.25,19,43,3,Medium,Breakthrough,High,4
+PAT-2001-343,2024,ai_ml,2,USA,software,True,1,No,46.81,9725.69,42,28,3,Medium,Moderate,Medium,1
+PAT-2001-344,2020,quantum,2,DEU,hardware,True,1,No,20.65,2022.46,38,37,2,High,Moderate,Low,2
+PAT-2001-345,2022,blockchain,4,USA,fintech,True,1,No,49.67,6414.44,17,16,2,Medium,Marginal,Very Low,3
+PAT-2001-346,2022,quantum,1,CHN,software,False,1,Yes,195.28,9666.06,17,31,3,High,Significant,High,4
+PAT-2001-347,2021,ai_ml,3,GBR,healthtech,False,0,Yes,500.0,5049.22,46,13,3,Low,Significant,Medium,7
+PAT-2001-348,2022,ai_ml,1,USA,healthtech,True,1,No,30.74,6098.79,34,33,3,Medium,Moderate,Medium,2
+PAT-2001-349,2023,blockchain,2,USA,telecom,False,1,Yes,467.43,5315.66,12,29,1,Low,Marginal,Very Low,2
+PAT-2001-350,2023,ai_ml,3,GBR,software,False,0,Yes,410.73,8907.73,29,16,2,Low,Moderate,Medium,1
+PAT-2001-351,2021,ai_ml,3,USA,software,True,1,No,14.86,7127.87,49,45,2,Medium,Significant,Medium,1
+PAT-2001-352,2021,iot,2,DEU,healthtech,True,1,No,25.38,2086.82,12,23,3,High,Marginal,Very Low,7
+PAT-2001-353,2021,quantum,2,USA,hardware,False,1,Yes,204.36,9896.22,26,37,3,Medium,Marginal,Low,4
+PAT-2001-354,2022,ai_ml,1,JPN,software,False,1,No,8.3,6115.65,21,33,3,High,Moderate,Medium,4
+PAT-2001-355,2023,cybersecurity,1,GBR,software,True,1,No,6.15,5054.43,10,21,2,Medium,Moderate,Low,0
+PAT-2001-356,2021,quantum,3,USA,software,True,0,Yes,41.59,1317.46,34,10,3,Medium,Moderate,Low,1
+PAT-2001-357,2021,cybersecurity,1,USA,software,True,1,No,27.26,7129.24,8,28,3,High,Moderate,Medium,5
+PAT-2001-358,2024,iot,2,CHN,hardware,True,1,Yes,292.59,4599.1,14,24,1,Medium,Significant,Medium,5
+PAT-2001-359,2020,iot,1,GBR,hardware,False,1,No,37.17,9233.29,12,32,1,Medium,Moderate,Medium,0
+PAT-2001-360,2022,iot,3,DEU,hardware,False,0,No,19.21,507.58,24,12,2,Medium,Significant,Low,3
+PAT-2001-361,2023,iot,3,USA,hardware,True,0,No,42.95,1128.0,12,15,1,Medium,Significant,High,3
+PAT-2001-362,2021,cybersecurity,1,JPN,software,True,1,Yes,159.77,3690.18,17,22,3,Medium,Moderate,Medium,2
+PAT-2001-363,2020,ai_ml,2,DEU,software,True,1,No,23.34,3813.85,46,48,3,Low,Marginal,Very Low,4
+PAT-2001-364,2020,ai_ml,3,DEU,fintech,True,0,Yes,255.49,1223.41,47,24,3,Medium,Marginal,Very Low,3
+PAT-2001-365,2024,ai_ml,3,CHN,software,True,0,No,57.68,3559.44,39,7,3,Medium,Moderate,Medium,4
+PAT-2001-366,2020,cybersecurity,3,RUS,software,False,0,Yes,49.12,1979.05,18,11,1,Low,Moderate,Low,2
+PAT-2001-367,2021,blockchain,2,DEU,fintech,True,1,Yes,500.0,7975.45,15,21,1,Low,Marginal,Low,0
+PAT-2001-368,2020,iot,2,CHN,hardware,False,0,Yes,71.54,2421.24,28,7,3,Low,Moderate,Low,2
+PAT-2001-369,2020,quantum,2,USA,software,True,1,Yes,104.64,7910.09,30,39,3,Low,Marginal,Very Low,7
+PAT-2001-370,2023,cybersecurity,4,RUS,telecom,False,0,Yes,54.59,4820.04,11,13,1,Low,Moderate,Medium,1
+PAT-2001-371,2021,ai_ml,1,JPN,hardware,False,1,Yes,500.0,3487.7,27,42,2,Low,Breakthrough,High,3
+PAT-2001-372,2022,quantum,1,DEU,hardware,True,1,Yes,500.0,5549.78,40,42,2,Medium,Moderate,High,0
+PAT-2001-373,2022,cybersecurity,3,DEU,software,False,0,Yes,17.98,6114.5,12,8,1,Low,Significant,High,4
+PAT-2001-374,2023,ai_ml,2,USA,software,False,1,Yes,47.25,9618.55,39,31,3,Low,Moderate,High,5
+PAT-2001-375,2020,quantum,3,USA,hardware,True,1,Yes,24.35,3345.04,17,39,3,High,Moderate,High,4
+PAT-2001-376,2024,blockchain,2,KOR,fintech,True,1,Yes,166.79,9382.43,10,17,1,High,Moderate,Medium,2
+PAT-2001-377,2023,iot,2,USA,hardware,True,1,Yes,86.18,6736.3,22,19,3,Medium,Moderate,Medium,2
+PAT-2001-378,2021,iot,4,RUS,hardware,False,0,Yes,52.02,8764.63,18,10,3,Medium,Moderate,Medium,2
+PAT-2001-379,2023,ai_ml,2,CHN,software,True,1,Yes,93.98,4370.52,22,39,3,Low,Significant,Very High,3
+PAT-2001-380,2024,ai_ml,1,USA,healthtech,True,1,Yes,152.88,2617.97,28,40,3,Low,Significant,High,4
+PAT-2001-381,2021,ai_ml,3,CHN,fintech,False,0,Yes,203.23,9863.77,23,12,3,Medium,Moderate,Medium,1
+PAT-2001-382,2024,ai_ml,2,USA,healthtech,False,0,Yes,500.0,3043.82,23,25,2,Medium,Significant,Medium,3
+PAT-2001-383,2022,iot,4,IND,hardware,True,1,No,15.26,5101.56,12,18,1,Medium,Significant,Very High,2
+PAT-2001-384,2023,blockchain,3,DEU,telecom,True,0,Yes,69.92,2019.36,12,9,2,High,Moderate,Low,2
+PAT-2001-385,2024,ai_ml,2,CHN,software,False,1,Yes,250.57,870.25,26,31,3,Medium,Significant,High,3
+PAT-2001-386,2022,iot,2,USA,healthtech,True,0,Yes,195.24,2840.32,12,8,1,Medium,Moderate,Low,4
+PAT-2001-387,2023,iot,3,IND,hardware,False,0,Yes,122.19,1642.09,16,6,3,Medium,Marginal,Very Low,5
+PAT-2001-388,2021,iot,3,IND,hardware,False,1,No,153.86,1241.89,18,25,1,Low,Moderate,Low,3
+PAT-2001-389,2023,cybersecurity,4,RUS,software,False,0,No,26.67,5819.71,29,14,2,Medium,Moderate,High,2
+PAT-2001-390,2023,blockchain,2,CHN,software,False,1,Yes,41.54,9927.33,14,18,3,Medium,Marginal,Low,3
+PAT-2001-391,2021,quantum,3,USA,cybersecurity,False,1,Yes,151.59,9798.85,23,39,2,Medium,Moderate,Low,3
+PAT-2001-392,2022,ai_ml,2,USA,software,True,1,Yes,89.11,1266.54,48,45,3,High,Moderate,Medium,4
+PAT-2001-393,2021,iot,2,KOR,hardware,True,0,No,25.27,1116.15,19,12,2,Medium,Moderate,Medium,0
+PAT-2001-394,2020,cybersecurity,2,JPN,telecom,True,1,Yes,500.0,6493.48,16,21,1,Medium,Marginal,Low,0
+PAT-2001-395,2020,quantum,2,JPN,hardware,False,1,Yes,63.93,2170.24,37,33,3,Low,Significant,Medium,4
+PAT-2001-396,2021,iot,4,USA,hardware,False,1,No,8.12,6913.49,22,24,2,Medium,Moderate,Medium,1
+PAT-2001-397,2020,iot,4,USA,hardware,False,0,Yes,380.5,5111.1,15,10,1,Medium,Moderate,High,0
+PAT-2001-398,2021,blockchain,3,USA,fintech,False,0,Yes,500.0,4012.65,12,13,3,Medium,Marginal,Very Low,2
+PAT-2001-399,2023,iot,3,DEU,software,True,1,Yes,69.31,8053.95,15,25,3,Low,Significant,Medium,4
+PAT-2001-400,2023,quantum,1,DEU,software,True,1,No,31.24,2697.66,28,42,2,Medium,Significant,High,6
+PAT-2002-001,2023,cybersecurity,1,USA,software,True,1,No,30.4,1999.69,27,16,3,Medium,Marginal,Low,7
+PAT-2002-002,2021,blockchain,3,USA,software,True,0,No,37.14,6885.8,10,7,2,Medium,Marginal,Low,3
+PAT-2002-003,2024,ai_ml,3,USA,healthtech,False,1,Yes,178.28,3535.81,32,37,2,Medium,Moderate,Medium,1
+PAT-2002-004,2022,iot,2,USA,software,True,1,No,69.81,632.9,23,26,3,Low,Marginal,Low,2
+PAT-2002-005,2020,ai_ml,2,DEU,software,False,0,Yes,49.95,2679.55,44,18,2,Medium,Moderate,Medium,1
+PAT-2002-006,2020,ai_ml,1,CHN,software,False,0,Yes,187.79,2549.56,43,15,2,Medium,Moderate,High,1
+PAT-2002-007,2023,ai_ml,3,GBR,software,False,1,Yes,135.98,3571.13,42,28,3,Low,Significant,Very High,4
+PAT-2002-008,2021,iot,3,GBR,software,True,1,Yes,241.77,2818.89,25,28,3,Medium,Moderate,Medium,5
+PAT-2002-009,2022,ai_ml,1,USA,software,True,1,No,97.44,6380.55,20,40,3,Medium,Significant,Medium,2
+PAT-2002-010,2024,ai_ml,1,CHN,software,False,0,No,21.67,7586.11,45,6,2,High,Significant,Low,3
+PAT-2002-011,2020,ai_ml,2,CHN,software,False,0,Yes,33.71,7031.69,46,16,2,High,Significant,Medium,4
+PAT-2002-012,2020,cybersecurity,4,IND,software,False,0,No,34.93,3836.05,10,13,3,Low,Moderate,Low,3
+PAT-2002-013,2024,iot,3,USA,software,True,1,Yes,82.58,549.14,22,27,2,Medium,Marginal,Very Low,1
+PAT-2002-014,2022,ai_ml,2,CHN,fintech,False,0,Yes,82.85,5768.96,31,16,2,Low,Moderate,Medium,4
+PAT-2002-015,2020,ai_ml,3,RUS,software,False,1,Yes,135.3,9502.63,20,36,2,Low,Moderate,Medium,2
+PAT-2002-016,2024,iot,1,DEU,hardware,True,1,No,276.7,2986.6,18,33,2,Medium,Breakthrough,Medium,2
+PAT-2002-017,2024,ai_ml,2,JPN,software,False,1,Yes,94.11,5693.69,34,40,2,High,Moderate,Medium,4
+PAT-2002-018,2022,iot,2,CHN,hardware,False,1,Yes,429.91,9205.75,26,25,2,Medium,Significant,High,3
+PAT-2002-019,2023,blockchain,3,DEU,fintech,False,0,Yes,182.45,4788.97,19,7,2,Low,Moderate,Low,3
+PAT-2002-020,2021,cybersecurity,3,IND,telecom,False,0,Yes,71.3,1568.96,11,11,2,High,Marginal,Very Low,1
+PAT-2002-021,2020,ai_ml,1,GBR,healthtech,False,1,Yes,47.56,1122.05,45,34,3,Medium,Moderate,Low,3
+PAT-2002-022,2022,iot,2,CHN,software,True,0,No,23.57,8063.73,18,8,1,Low,Significant,Medium,1
+PAT-2002-023,2021,ai_ml,1,GBR,hardware,True,1,Yes,193.23,7571.77,25,27,3,Low,Breakthrough,Medium,3
+PAT-2002-024,2023,cybersecurity,4,RUS,software,False,0,Yes,196.61,2662.07,26,8,2,Medium,Moderate,Low,1
+PAT-2002-025,2023,cybersecurity,4,IND,software,False,1,No,20.83,8208.18,11,21,2,Medium,Moderate,Medium,1
+PAT-2002-026,2020,iot,1,GBR,hardware,True,1,No,26.71,2981.27,19,24,2,High,Significant,Very High,4
+PAT-2002-027,2022,blockchain,2,USA,software,False,1,No,12.81,2700.7,14,21,2,Medium,Marginal,Low,2
+PAT-2002-028,2021,ai_ml,2,KOR,healthtech,False,1,No,21.26,9283.63,33,37,2,High,Moderate,Low,1
+PAT-2002-029,2024,quantum,3,RUS,hardware,False,0,Yes,265.42,8587.04,23,12,2,High,Moderate,Medium,3
+PAT-2002-030,2021,iot,3,USA,healthtech,False,0,Yes,9.56,5506.48,12,5,1,Medium,Moderate,High,2
+PAT-2002-031,2023,ai_ml,1,DEU,fintech,True,1,Yes,38.15,1135.37,42,37,2,Medium,Moderate,Medium,0
+PAT-2002-032,2022,blockchain,2,KOR,fintech,False,1,No,5.84,2373.78,5,17,3,Low,Significant,High,4
+PAT-2002-033,2022,blockchain,3,IND,fintech,False,1,Yes,123.64,7830.55,12,20,3,Medium,Significant,Very High,5
+PAT-2002-034,2023,quantum,2,DEU,hardware,True,1,Yes,137.55,5551.04,44,40,3,Low,Moderate,Medium,2
+PAT-2002-035,2023,iot,3,RUS,software,True,0,Yes,49.05,8655.32,11,8,1,Medium,Moderate,Medium,2
+PAT-2002-036,2022,iot,1,KOR,hardware,True,1,No,15.65,5170.44,22,24,2,Low,Moderate,High,0
+PAT-2002-037,2023,iot,3,GBR,software,False,0,Yes,107.28,2294.43,24,9,1,Low,Marginal,Very Low,0
+PAT-2002-038,2024,ai_ml,1,USA,healthtech,True,1,Yes,17.27,1228.09,48,31,3,High,Significant,High,4
+PAT-2002-039,2022,blockchain,2,CHN,software,False,1,Yes,99.48,4402.98,16,25,1,Medium,Moderate,High,2
+PAT-2002-040,2022,ai_ml,2,USA,software,True,1,Yes,83.32,5629.05,21,49,2,Medium,Moderate,High,1
+PAT-2002-041,2020,quantum,3,IND,hardware,False,0,No,29.21,5590.75,48,16,3,High,Moderate,Medium,5
+PAT-2002-042,2023,blockchain,2,USA,telecom,True,1,Yes,24.8,8994.25,6,28,1,Low,Moderate,High,3
+PAT-2002-043,2022,blockchain,3,USA,fintech,False,1,Yes,500.0,7293.37,14,26,2,Medium,Marginal,Low,0
+PAT-2002-044,2022,ai_ml,1,USA,hardware,True,1,No,17.32,6088.65,50,36,2,Low,Moderate,High,1
+PAT-2002-045,2020,ai_ml,2,USA,software,True,1,Yes,259.4,7812.2,44,45,2,High,Moderate,Medium,3
+PAT-2002-046,2024,iot,1,USA,telecom,False,1,No,15.3,8515.49,17,27,3,High,Marginal,Very Low,3
+PAT-2002-047,2022,ai_ml,2,JPN,fintech,False,1,Yes,75.48,4592.09,45,39,2,Medium,Marginal,Low,0
+PAT-2002-048,2023,ai_ml,1,KOR,software,False,1,No,17.09,9255.75,26,39,2,High,Breakthrough,Medium,2
+PAT-2002-049,2020,quantum,1,JPN,hardware,True,1,No,12.86,4360.33,44,27,3,Low,Moderate,Medium,3
+PAT-2002-050,2024,blockchain,3,DEU,fintech,True,1,Yes,500.0,589.06,14,27,3,Low,Marginal,Low,1
+PAT-2002-051,2021,blockchain,4,USA,software,False,1,No,3.3,2128.64,7,20,1,High,Significant,High,2
+PAT-2002-052,2021,blockchain,2,USA,fintech,True,0,Yes,24.34,4147.1,15,5,2,Low,Marginal,Low,1
+PAT-2002-053,2024,quantum,3,USA,software,True,1,No,51.65,8527.62,19,30,2,High,Breakthrough,Very High,4
+PAT-2002-054,2024,ai_ml,1,CHN,software,False,1,Yes,31.5,8930.23,46,40,2,Low,Significant,High,2
+PAT-2002-055,2021,quantum,1,KOR,hardware,False,0,Yes,40.74,8243.82,43,16,2,Low,Significant,Low,2
+PAT-2002-056,2022,cybersecurity,3,GBR,software,True,1,Yes,49.43,3654.79,28,15,1,Medium,Marginal,Very Low,0
+PAT-2002-057,2023,iot,3,RUS,telecom,False,1,No,21.35,7047.72,20,26,1,Low,Moderate,Low,2
+PAT-2002-058,2024,blockchain,3,GBR,fintech,False,0,Yes,500.0,8169.48,18,7,2,Low,Marginal,Low,1
+PAT-2002-059,2022,iot,2,CHN,hardware,False,1,Yes,118.11,5652.83,12,24,2,Medium,Significant,Medium,2
+PAT-2002-060,2022,blockchain,3,CHN,telecom,False,1,Yes,75.01,1123.25,16,24,2,Medium,Marginal,Very Low,2
+PAT-2002-061,2023,blockchain,4,IND,software,True,1,No,25.95,7451.66,13,19,2,High,Significant,High,4
+PAT-2002-062,2023,iot,1,CHN,hardware,False,1,Yes,91.97,3161.92,10,30,3,Medium,Moderate,High,4
+PAT-2002-063,2023,ai_ml,1,KOR,fintech,True,1,Yes,63.22,3035.45,42,37,2,Medium,Breakthrough,High,3
+PAT-2002-064,2022,ai_ml,2,USA,healthtech,False,1,No,72.43,4384.92,33,25,3,High,Significant,High,5
+PAT-2002-065,2020,blockchain,3,RUS,telecom,False,1,No,2.15,9662.24,11,34,2,Low,Moderate,Medium,1
+PAT-2002-066,2024,ai_ml,1,USA,software,False,0,No,23.16,7719.16,18,12,3,High,Significant,Medium,5
+PAT-2002-067,2024,blockchain,2,CHN,fintech,False,1,Yes,171.54,5325.32,8,28,2,Medium,Moderate,High,1
+PAT-2002-068,2023,iot,1,USA,hardware,False,0,Yes,500.0,9869.86,15,4,1,Medium,Moderate,Low,2
+PAT-2002-069,2020,cybersecurity,3,USA,telecom,True,0,No,121.43,5188.19,23,12,2,Medium,Marginal,Low,2
+PAT-2002-070,2021,ai_ml,1,USA,software,False,1,No,56.75,3648.28,40,45,2,Medium,Moderate,Low,2
+PAT-2002-071,2023,iot,3,USA,telecom,False,1,Yes,109.55,1318.14,20,22,1,Medium,Significant,Very High,2
+PAT-2002-072,2020,blockchain,2,DEU,fintech,False,1,No,63.73,9640.23,6,27,1,Medium,Marginal,Low,1
+PAT-2002-073,2024,ai_ml,2,KOR,software,False,1,Yes,69.54,3014.68,41,36,2,Medium,Moderate,Medium,2
+PAT-2002-074,2022,ai_ml,1,JPN,software,False,1,No,20.83,6510.72,25,34,3,Low,Moderate,High,4
+PAT-2002-075,2023,ai_ml,1,CHN,software,False,1,No,7.63,1203.52,23,25,3,Medium,Significant,High,3
+PAT-2002-076,2024,ai_ml,3,GBR,software,False,0,Yes,18.1,8406.13,31,9,2,Medium,Marginal,Low,1
+PAT-2002-077,2022,ai_ml,1,DEU,healthtech,True,1,Yes,266.46,8707.97,40,42,2,Medium,Significant,Medium,1
+PAT-2002-078,2021,blockchain,2,KOR,fintech,False,0,Yes,500.0,6580.13,11,8,3,Medium,Marginal,Low,2
+PAT-2002-079,2023,iot,3,USA,hardware,True,0,Yes,180.43,4528.24,12,13,2,Low,Significant,Medium,3
+PAT-2002-080,2022,ai_ml,2,JPN,software,False,1,Yes,142.73,7554.23,18,28,2,High,Breakthrough,High,3
+PAT-2002-081,2022,ai_ml,1,JPN,software,True,1,Yes,126.2,5355.53,15,36,2,Low,Breakthrough,Medium,2
+PAT-2002-082,2023,ai_ml,1,DEU,software,True,1,No,11.18,8852.05,25,37,3,Low,Moderate,Medium,2
+PAT-2002-083,2024,iot,1,USA,healthtech,True,1,Yes,69.7,4473.23,10,19,1,Low,Moderate,Medium,1
+PAT-2002-084,2022,ai_ml,1,DEU,hardware,True,1,No,58.4,853.11,31,39,3,Medium,Moderate,Medium,1
+PAT-2002-085,2021,iot,3,IND,telecom,True,0,Yes,37.97,2038.44,10,13,2,Medium,Moderate,Medium,1
+PAT-2002-086,2022,ai_ml,1,DEU,hardware,True,1,No,20.99,3668.18,23,51,2,High,Significant,Very High,7
+PAT-2002-087,2022,ai_ml,2,CHN,software,False,1,No,37.28,8191.32,17,33,3,Medium,Moderate,Medium,5
+PAT-2002-088,2020,cybersecurity,4,USA,telecom,False,0,No,55.66,4795.15,12,12,2,High,Breakthrough,Medium,6
+PAT-2002-089,2021,ai_ml,1,GBR,fintech,True,1,Yes,130.13,4055.27,29,36,3,Medium,Breakthrough,High,4
+PAT-2002-090,2023,ai_ml,2,USA,fintech,True,1,No,13.84,3445.47,23,45,3,Medium,Moderate,Medium,4
+PAT-2002-091,2021,ai_ml,1,CHN,software,False,0,Yes,103.29,1249.88,35,10,3,High,Breakthrough,High,4
+PAT-2002-092,2024,cybersecurity,2,JPN,software,True,1,Yes,245.96,5543.49,28,33,2,Medium,Moderate,High,2
+PAT-2002-093,2021,iot,2,KOR,hardware,True,1,Yes,161.92,4376.24,22,24,1,Medium,Marginal,Very Low,1
+PAT-2002-094,2020,iot,2,JPN,software,True,0,Yes,73.11,9030.75,29,17,1,Medium,Significant,Low,2
+PAT-2002-095,2023,cybersecurity,3,RUS,software,True,1,Yes,53.21,9886.65,28,18,1,High,Moderate,Medium,3
+PAT-2002-096,2024,ai_ml,1,KOR,fintech,False,1,Yes,500.0,1324.48,45,37,3,Medium,Moderate,Medium,2
+PAT-2002-097,2021,cybersecurity,3,IND,software,True,0,Yes,20.78,1540.55,22,10,3,Medium,Significant,Low,4
+PAT-2002-098,2021,ai_ml,1,JPN,fintech,True,0,Yes,16.16,2935.99,36,16,3,Low,Significant,Low,3
+PAT-2002-099,2021,iot,2,USA,hardware,True,0,Yes,80.17,7472.44,9,13,3,Medium,Moderate,Low,3
+PAT-2002-100,2022,blockchain,2,JPN,fintech,False,1,Yes,92.45,1742.74,12,25,3,Low,Moderate,Medium,4
+PAT-2002-101,2022,blockchain,2,CHN,telecom,False,1,Yes,67.12,7376.59,18,29,2,Medium,Moderate,Low,6
+PAT-2002-102,2021,cybersecurity,1,CHN,software,False,1,No,152.64,3927.6,28,29,2,Low,Moderate,Medium,0
+PAT-2002-103,2020,ai_ml,1,CHN,healthtech,False,1,Yes,221.97,8738.46,36,37,3,High,Breakthrough,High,5
+PAT-2002-104,2022,cybersecurity,1,USA,telecom,True,1,Yes,46.09,6203.4,27,26,2,Medium,Breakthrough,High,4
+PAT-2002-105,2024,blockchain,3,GBR,fintech,False,0,Yes,245.48,2951.16,18,12,2,Medium,Marginal,Low,1
+PAT-2002-106,2023,iot,4,IND,software,False,0,No,47.32,2158.35,25,5,1,Low,Significant,Low,1
+PAT-2002-107,2022,cybersecurity,3,IND,software,True,1,Yes,52.89,2095.35,8,29,1,Medium,Moderate,Medium,3
+PAT-2002-108,2020,ai_ml,1,CHN,software,True,1,No,72.3,3028.26,50,43,3,Medium,Moderate,Low,4
+PAT-2002-109,2021,cybersecurity,2,CHN,software,True,1,No,5.23,3856.76,14,15,2,Medium,Significant,Very High,3
+PAT-2002-110,2021,iot,2,JPN,telecom,True,1,Yes,45.64,8862.23,29,20,2,High,Significant,Medium,2
+PAT-2002-111,2023,iot,4,RUS,software,False,1,Yes,153.49,3211.64,10,28,2,Low,Moderate,Low,0
+PAT-2002-112,2024,ai_ml,2,USA,hardware,False,1,No,9.7,7957.3,38,48,3,High,Moderate,Low,6
+PAT-2002-113,2024,iot,1,DEU,software,True,0,Yes,102.98,9973.13,19,13,1,High,Moderate,Medium,4
+PAT-2002-114,2024,iot,2,CHN,hardware,False,0,Yes,168.91,3678.65,10,11,2,Low,Significant,Low,2
+PAT-2002-115,2024,blockchain,2,USA,fintech,True,1,No,4.81,701.62,11,24,2,Low,Marginal,Very Low,1
+PAT-2002-116,2024,ai_ml,1,DEU,software,True,0,Yes,500.0,4243.76,40,12,3,Medium,Breakthrough,Medium,4
+PAT-2002-117,2020,ai_ml,2,JPN,software,True,1,No,33.59,1950.32,29,37,3,Medium,Moderate,Medium,3
+PAT-2002-118,2020,cybersecurity,2,JPN,fintech,True,1,Yes,342.95,2569.32,15,28,1,High,Significant,High,3
+PAT-2002-119,2021,ai_ml,2,USA,healthtech,False,1,Yes,500.0,6201.35,33,39,3,Low,Moderate,High,4
+PAT-2002-120,2022,iot,4,RUS,hardware,False,1,No,7.64,7778.11,17,28,1,Low,Significant,Very High,1
+PAT-2002-121,2020,cybersecurity,1,DEU,fintech,False,1,Yes,445.48,6462.85,22,25,2,Medium,Moderate,Low,2
+PAT-2002-122,2023,ai_ml,2,USA,healthtech,False,1,Yes,500.0,1316.66,42,30,3,Medium,Moderate,Medium,6
+PAT-2002-123,2023,ai_ml,3,IND,fintech,True,1,Yes,176.48,4273.28,31,27,3,Low,Marginal,Very Low,2
+PAT-2002-124,2022,iot,2,USA,telecom,True,1,Yes,353.27,4405.37,27,27,2,Low,Moderate,Medium,3
+PAT-2002-125,2021,ai_ml,2,DEU,software,True,1,Yes,146.92,3902.33,48,42,3,Low,Moderate,Medium,2
+PAT-2002-126,2021,iot,2,CHN,telecom,True,1,Yes,489.67,5050.79,28,23,1,Low,Breakthrough,Very High,2
+PAT-2002-127,2021,iot,2,JPN,hardware,True,1,Yes,45.16,3191.53,24,30,1,Medium,Marginal,Very Low,2
+PAT-2002-128,2024,iot,2,CHN,hardware,False,1,Yes,34.92,1887.6,8,21,2,Low,Significant,High,2
+PAT-2002-129,2022,blockchain,3,IND,fintech,False,1,Yes,208.57,8585.36,17,22,1,Low,Marginal,Low,3
+PAT-2002-130,2023,iot,3,DEU,software,False,0,Yes,127.63,6218.31,27,13,2,Medium,Moderate,Medium,1
+PAT-2002-131,2021,iot,2,USA,telecom,True,1,Yes,46.8,5546.01,20,19,2,Medium,Marginal,Very Low,1
+PAT-2002-132,2022,ai_ml,2,CHN,software,True,1,Yes,55.55,5130.82,15,36,3,Medium,Marginal,Low,3
+PAT-2002-133,2022,iot,3,USA,telecom,False,1,Yes,39.81,5187.94,28,24,1,Medium,Significant,High,2
+PAT-2002-134,2023,cybersecurity,1,CHN,software,False,0,No,32.12,4861.21,19,14,3,Low,Moderate,Medium,3
+PAT-2002-135,2023,iot,2,CHN,software,True,1,Yes,500.0,6242.07,8,23,2,Low,Marginal,Very Low,3
+PAT-2002-136,2021,blockchain,3,IND,telecom,True,0,No,68.59,5098.52,10,12,1,Medium,Marginal,Low,1
+PAT-2002-137,2024,ai_ml,2,JPN,software,False,1,Yes,142.4,8755.51,37,39,3,High,Marginal,Very Low,2
+PAT-2002-138,2020,ai_ml,1,CHN,software,False,1,Yes,500.0,8323.03,44,43,3,Medium,Significant,High,5
+PAT-2002-139,2024,ai_ml,2,USA,healthtech,True,1,No,9.63,7453.76,32,40,3,Medium,Moderate,Medium,3
+PAT-2002-140,2020,ai_ml,1,USA,hardware,False,1,No,8.61,8666.14,30,33,2,Low,Breakthrough,Very High,3
+PAT-2002-141,2021,cybersecurity,3,CHN,software,True,1,Yes,422.11,4506.8,28,18,1,Low,Marginal,Low,0
+PAT-2002-142,2023,ai_ml,1,DEU,software,True,1,No,20.74,2791.52,34,34,3,Medium,Breakthrough,High,3
+PAT-2002-143,2021,quantum,1,JPN,software,False,1,No,14.59,8242.24,40,37,3,Medium,Breakthrough,Medium,2
+PAT-2002-144,2022,ai_ml,2,CHN,healthtech,True,1,Yes,262.32,4323.13,21,40,3,Low,Marginal,Very Low,1
+PAT-2002-145,2022,ai_ml,1,KOR,software,True,1,Yes,218.66,9642.55,48,37,2,Medium,Significant,High,2
+PAT-2002-146,2021,blockchain,2,USA,fintech,True,0,Yes,239.5,4373.21,18,14,3,Low,Marginal,Very Low,2
+PAT-2002-147,2023,ai_ml,3,RUS,healthtech,False,0,Yes,500.0,6364.86,34,18,3,Medium,Marginal,Very Low,4
+PAT-2002-148,2024,quantum,3,DEU,hardware,False,0,Yes,68.97,7298.35,25,16,2,High,Moderate,Medium,3
+PAT-2002-149,2024,cybersecurity,3,USA,software,True,0,Yes,71.6,7994.22,25,6,1,Low,Moderate,Medium,1
+PAT-2002-150,2021,cybersecurity,2,USA,fintech,False,1,Yes,41.67,843.39,10,27,2,Low,Marginal,Very Low,0
+PAT-2002-151,2022,ai_ml,3,USA,healthtech,False,0,Yes,500.0,8200.21,20,10,3,Medium,Significant,High,7
+PAT-2002-152,2021,quantum,2,USA,hardware,True,0,Yes,170.41,4345.23,39,13,3,Medium,Significant,Medium,8
+PAT-2002-153,2021,ai_ml,1,CHN,software,True,1,No,13.83,3764.43,30,37,3,Medium,Moderate,Medium,2
+PAT-2002-154,2021,cybersecurity,1,USA,fintech,True,1,No,98.2,4804.94,24,25,2,High,Moderate,High,2
+PAT-2002-155,2024,iot,1,CHN,telecom,False,1,No,36.83,7869.03,24,25,1,High,Moderate,Medium,1
+PAT-2002-156,2024,ai_ml,1,CHN,software,False,1,No,14.16,9448.39,17,40,3,High,Moderate,Medium,3
+PAT-2002-157,2023,ai_ml,2,CHN,healthtech,True,1,No,8.15,2069.27,40,24,3,Low,Moderate,Medium,1
+PAT-2002-158,2022,ai_ml,2,CHN,software,True,1,No,6.02,7449.7,40,40,3,High,Moderate,Medium,6
+PAT-2002-159,2022,ai_ml,1,CHN,software,False,1,No,50.69,5233.06,39,34,3,Medium,Moderate,Low,3
+PAT-2002-160,2022,cybersecurity,2,JPN,software,True,1,Yes,105.39,6637.81,24,25,2,Low,Significant,High,3
+PAT-2002-161,2022,quantum,1,DEU,hardware,True,1,Yes,65.25,9909.27,48,37,3,High,Significant,Medium,7
+PAT-2002-162,2022,cybersecurity,4,GBR,fintech,False,0,No,16.16,2341.4,11,10,3,Medium,Moderate,Medium,2
+PAT-2002-163,2020,ai_ml,2,USA,healthtech,True,1,No,46.92,9420.87,28,46,3,Medium,Moderate,Medium,3
+PAT-2002-164,2020,iot,3,GBR,hardware,False,0,No,55.39,8646.36,25,15,1,Medium,Significant,Low,2
+PAT-2002-165,2024,ai_ml,1,USA,software,True,1,No,32.18,7510.78,27,43,2,High,Moderate,Medium,4
+PAT-2002-166,2022,iot,1,KOR,hardware,False,1,No,3.66,9101.71,23,25,2,Medium,Marginal,Very Low,0
+PAT-2002-167,2024,ai_ml,2,DEU,software,False,1,Yes,466.8,9219.23,34,24,3,Medium,Significant,Medium,5
+PAT-2002-168,2021,ai_ml,2,JPN,software,False,1,No,39.21,3898.3,29,39,3,Medium,Moderate,Low,1
+PAT-2002-169,2022,iot,2,KOR,telecom,True,0,No,3.08,3397.11,20,9,2,Medium,Significant,Medium,1
+PAT-2002-170,2021,ai_ml,3,CHN,software,False,1,Yes,11.16,2348.33,20,28,2,Medium,Moderate,High,3
+PAT-2002-171,2021,blockchain,3,GBR,fintech,False,1,Yes,439.17,7552.17,8,29,1,Medium,Marginal,Low,2
+PAT-2002-172,2020,iot,3,DEU,software,False,1,No,6.55,8935.47,22,32,2,Medium,Moderate,High,1
+PAT-2002-173,2020,ai_ml,1,DEU,software,True,0,Yes,110.1,5162.84,24,15,3,Low,Significant,Low,5
+PAT-2002-174,2024,cybersecurity,3,DEU,telecom,False,0,No,115.45,9386.58,8,6,3,Medium,Moderate,Medium,2
+PAT-2002-175,2021,iot,2,CHN,hardware,True,1,No,23.56,2543.13,10,20,3,High,Moderate,Medium,4
+PAT-2002-176,2023,quantum,1,USA,cybersecurity,True,1,Yes,95.61,6608.44,20,36,2,Medium,Breakthrough,Medium,3
+PAT-2002-177,2022,iot,2,DEU,hardware,True,1,Yes,107.48,5210.92,12,19,1,Medium,Moderate,Low,2
+PAT-2002-178,2022,iot,3,GBR,telecom,False,1,No,21.7,8205.28,8,25,3,Low,Moderate,High,5
+PAT-2002-179,2022,iot,3,DEU,healthtech,False,1,Yes,60.16,5355.35,18,30,1,Medium,Moderate,Medium,0
+PAT-2002-180,2021,cybersecurity,3,USA,software,True,0,Yes,176.65,2362.49,24,11,2,Medium,Breakthrough,High,3
+PAT-2002-181,2024,iot,3,IND,telecom,False,1,No,27.49,6201.34,28,33,1,Medium,Moderate,Medium,0
+PAT-2002-182,2023,ai_ml,2,CHN,healthtech,False,1,Yes,423.06,9817.88,22,46,2,Medium,Moderate,High,1
+PAT-2002-183,2023,ai_ml,2,JPN,healthtech,True,1,Yes,49.72,9430.0,32,42,2,Low,Significant,Medium,2
+PAT-2002-184,2022,iot,4,IND,healthtech,False,1,Yes,395.4,2063.26,12,21,2,Medium,Significant,High,3
+PAT-2002-185,2021,ai_ml,1,DEU,healthtech,True,1,No,454.52,5894.73,24,49,3,Medium,Significant,Medium,2
+PAT-2002-186,2024,ai_ml,2,USA,software,True,1,Yes,40.33,4573.84,47,40,3,Medium,Marginal,Low,3
+PAT-2002-187,2021,ai_ml,1,KOR,software,False,0,Yes,74.86,2084.87,31,13,3,Low,Breakthrough,Medium,5
+PAT-2002-188,2020,iot,1,DEU,hardware,True,1,No,62.85,9730.03,16,25,1,Low,Significant,Medium,5
+PAT-2002-189,2021,ai_ml,1,DEU,software,True,1,No,15.59,5529.54,27,34,3,Low,Significant,Very High,3
+PAT-2002-190,2023,iot,1,DEU,telecom,True,1,Yes,49.71,9711.82,23,25,1,Medium,Marginal,Low,0
+PAT-2002-191,2023,quantum,2,CHN,hardware,True,1,No,20.17,5120.43,40,36,3,Medium,Moderate,Medium,5
+PAT-2002-192,2023,quantum,3,GBR,hardware,False,1,Yes,348.89,6854.73,19,34,2,Medium,Significant,Medium,2
+PAT-2002-193,2023,ai_ml,3,USA,healthtech,False,1,Yes,55.63,6513.26,28,34,3,Low,Moderate,Low,2
+PAT-2002-194,2021,iot,3,CHN,healthtech,False,1,Yes,500.0,8037.87,20,28,2,Medium,Significant,Medium,3
+PAT-2002-195,2024,iot,2,JPN,hardware,False,1,Yes,76.97,6590.67,19,31,1,High,Significant,Very High,3
+PAT-2002-196,2022,blockchain,3,GBR,fintech,False,0,Yes,216.43,7907.09,16,8,2,Medium,Marginal,Very Low,2
+PAT-2002-197,2023,iot,1,USA,hardware,True,1,No,19.21,6123.04,20,22,2,Low,Moderate,High,2
+PAT-2002-198,2020,ai_ml,1,KOR,software,False,1,Yes,88.2,3302.95,50,36,3,Low,Breakthrough,High,3
+PAT-2002-199,2024,cybersecurity,3,RUS,telecom,False,1,No,62.52,7573.07,20,20,2,Low,Marginal,Low,2
+PAT-2002-200,2021,ai_ml,1,JPN,healthtech,True,0,Yes,500.0,9277.93,16,19,2,Low,Moderate,Medium,2
+PAT-2002-201,2020,quantum,2,DEU,hardware,True,1,No,171.8,3724.09,22,40,3,Low,Marginal,Low,2
+PAT-2002-202,2022,iot,3,RUS,hardware,False,1,Yes,500.0,8916.06,28,24,1,Low,Marginal,Low,1
+PAT-2002-203,2020,ai_ml,3,USA,software,False,1,No,29.09,7050.35,48,36,3,Medium,Moderate,Medium,2
+PAT-2002-204,2021,iot,3,USA,healthtech,True,1,Yes,51.72,9940.12,8,27,2,High,Moderate,High,5
+PAT-2002-205,2023,ai_ml,1,GBR,software,False,1,Yes,103.12,4896.55,39,39,2,Medium,Significant,High,2
+PAT-2002-206,2022,quantum,3,USA,hardware,True,0,Yes,51.3,9457.81,23,19,2,Low,Moderate,High,1
+PAT-2002-207,2024,iot,1,DEU,healthtech,True,1,No,61.05,9764.27,23,20,1,Medium,Marginal,Very Low,3
+PAT-2002-208,2021,ai_ml,3,USA,software,False,0,Yes,52.69,6429.74,25,9,2,Low,Moderate,Low,2
+PAT-2002-209,2023,ai_ml,1,CHN,software,True,1,Yes,193.69,7989.69,49,34,2,Medium,Breakthrough,Very High,2
+PAT-2002-210,2022,quantum,1,DEU,software,True,1,Yes,35.39,2691.2,34,27,3,Medium,Significant,Very High,3
+PAT-2002-211,2023,ai_ml,1,USA,software,True,1,Yes,301.57,8927.41,19,31,3,Medium,Breakthrough,High,6
+PAT-2002-212,2022,cybersecurity,1,USA,software,True,1,No,8.16,3278.36,17,23,1,Medium,Significant,Medium,2
+PAT-2002-213,2022,quantum,1,GBR,software,False,1,Yes,68.0,1956.09,26,36,2,Medium,Breakthrough,High,1
+PAT-2002-214,2024,iot,4,IND,hardware,False,0,No,24.03,3519.29,16,7,2,Medium,Significant,Medium,1
+PAT-2002-215,2021,ai_ml,1,USA,hardware,True,1,No,87.09,2895.29,38,31,3,Low,Moderate,Low,6
+PAT-2002-216,2021,iot,4,RUS,hardware,False,0,No,59.35,8491.02,16,14,1,High,Marginal,Very Low,2
+PAT-2002-217,2023,cybersecurity,3,USA,fintech,False,1,Yes,500.0,2739.41,11,21,3,Medium,Moderate,Low,3
+PAT-2002-218,2023,ai_ml,1,CHN,software,False,1,Yes,30.12,7192.26,37,34,3,Medium,Moderate,Medium,4
+PAT-2002-219,2020,ai_ml,1,CHN,fintech,False,1,Yes,59.15,3894.94,23,39,2,Medium,Significant,Very High,1
+PAT-2002-220,2022,ai_ml,1,DEU,software,True,1,No,13.72,1209.25,48,42,3,Low,Breakthrough,High,6
+PAT-2002-221,2024,blockchain,2,USA,fintech,True,0,Yes,500.0,5888.29,5,10,2,Low,Marginal,Very Low,3
+PAT-2002-222,2023,iot,1,CHN,software,False,1,Yes,500.0,4810.6,9,28,2,Medium,Moderate,High,2
+PAT-2002-223,2024,blockchain,3,CHN,fintech,False,0,Yes,34.45,1206.01,16,8,3,High,Marginal,Very Low,5
+PAT-2002-224,2022,iot,3,GBR,hardware,False,0,Yes,163.67,8267.95,17,11,2,Low,Significant,Low,1
+PAT-2002-225,2023,ai_ml,1,CHN,healthtech,False,1,Yes,135.97,8058.98,45,37,3,Low,Breakthrough,Very High,3
+PAT-2002-226,2021,ai_ml,2,USA,hardware,False,1,No,32.24,8506.83,29,43,2,Medium,Moderate,High,0
+PAT-2002-227,2024,ai_ml,1,KOR,fintech,False,0,Yes,228.44,4169.45,16,7,3,Medium,Significant,Medium,4
+PAT-2002-228,2022,cybersecurity,4,DEU,software,False,1,No,25.73,893.93,8,17,1,High,Moderate,High,1
+PAT-2002-229,2023,iot,3,DEU,telecom,False,0,Yes,349.97,9280.98,21,11,2,Low,Moderate,Low,3
+PAT-2002-230,2022,blockchain,2,USA,fintech,True,0,No,9.05,3474.33,19,11,1,Low,Moderate,Medium,1
+PAT-2002-231,2022,quantum,2,CHN,software,False,1,Yes,53.99,6354.73,18,31,3,Medium,Marginal,Very Low,4
+PAT-2002-232,2023,ai_ml,2,JPN,software,False,1,Yes,135.08,3642.48,46,36,2,High,Significant,High,3
+PAT-2002-233,2022,ai_ml,2,USA,software,True,1,No,111.63,8206.53,24,31,3,Medium,Marginal,Very Low,4
+PAT-2002-234,2024,ai_ml,1,CHN,software,False,1,Yes,165.53,1501.05,33,36,2,High,Breakthrough,Very High,3
+PAT-2002-235,2022,cybersecurity,3,USA,software,False,0,Yes,87.46,9083.87,18,10,1,Medium,Moderate,Low,1
+PAT-2002-236,2023,iot,1,DEU,telecom,False,0,Yes,223.09,2612.86,8,10,2,Low,Marginal,Very Low,3
+PAT-2002-237,2021,iot,2,USA,healthtech,False,1,Yes,84.9,8361.47,20,19,1,Medium,Significant,Very High,2
+PAT-2002-238,2022,ai_ml,2,JPN,software,True,1,Yes,87.0,6528.47,37,34,3,Medium,Significant,Very High,3
+PAT-2002-239,2022,ai_ml,3,RUS,software,True,0,Yes,451.93,8811.86,40,15,3,Medium,Moderate,Medium,2
+PAT-2002-240,2020,iot,3,USA,telecom,False,0,No,127.77,5159.01,29,11,2,Medium,Breakthrough,Medium,2
+PAT-2002-241,2020,blockchain,3,USA,telecom,True,0,Yes,59.72,1351.65,12,9,1,Medium,Moderate,High,1
+PAT-2002-242,2023,cybersecurity,4,USA,fintech,False,0,Yes,65.72,9695.67,12,11,2,Low,Significant,High,2
+PAT-2002-243,2023,quantum,1,CHN,software,False,1,No,41.9,7990.38,15,40,3,Medium,Moderate,High,4
+PAT-2002-244,2023,blockchain,3,IND,fintech,True,0,No,63.34,6421.93,8,9,1,Low,Moderate,Medium,1
+PAT-2002-245,2020,iot,1,CHN,hardware,False,1,Yes,74.23,9990.73,18,23,2,Medium,Marginal,Low,1
+PAT-2002-246,2021,cybersecurity,3,USA,software,False,1,Yes,51.75,3551.87,15,22,3,High,Marginal,Very Low,3
+PAT-2002-247,2021,blockchain,3,USA,fintech,True,0,Yes,75.49,3638.59,8,7,1,Medium,Moderate,Medium,2
+PAT-2002-248,2023,iot,3,DEU,hardware,True,1,No,31.44,8455.72,24,26,1,Medium,Significant,Very High,2
+PAT-2002-249,2024,cybersecurity,4,IND,software,False,1,No,64.95,7160.48,10,22,1,Medium,Significant,Very High,1
+PAT-2002-250,2021,ai_ml,2,JPN,healthtech,True,1,Yes,149.32,3484.02,49,39,3,Low,Moderate,Low,4
+PAT-2002-251,2023,cybersecurity,3,DEU,fintech,False,0,Yes,269.75,8845.1,15,13,1,Low,Moderate,Medium,1
+PAT-2002-252,2020,ai_ml,2,KOR,healthtech,False,0,No,40.23,1156.23,43,16,3,Medium,Moderate,Low,3
+PAT-2002-253,2021,iot,4,GBR,hardware,False,1,No,21.79,3171.96,26,29,1,Medium,Moderate,Medium,1
+PAT-2002-254,2020,quantum,1,DEU,hardware,True,1,Yes,50.49,6345.51,47,33,3,Low,Significant,High,6
+PAT-2002-255,2021,iot,3,DEU,healthtech,False,1,Yes,24.36,901.11,10,25,1,Medium,Significant,Medium,5
+PAT-2002-256,2023,blockchain,3,DEU,fintech,False,1,Yes,364.57,8812.21,18,23,1,Medium,Moderate,Medium,2
+PAT-2002-257,2024,iot,3,USA,telecom,False,1,No,37.71,8178.45,19,14,2,Medium,Moderate,Medium,0
+PAT-2002-258,2021,ai_ml,2,JPN,healthtech,True,0,Yes,160.57,6522.69,39,18,2,Medium,Marginal,Low,2
+PAT-2002-259,2022,ai_ml,1,USA,software,True,1,No,8.19,4959.69,26,25,3,Low,Significant,High,2
+PAT-2002-260,2023,ai_ml,3,CHN,software,True,1,No,2.17,7611.18,21,31,3,High,Moderate,Low,4
+PAT-2002-261,2024,iot,2,CHN,telecom,False,0,Yes,87.31,4505.85,11,11,3,High,Significant,Medium,4
+PAT-2002-262,2023,blockchain,3,USA,fintech,True,0,Yes,12.7,8912.96,19,6,1,High,Marginal,Very Low,3
+PAT-2002-263,2021,ai_ml,1,CHN,software,True,1,Yes,500.0,7021.3,31,40,3,Medium,Moderate,High,2
+PAT-2002-264,2023,cybersecurity,3,IND,software,False,1,No,24.6,4437.01,27,23,2,Low,Marginal,Very Low,1
+PAT-2002-265,2021,blockchain,3,IND,software,True,1,Yes,45.91,2627.84,16,20,2,Low,Moderate,Medium,3
+PAT-2002-266,2024,blockchain,4,USA,software,False,0,No,8.55,3855.12,12,8,2,High,Marginal,Low,3
+PAT-2002-267,2022,blockchain,3,GBR,fintech,True,1,No,86.26,2878.52,9,27,1,Low,Marginal,Low,2
+PAT-2002-268,2023,ai_ml,1,USA,hardware,True,1,Yes,161.49,8746.67,19,36,2,Low,Significant,Very High,4
+PAT-2002-269,2020,iot,3,IND,telecom,False,1,Yes,233.17,5698.0,8,34,1,Low,Moderate,High,0
+PAT-2002-270,2022,blockchain,2,USA,fintech,False,1,No,19.6,5203.72,8,25,3,High,Marginal,Very Low,4
+PAT-2002-271,2024,ai_ml,2,JPN,healthtech,False,1,Yes,500.0,4263.0,49,46,2,High,Significant,Very High,4
+PAT-2002-272,2023,cybersecurity,3,RUS,software,True,0,Yes,350.42,6114.05,26,12,2,Medium,Moderate,Medium,0
+PAT-2002-273,2022,quantum,2,JPN,hardware,False,1,Yes,116.98,6244.89,35,42,3,Low,Marginal,Very Low,2
+PAT-2002-274,2024,iot,1,USA,hardware,True,1,No,57.69,3705.77,12,26,3,High,Significant,Medium,7
+PAT-2002-275,2024,cybersecurity,3,USA,software,False,1,Yes,17.61,7679.76,17,15,1,Low,Marginal,Very Low,1
+PAT-2002-276,2021,cybersecurity,1,USA,software,True,1,No,27.02,9631.6,13,27,2,Low,Significant,Very High,1
+PAT-2002-277,2022,ai_ml,1,KOR,software,True,1,No,84.71,4956.8,42,25,2,High,Breakthrough,Very High,3
+PAT-2002-278,2022,iot,2,USA,hardware,True,1,Yes,20.0,2149.43,27,26,1,Medium,Moderate,Medium,2
+PAT-2002-279,2023,iot,3,DEU,hardware,False,1,Yes,33.8,2431.54,29,27,1,High,Moderate,High,3
+PAT-2002-280,2021,ai_ml,2,CHN,fintech,False,1,Yes,152.35,4672.4,41,30,2,High,Marginal,Low,2
+PAT-2002-281,2021,ai_ml,2,USA,healthtech,True,1,No,2.63,7950.48,26,42,3,Medium,Marginal,Low,4
+PAT-2002-282,2024,ai_ml,3,IND,hardware,True,1,No,80.49,954.9,16,46,3,Medium,Moderate,Low,4
+PAT-2002-283,2024,iot,4,USA,software,False,1,No,126.74,7814.86,20,24,2,Medium,Marginal,Very Low,1
+PAT-2002-284,2023,quantum,2,CHN,hardware,True,1,Yes,13.91,9766.01,19,34,3,Medium,Moderate,High,2
+PAT-2002-285,2024,quantum,3,GBR,hardware,False,1,No,24.04,997.78,34,30,3,Medium,Significant,Medium,5
+PAT-2002-286,2023,ai_ml,1,CHN,fintech,True,1,Yes,33.13,4067.32,38,40,2,Medium,Significant,High,2
+PAT-2002-287,2023,ai_ml,2,USA,fintech,True,0,Yes,500.0,8295.43,21,10,2,Low,Moderate,Low,1
+PAT-2002-288,2023,blockchain,4,RUS,fintech,True,1,Yes,32.79,8282.13,14,20,3,Medium,Marginal,Low,3
+PAT-2002-289,2022,iot,3,USA,hardware,True,0,No,32.33,4971.69,17,12,2,Medium,Significant,High,2
+PAT-2002-290,2022,cybersecurity,3,CHN,software,False,1,No,19.11,666.05,24,27,2,Medium,Moderate,Medium,0
+PAT-2002-291,2021,cybersecurity,4,GBR,software,False,0,No,30.94,4425.11,8,10,2,High,Moderate,Low,3
+PAT-2002-292,2023,cybersecurity,2,JPN,telecom,True,1,No,68.7,5341.12,23,28,2,Medium,Moderate,Medium,2
+PAT-2002-293,2021,cybersecurity,2,JPN,software,True,0,Yes,38.49,7795.35,8,6,3,Low,Breakthrough,Medium,8
+PAT-2002-294,2021,cybersecurity,3,DEU,software,False,1,Yes,96.53,5981.58,22,23,1,Low,Significant,Medium,1
+PAT-2002-295,2022,blockchain,2,USA,telecom,False,1,No,23.61,4465.48,16,24,1,Medium,Marginal,Low,4
+PAT-2002-296,2022,ai_ml,3,DEU,software,False,0,No,16.31,3266.85,18,21,2,Medium,Moderate,Medium,1
+PAT-2002-297,2021,ai_ml,2,USA,software,True,0,No,127.99,4170.68,28,12,2,Medium,Significant,Medium,3
+PAT-2002-298,2023,blockchain,2,KOR,fintech,False,1,Yes,60.71,5280.31,12,19,3,Medium,Marginal,Very Low,2
+PAT-2002-299,2024,ai_ml,2,DEU,healthtech,True,1,Yes,6.37,8158.69,50,39,3,Medium,Breakthrough,High,4
+PAT-2002-300,2021,ai_ml,1,KOR,healthtech,False,1,Yes,36.66,1105.95,19,40,2,High,Breakthrough,Very High,3
+PAT-2002-301,2020,cybersecurity,2,JPN,telecom,True,0,No,10.05,8180.0,28,11,2,High,Moderate,Medium,2
+PAT-2002-302,2021,ai_ml,2,CHN,software,False,1,Yes,64.96,4225.36,24,36,3,Low,Moderate,High,2
+PAT-2002-303,2023,cybersecurity,1,GBR,software,False,1,Yes,83.47,3163.0,26,22,2,Low,Moderate,Medium,2
+PAT-2002-304,2023,quantum,1,CHN,hardware,False,1,No,74.37,6919.47,41,58,2,Medium,Moderate,Low,2
+PAT-2002-305,2020,iot,2,CHN,hardware,True,1,Yes,163.56,4875.2,21,27,1,Medium,Significant,Very High,6
+PAT-2002-306,2023,iot,1,JPN,healthtech,True,1,Yes,490.5,6797.17,17,22,3,Low,Moderate,Medium,4
+PAT-2002-307,2020,ai_ml,2,USA,software,False,1,Yes,86.28,2290.52,29,37,3,Medium,Significant,High,4
+PAT-2002-308,2022,iot,1,CHN,healthtech,True,1,No,76.18,7537.57,28,17,3,High,Significant,High,5
+PAT-2002-309,2024,ai_ml,2,USA,hardware,True,1,No,178.64,6375.43,40,36,2,Medium,Moderate,Medium,1
+PAT-2002-310,2021,cybersecurity,2,USA,software,True,1,Yes,333.05,6691.54,9,20,1,Medium,Marginal,Very Low,1
+PAT-2002-311,2021,ai_ml,1,JPN,software,True,1,No,21.1,2130.93,20,40,2,High,Moderate,Medium,2
+PAT-2002-312,2022,ai_ml,2,CHN,fintech,False,1,Yes,500.0,2820.24,39,25,2,Low,Moderate,Low,2
+PAT-2002-313,2023,iot,3,IND,hardware,True,0,No,48.78,9673.97,19,5,2,Low,Significant,High,3
+PAT-2002-314,2024,iot,4,RUS,hardware,True,1,Yes,102.89,5505.6,16,20,2,Low,Moderate,Low,2
+PAT-2002-315,2024,blockchain,4,USA,fintech,True,1,Yes,175.66,4743.89,17,23,2,High,Marginal,Very Low,3
+PAT-2002-316,2020,iot,3,USA,hardware,False,0,No,9.4,3594.19,25,8,3,Medium,Moderate,High,3
+PAT-2002-317,2020,ai_ml,1,USA,software,True,1,No,43.76,5519.86,21,40,2,Medium,Moderate,High,3
+PAT-2002-318,2023,iot,1,KOR,telecom,False,1,No,3.38,8261.22,27,24,2,Low,Breakthrough,High,3
+PAT-2002-319,2021,ai_ml,2,CHN,healthtech,False,1,Yes,272.54,2904.06,38,34,3,Medium,Marginal,Very Low,3
+PAT-2002-320,2024,ai_ml,1,USA,healthtech,True,1,Yes,198.15,2095.4,43,58,2,Medium,Significant,Very High,2
+PAT-2002-321,2023,ai_ml,2,JPN,fintech,True,1,Yes,10.54,3747.25,23,40,3,High,Moderate,Medium,3
+PAT-2002-322,2020,ai_ml,3,USA,software,False,1,Yes,12.72,5425.46,34,45,2,High,Significant,Medium,4
+PAT-2002-323,2023,ai_ml,1,GBR,fintech,True,1,Yes,371.97,9801.55,46,37,3,Medium,Moderate,Medium,2
+PAT-2002-324,2021,blockchain,4,USA,software,False,1,No,5.94,3830.16,15,25,1,Medium,Marginal,Low,1
+PAT-2002-325,2022,ai_ml,2,KOR,software,True,1,No,7.65,3285.59,30,45,3,Low,Significant,High,5
+PAT-2002-326,2022,ai_ml,1,USA,hardware,False,1,No,16.3,9249.83,21,39,2,Medium,Moderate,Medium,2
+PAT-2002-327,2022,iot,2,CHN,hardware,False,0,Yes,305.1,3476.66,9,8,1,Low,Moderate,Medium,0
+PAT-2002-328,2023,ai_ml,1,KOR,software,False,1,Yes,433.83,5773.26,32,39,3,Low,Significant,High,3
+PAT-2002-329,2023,iot,1,GBR,telecom,True,1,Yes,192.24,980.36,18,21,1,Medium,Moderate,Medium,1
+PAT-2002-330,2024,cybersecurity,1,USA,software,False,1,No,43.93,563.25,15,24,2,High,Significant,High,5
+PAT-2002-331,2024,blockchain,2,USA,fintech,False,0,No,10.78,6896.84,15,11,1,Medium,Moderate,Medium,1
+PAT-2002-332,2022,cybersecurity,3,RUS,telecom,True,1,No,13.49,3832.0,21,33,2,High,Moderate,High,2
+PAT-2002-333,2020,ai_ml,1,CHN,hardware,True,1,No,8.03,1556.65,22,39,3,Medium,Moderate,Medium,3
+PAT-2002-334,2023,ai_ml,2,CHN,software,False,1,Yes,391.88,8638.87,44,43,2,High,Breakthrough,High,4
+PAT-2002-335,2024,iot,2,CHN,telecom,False,1,Yes,500.0,6945.36,20,26,1,High,Moderate,Medium,2
+PAT-2002-336,2021,quantum,1,KOR,hardware,False,1,No,13.99,3711.09,49,36,2,Low,Moderate,Low,1
+PAT-2002-337,2022,quantum,2,USA,software,True,1,No,4.95,4876.81,20,34,2,Low,Moderate,Medium,3
+PAT-2002-338,2022,ai_ml,2,USA,software,True,1,Yes,35.03,2397.11,17,25,2,High,Marginal,Low,4
+PAT-2002-339,2020,quantum,2,KOR,hardware,False,1,No,117.75,5303.66,33,22,2,High,Marginal,Very Low,1
+PAT-2002-340,2023,blockchain,4,RUS,fintech,False,1,Yes,495.08,1599.56,13,21,3,Low,Moderate,Medium,3
+PAT-2002-341,2022,ai_ml,1,USA,software,True,1,No,45.8,4772.86,46,36,2,Low,Breakthrough,Medium,4
+PAT-2002-342,2023,ai_ml,2,JPN,software,True,1,Yes,354.94,5581.18,19,49,2,High,Significant,Very High,2
+PAT-2002-343,2023,cybersecurity,4,USA,software,False,1,Yes,22.39,9104.32,14,28,2,Low,Moderate,High,2
+PAT-2002-344,2023,ai_ml,3,RUS,healthtech,False,0,Yes,167.33,7977.06,45,16,3,Low,Moderate,Low,4
+PAT-2002-345,2022,quantum,2,USA,hardware,True,1,No,11.46,4250.95,26,45,2,Low,Marginal,Very Low,0
+PAT-2002-346,2021,iot,2,USA,hardware,True,1,Yes,251.36,5215.25,18,23,1,Medium,Significant,Very High,4
+PAT-2002-347,2023,iot,2,DEU,software,True,1,No,67.61,513.51,23,15,1,High,Marginal,Very Low,5
+PAT-2002-348,2023,iot,4,IND,hardware,True,1,No,48.26,4382.64,29,26,1,High,Moderate,High,1
+PAT-2002-349,2022,cybersecurity,1,DEU,software,True,1,No,53.56,8520.51,25,25,3,High,Significant,Medium,5
+PAT-2002-350,2024,ai_ml,1,CHN,software,True,0,Yes,17.34,3925.28,37,9,3,Low,Breakthrough,Low,5
+PAT-2002-351,2020,ai_ml,1,CHN,software,False,1,Yes,224.64,3885.26,33,28,2,Medium,Breakthrough,High,2
+PAT-2002-352,2024,iot,3,CHN,telecom,False,1,Yes,148.58,775.56,17,22,2,Medium,Moderate,Low,1
+PAT-2002-353,2020,blockchain,3,RUS,fintech,True,0,Yes,224.29,2567.58,9,8,2,Medium,Significant,High,1
+PAT-2002-354,2021,ai_ml,2,CHN,software,False,1,Yes,87.16,7907.25,50,33,2,Low,Moderate,Medium,1
+PAT-2002-355,2022,ai_ml,1,KOR,hardware,False,1,No,11.4,4260.34,23,30,3,High,Moderate,High,4
+PAT-2002-356,2020,ai_ml,1,USA,software,True,1,No,9.89,8019.76,22,39,2,High,Significant,Medium,2
+PAT-2002-357,2020,ai_ml,2,CHN,software,True,1,Yes,25.96,8845.3,33,57,2,Medium,Marginal,Low,1
+PAT-2002-358,2020,ai_ml,3,USA,software,False,1,Yes,35.22,8153.27,17,30,3,High,Moderate,Low,5
+PAT-2002-359,2022,cybersecurity,2,CHN,software,False,1,Yes,214.88,8329.74,25,16,3,Medium,Moderate,Low,2
+PAT-2002-360,2023,ai_ml,1,CHN,fintech,False,1,No,16.46,6652.19,36,37,3,Medium,Significant,High,4
+PAT-2002-361,2020,cybersecurity,3,CHN,software,True,1,Yes,370.28,4782.5,15,29,2,Low,Significant,Medium,3
+PAT-2002-362,2023,cybersecurity,3,USA,telecom,True,1,No,27.4,9688.24,20,24,3,Medium,Moderate,Medium,4
+PAT-2002-363,2023,ai_ml,1,USA,software,True,1,No,47.3,9661.84,45,28,3,Medium,Significant,High,3
+PAT-2002-364,2021,iot,1,KOR,healthtech,False,1,No,94.9,2847.57,15,13,2,High,Moderate,Medium,3
+PAT-2002-365,2020,iot,3,USA,software,False,1,No,46.19,8152.3,15,24,1,Low,Breakthrough,Medium,1
+PAT-2002-366,2024,iot,3,USA,telecom,False,1,Yes,133.83,4366.82,14,23,3,Medium,Significant,Very High,3
+PAT-2002-367,2023,ai_ml,2,USA,software,True,1,No,22.8,4210.73,46,43,3,Low,Marginal,Very Low,2
+PAT-2002-368,2022,ai_ml,2,USA,software,True,1,Yes,19.12,5209.7,46,24,3,Medium,Moderate,Low,4
+PAT-2002-369,2023,ai_ml,2,JPN,hardware,True,1,Yes,261.77,3872.74,17,39,3,Low,Significant,High,3
+PAT-2002-370,2020,iot,4,IND,telecom,False,1,No,6.0,5206.01,15,37,2,Low,Moderate,Medium,1
+PAT-2002-371,2022,cybersecurity,3,IND,software,True,1,No,5.2,1195.29,17,18,2,Low,Moderate,Low,1
+PAT-2002-372,2023,iot,3,DEU,telecom,False,1,No,20.26,7478.43,24,31,3,Medium,Moderate,Medium,2
+PAT-2002-373,2021,iot,4,IND,hardware,False,1,No,26.05,8483.08,16,21,2,Low,Significant,Medium,1
+PAT-2002-374,2023,cybersecurity,1,USA,software,True,1,No,30.72,7721.78,19,30,2,Low,Moderate,High,2
+PAT-2002-375,2022,iot,2,USA,hardware,True,1,Yes,99.37,1270.04,15,27,1,Low,Significant,Medium,2
+PAT-2002-376,2023,ai_ml,1,GBR,healthtech,True,1,Yes,490.16,1834.7,42,46,3,Low,Significant,Medium,6
+PAT-2002-377,2022,cybersecurity,2,USA,software,True,1,No,69.12,9611.91,26,31,1,Low,Significant,Medium,2
+PAT-2002-378,2022,blockchain,2,CHN,fintech,True,1,No,6.19,3554.3,5,17,2,High,Moderate,High,2
+PAT-2002-379,2021,ai_ml,1,KOR,software,False,1,No,85.54,7080.66,32,19,2,Medium,Significant,Very High,6
+PAT-2002-380,2021,iot,4,USA,hardware,False,1,No,39.84,1840.29,27,20,1,Medium,Moderate,Low,1
+PAT-2002-381,2023,cybersecurity,4,RUS,software,True,0,Yes,319.3,4141.57,20,14,2,Medium,Moderate,Medium,1
+PAT-2002-382,2020,ai_ml,3,GBR,software,True,1,No,56.39,4376.1,25,33,2,Low,Significant,Medium,1
+PAT-2002-383,2020,blockchain,3,USA,fintech,False,1,Yes,154.44,2964.89,10,23,2,Medium,Marginal,Very Low,2
+PAT-2002-384,2021,ai_ml,1,JPN,healthtech,True,1,No,40.18,3353.73,34,33,3,Medium,Moderate,Low,5
+PAT-2002-385,2021,ai_ml,1,USA,healthtech,True,0,No,23.18,3720.77,30,10,3,Medium,Breakthrough,Medium,4
+PAT-2002-386,2023,ai_ml,3,USA,software,True,0,No,18.71,784.08,50,10,3,Low,Marginal,Low,2
+PAT-2002-387,2022,iot,4,DEU,healthtech,False,0,Yes,6.08,3640.91,13,12,2,Low,Moderate,Low,1
+PAT-2002-388,2024,cybersecurity,2,USA,software,True,1,Yes,125.48,5975.09,19,22,1,High,Moderate,Medium,2
+PAT-2002-389,2020,ai_ml,1,JPN,software,True,1,No,11.95,3566.0,22,37,2,High,Breakthrough,High,4
+PAT-2002-390,2023,ai_ml,2,DEU,hardware,True,1,No,41.23,4859.95,34,43,3,Medium,Marginal,Very Low,4
+PAT-2002-391,2022,ai_ml,2,DEU,software,True,1,No,66.49,5083.5,15,31,2,Low,Moderate,Medium,1
+PAT-2002-392,2022,ai_ml,1,USA,hardware,True,1,No,14.23,5503.4,21,33,3,Low,Significant,Medium,3
+PAT-2002-393,2024,iot,4,USA,hardware,False,0,No,39.08,9918.88,24,7,2,Medium,Moderate,High,1
+PAT-2002-394,2024,iot,2,USA,software,True,1,Yes,70.99,871.81,16,24,2,Low,Marginal,Very Low,0
+PAT-2002-395,2024,iot,1,GBR,telecom,True,1,No,32.42,2150.25,26,22,2,Low,Moderate,Medium,3
+PAT-2002-396,2021,blockchain,3,USA,telecom,False,1,No,30.14,8329.32,8,30,2,Medium,Marginal,Low,2
+PAT-2002-397,2021,iot,3,IND,hardware,False,0,Yes,293.94,7459.77,10,8,2,High,Moderate,Medium,6
+PAT-2002-398,2023,ai_ml,3,RUS,fintech,False,0,Yes,75.71,3945.45,20,18,3,High,Moderate,Medium,3
+PAT-2002-399,2021,ai_ml,2,KOR,software,False,1,Yes,175.64,1566.99,34,58,2,Medium,Moderate,Low,1
+PAT-2002-400,2023,cybersecurity,3,IND,software,False,1,No,146.64,8195.5,17,25,2,High,Marginal,Very Low,3
+PAT-2003-001,2022,quantum,3,CHN,hardware,False,1,Yes,55.86,5415.45,30,43,3,High,Moderate,Low,3
+PAT-2003-002,2022,cybersecurity,3,RUS,fintech,True,1,Yes,137.48,8108.55,13,21,2,Medium,Moderate,Medium,1
+PAT-2003-003,2023,cybersecurity,3,USA,software,True,0,Yes,416.56,8412.03,15,9,2,Medium,Significant,Medium,5
+PAT-2003-004,2023,iot,4,DEU,telecom,False,0,No,24.96,2150.47,28,7,2,Low,Significant,Medium,2
+PAT-2003-005,2020,cybersecurity,3,IND,software,False,0,No,6.12,3879.73,9,14,1,Low,Moderate,Low,2
+PAT-2003-006,2020,blockchain,4,USA,fintech,True,1,No,60.19,4216.49,15,28,2,Low,Moderate,Medium,2
+PAT-2003-007,2023,ai_ml,2,KOR,software,True,1,Yes,500.0,2905.21,15,49,3,High,Moderate,Low,5
+PAT-2003-008,2022,ai_ml,2,USA,software,True,1,No,13.62,9693.73,30,31,2,Low,Moderate,Low,2
+PAT-2003-009,2021,ai_ml,2,USA,fintech,True,1,Yes,46.05,8617.07,48,45,3,Medium,Significant,High,5
+PAT-2003-010,2022,ai_ml,3,USA,fintech,True,0,Yes,120.36,5289.61,21,13,3,High,Moderate,Medium,4
+PAT-2003-011,2023,blockchain,3,DEU,software,True,0,No,20.62,9969.83,6,12,2,Low,Significant,High,2
+PAT-2003-012,2023,iot,3,USA,hardware,True,0,Yes,124.51,6884.15,27,8,1,Low,Marginal,Very Low,3
+PAT-2003-013,2022,quantum,2,DEU,hardware,True,1,No,2.49,7802.03,46,40,3,Low,Moderate,High,3
+PAT-2003-014,2022,iot,2,USA,healthtech,True,1,Yes,379.04,625.28,27,23,1,Medium,Moderate,Low,3
+PAT-2003-015,2021,ai_ml,1,GBR,healthtech,True,1,Yes,206.02,7057.44,38,21,3,Low,Significant,High,3
+PAT-2003-016,2022,iot,2,USA,hardware,False,1,No,87.38,6510.02,17,27,3,Medium,Significant,Medium,5
+PAT-2003-017,2021,blockchain,3,DEU,software,True,1,No,43.27,7961.82,9,32,2,Medium,Marginal,Low,0
+PAT-2003-018,2022,ai_ml,1,CHN,software,False,1,Yes,500.0,9115.56,23,42,3,Medium,Moderate,Low,1
+PAT-2003-019,2023,ai_ml,1,GBR,healthtech,True,1,No,8.01,5603.85,15,36,2,Low,Breakthrough,Very High,2
+PAT-2003-020,2020,ai_ml,2,USA,software,True,1,Yes,79.36,6661.35,45,46,3,Low,Significant,High,4
+PAT-2003-021,2020,ai_ml,2,DEU,healthtech,True,1,No,7.73,6960.44,22,28,2,High,Moderate,Low,4
+PAT-2003-022,2021,quantum,3,USA,hardware,False,0,Yes,224.59,7667.15,39,9,2,Medium,Moderate,Low,0
+PAT-2003-023,2024,quantum,2,CHN,software,False,0,Yes,67.83,4123.19,25,10,3,Medium,Moderate,Medium,1
+PAT-2003-024,2023,iot,3,CHN,hardware,False,0,No,30.87,3903.47,16,12,3,Low,Marginal,Very Low,3
+PAT-2003-025,2021,ai_ml,3,IND,software,True,1,Yes,500.0,8539.39,25,40,2,Medium,Marginal,Low,2
+PAT-2003-026,2024,quantum,2,USA,cybersecurity,False,1,Yes,113.58,934.04,26,31,3,Medium,Moderate,Medium,3
+PAT-2003-027,2022,iot,4,GBR,healthtech,False,1,Yes,28.1,6919.68,23,20,2,Medium,Marginal,Low,2
+PAT-2003-028,2022,ai_ml,2,CHN,fintech,True,1,Yes,228.5,1458.53,15,42,2,Low,Moderate,Low,2
+PAT-2003-029,2024,iot,1,JPN,hardware,True,1,No,19.01,1743.8,14,20,3,Medium,Significant,Medium,4
+PAT-2003-030,2020,blockchain,3,USA,fintech,True,1,Yes,31.18,3091.26,6,23,2,High,Significant,High,3
+PAT-2003-031,2021,blockchain,2,CHN,fintech,True,1,Yes,71.63,4507.1,5,25,1,Medium,Moderate,Medium,1
+PAT-2003-032,2022,ai_ml,1,USA,software,True,1,Yes,79.11,8012.91,15,37,2,High,Significant,High,2
+PAT-2003-033,2021,iot,2,KOR,hardware,True,1,Yes,59.3,9073.14,14,26,2,High,Moderate,Medium,4
+PAT-2003-034,2023,ai_ml,2,USA,software,True,0,Yes,21.79,8448.04,17,22,3,Medium,Marginal,Low,1
+PAT-2003-035,2021,ai_ml,2,CHN,software,True,1,Yes,44.04,2969.72,43,37,2,Low,Significant,Very High,4
+PAT-2003-036,2020,ai_ml,2,USA,software,False,1,Yes,500.0,2413.0,37,33,3,Medium,Marginal,Very Low,4
+PAT-2003-037,2021,cybersecurity,2,JPN,software,False,1,Yes,132.0,3176.98,16,20,3,Low,Marginal,Low,3
+PAT-2003-038,2022,ai_ml,2,CHN,software,False,0,Yes,13.55,1566.57,30,7,3,Medium,Moderate,Low,6
+PAT-2003-039,2021,blockchain,2,USA,fintech,True,1,Yes,26.39,1067.35,13,22,3,Medium,Moderate,Medium,2
+PAT-2003-040,2020,ai_ml,3,DEU,software,True,0,Yes,20.13,5813.68,40,13,3,High,Moderate,Medium,3
+PAT-2003-041,2024,cybersecurity,1,JPN,software,True,1,No,29.28,3393.39,28,30,1,Medium,Moderate,Low,0
+PAT-2003-042,2021,iot,2,KOR,hardware,False,0,No,10.19,1195.19,27,7,2,Medium,Moderate,High,1
+PAT-2003-043,2022,cybersecurity,1,USA,software,True,1,Yes,146.35,6177.24,16,17,1,Medium,Moderate,Medium,1
+PAT-2003-044,2020,ai_ml,1,DEU,software,False,1,No,18.13,4724.73,40,25,3,Medium,Breakthrough,Medium,8
+PAT-2003-045,2022,ai_ml,1,USA,fintech,True,1,No,6.17,9025.53,23,34,3,High,Significant,Medium,7
+PAT-2003-046,2021,iot,2,JPN,hardware,False,1,Yes,143.86,502.68,16,22,2,Medium,Marginal,Very Low,3
+PAT-2003-047,2023,ai_ml,1,CHN,software,False,1,No,39.07,8115.31,23,40,3,Medium,Moderate,Medium,3
+PAT-2003-048,2021,quantum,2,KOR,cybersecurity,False,1,Yes,257.29,3670.09,40,37,2,High,Marginal,Low,3
+PAT-2003-049,2024,cybersecurity,3,GBR,software,False,0,No,47.63,9732.73,15,11,2,Medium,Moderate,Medium,0
+PAT-2003-050,2024,blockchain,3,USA,software,False,1,Yes,398.55,8281.63,8,26,2,Medium,Marginal,Low,3
+PAT-2003-051,2020,cybersecurity,4,USA,fintech,False,0,No,18.39,5010.22,15,7,1,Medium,Moderate,Medium,1
+PAT-2003-052,2020,iot,4,RUS,healthtech,True,1,No,33.67,6872.58,12,23,3,High,Significant,High,3
+PAT-2003-053,2020,ai_ml,1,USA,software,False,1,Yes,26.93,5268.71,34,34,2,Low,Significant,Very High,2
+PAT-2003-054,2023,blockchain,3,USA,telecom,False,1,Yes,500.0,5871.9,9,24,3,Medium,Marginal,Very Low,1
+PAT-2003-055,2020,ai_ml,1,USA,healthtech,True,1,Yes,222.16,6737.47,28,33,2,Low,Significant,High,2
+PAT-2003-056,2024,quantum,1,GBR,hardware,True,1,Yes,453.86,4753.18,33,45,2,Medium,Breakthrough,Medium,1
+PAT-2003-057,2023,ai_ml,3,GBR,software,True,1,No,33.06,3273.83,17,28,2,Medium,Significant,Medium,2
+PAT-2003-058,2023,ai_ml,1,USA,hardware,True,1,No,10.65,7758.88,34,51,3,Medium,Breakthrough,Medium,3
+PAT-2003-059,2022,iot,3,IND,hardware,False,1,Yes,52.69,7534.79,25,18,1,Low,Significant,Medium,3
+PAT-2003-060,2024,ai_ml,3,USA,healthtech,False,1,Yes,500.0,1995.67,27,43,3,Medium,Moderate,Medium,2
+PAT-2003-061,2020,ai_ml,2,USA,software,True,0,Yes,81.52,1260.78,30,12,3,Medium,Moderate,Medium,3
+PAT-2003-062,2022,iot,2,CHN,healthtech,True,0,Yes,33.24,2419.97,26,18,3,High,Marginal,Very Low,4
+PAT-2003-063,2021,ai_ml,2,KOR,software,False,1,Yes,308.16,8621.53,24,40,2,Low,Moderate,Medium,1
+PAT-2003-064,2024,blockchain,2,JPN,fintech,True,1,No,21.6,4313.8,17,37,1,High,Moderate,Low,4
+PAT-2003-065,2022,ai_ml,1,CHN,healthtech,False,1,Yes,134.5,6012.97,23,31,3,Medium,Significant,Very High,6
+PAT-2003-066,2023,ai_ml,2,USA,fintech,True,1,Yes,50.39,6058.61,38,39,2,Medium,Breakthrough,Medium,3
+PAT-2003-067,2021,ai_ml,1,USA,software,True,1,Yes,275.65,5618.16,35,28,3,High,Breakthrough,Medium,4
+PAT-2003-068,2024,quantum,3,USA,hardware,False,1,Yes,81.99,1356.59,50,36,2,Low,Significant,Medium,3
+PAT-2003-069,2022,cybersecurity,2,JPN,telecom,True,1,Yes,218.83,2033.89,21,31,2,High,Moderate,Low,3
+PAT-2003-070,2022,ai_ml,1,KOR,software,False,1,No,23.39,6764.05,40,42,3,High,Significant,Medium,4
+PAT-2003-071,2024,cybersecurity,1,DEU,telecom,True,1,No,45.29,4438.11,24,24,1,Medium,Moderate,Medium,3
+PAT-2003-072,2022,iot,2,CHN,hardware,False,1,No,19.25,5874.36,10,25,2,Low,Marginal,Very Low,2
+PAT-2003-073,2022,iot,3,GBR,healthtech,False,0,Yes,57.81,5964.18,18,17,2,Medium,Moderate,Medium,1
+PAT-2003-074,2022,iot,2,CHN,telecom,False,0,No,5.75,8566.2,22,9,1,Medium,Significant,Medium,2
+PAT-2003-075,2020,iot,2,USA,healthtech,True,0,Yes,29.48,3185.69,25,7,1,Medium,Moderate,Medium,1
+PAT-2003-076,2021,quantum,1,GBR,hardware,True,1,No,17.36,5579.36,22,33,2,Medium,Breakthrough,Medium,2
+PAT-2003-077,2021,blockchain,4,USA,telecom,False,1,Yes,211.11,6179.97,11,28,3,Low,Moderate,Low,3
+PAT-2003-078,2020,iot,3,USA,telecom,True,1,No,8.18,8085.41,29,21,2,Medium,Significant,Medium,1
+PAT-2003-079,2024,ai_ml,2,USA,software,False,1,No,13.98,1134.24,41,43,3,Low,Significant,Medium,3
+PAT-2003-080,2022,ai_ml,2,JPN,software,True,1,Yes,12.08,5502.31,37,42,3,Low,Marginal,Very Low,4
+PAT-2003-081,2022,iot,4,USA,hardware,True,0,No,34.47,9794.68,26,12,1,Low,Marginal,Very Low,1
+PAT-2003-082,2022,ai_ml,2,USA,software,True,1,Yes,432.72,5795.93,20,31,3,Low,Significant,High,4
+PAT-2003-083,2022,ai_ml,2,USA,software,False,1,No,33.63,6041.63,34,37,2,Medium,Moderate,Medium,0
+PAT-2003-084,2023,ai_ml,2,CHN,fintech,False,1,Yes,84.05,4388.09,41,33,3,Medium,Moderate,Medium,3
+PAT-2003-085,2024,ai_ml,2,CHN,software,False,1,Yes,9.1,1211.76,21,33,2,High,Moderate,Low,2
+PAT-2003-086,2024,iot,3,USA,hardware,False,0,Yes,36.97,7203.09,10,7,2,Medium,Moderate,High,1
+PAT-2003-087,2022,iot,4,IND,telecom,False,0,No,44.12,5403.41,18,7,2,Low,Significant,High,2
+PAT-2003-088,2021,blockchain,2,USA,fintech,False,1,Yes,43.41,5834.84,12,22,1,Low,Moderate,Medium,0
+PAT-2003-089,2022,ai_ml,2,CHN,software,True,1,Yes,500.0,1995.08,33,36,2,High,Marginal,Low,4
+PAT-2003-090,2022,blockchain,2,CHN,fintech,False,1,No,65.71,3767.92,7,34,3,Low,Moderate,Low,2
+PAT-2003-091,2022,blockchain,2,USA,fintech,True,1,No,55.33,1739.3,7,26,2,Medium,Moderate,Medium,2
+PAT-2003-092,2023,iot,1,CHN,hardware,False,1,Yes,100.92,7474.08,12,20,1,Low,Marginal,Very Low,3
+PAT-2003-093,2022,iot,3,DEU,healthtech,True,1,No,5.98,3693.11,12,30,3,Medium,Moderate,High,3
+PAT-2003-094,2021,blockchain,4,USA,fintech,False,0,Yes,136.82,4040.81,7,13,1,High,Marginal,Very Low,1
+PAT-2003-095,2021,blockchain,3,DEU,fintech,False,1,Yes,500.0,5687.59,8,20,3,Medium,Moderate,Medium,2
+PAT-2003-096,2022,cybersecurity,2,USA,software,True,0,No,11.35,7738.62,9,8,1,Low,Moderate,Medium,2
+PAT-2003-097,2020,quantum,2,JPN,hardware,True,1,No,45.83,3180.55,26,39,3,Low,Moderate,Medium,5
+PAT-2003-098,2021,blockchain,4,USA,fintech,False,0,Yes,121.43,3456.1,5,7,1,Medium,Marginal,Low,5
+PAT-2003-099,2023,blockchain,3,GBR,fintech,True,0,Yes,500.0,7311.78,14,10,2,Low,Moderate,Medium,3
+PAT-2003-100,2022,ai_ml,1,KOR,software,False,1,No,7.36,9844.92,24,45,3,Low,Significant,Medium,3
+PAT-2003-101,2021,cybersecurity,2,CHN,fintech,False,1,Yes,95.01,5463.49,13,16,1,Medium,Moderate,Medium,2
+PAT-2003-102,2022,ai_ml,2,DEU,software,True,1,No,12.52,8463.23,17,36,3,Low,Marginal,Very Low,3
+PAT-2003-103,2023,ai_ml,2,KOR,software,False,1,Yes,8.8,1759.75,39,31,3,High,Moderate,High,4
+PAT-2003-104,2021,cybersecurity,2,DEU,software,True,1,Yes,18.44,7291.05,11,25,3,Low,Significant,Medium,4
+PAT-2003-105,2023,iot,2,KOR,healthtech,False,1,No,3.55,6243.84,8,19,2,Medium,Moderate,Low,0
+PAT-2003-106,2024,ai_ml,3,RUS,software,False,1,Yes,47.67,1115.34,36,30,2,Low,Moderate,Medium,0
+PAT-2003-107,2022,ai_ml,3,IND,healthtech,True,0,No,13.64,7708.77,49,19,2,Low,Marginal,Low,1
+PAT-2003-108,2023,ai_ml,1,JPN,software,True,1,No,37.24,7548.48,16,30,3,Low,Breakthrough,Medium,7
+PAT-2003-109,2020,iot,4,USA,hardware,False,0,Yes,166.17,3009.67,16,6,3,High,Moderate,Low,3
+PAT-2003-110,2024,ai_ml,2,USA,healthtech,True,1,Yes,124.26,3950.45,30,31,3,High,Moderate,Medium,4
+PAT-2003-111,2022,cybersecurity,2,CHN,software,False,1,Yes,13.85,8423.45,15,26,2,Medium,Moderate,Low,1
+PAT-2003-112,2024,cybersecurity,1,DEU,software,True,1,No,35.24,7079.9,8,23,2,Low,Marginal,Very Low,1
+PAT-2003-113,2022,iot,2,USA,hardware,False,1,Yes,261.68,720.68,25,33,1,Medium,Marginal,Very Low,1
+PAT-2003-114,2020,iot,3,USA,hardware,False,0,Yes,500.0,745.92,11,9,1,Low,Significant,Medium,4
+PAT-2003-115,2020,ai_ml,2,CHN,software,False,1,Yes,163.61,5685.86,40,42,3,Medium,Moderate,Low,3
+PAT-2003-116,2023,ai_ml,1,KOR,software,False,0,Yes,38.83,2374.79,33,25,2,Medium,Significant,Medium,2
+PAT-2003-117,2022,iot,2,DEU,telecom,False,1,No,7.22,5098.36,23,21,3,Low,Significant,Very High,4
+PAT-2003-118,2020,ai_ml,2,KOR,software,False,0,No,12.16,6245.09,30,9,3,Medium,Moderate,Low,2
+PAT-2003-119,2023,ai_ml,3,GBR,software,False,0,Yes,132.6,1873.89,23,9,2,Medium,Moderate,Low,0
+PAT-2003-120,2024,ai_ml,1,USA,fintech,True,1,Yes,500.0,7930.13,39,37,2,High,Moderate,High,3
+PAT-2003-121,2022,ai_ml,1,USA,healthtech,False,1,No,442.51,7180.66,18,39,3,Low,Moderate,Low,3
+PAT-2003-122,2022,blockchain,3,USA,software,False,0,No,44.84,3880.01,16,11,1,Low,Moderate,Medium,2
+PAT-2003-123,2020,iot,3,RUS,hardware,False,0,Yes,95.98,2282.54,26,5,2,Medium,Moderate,High,1
+PAT-2003-124,2023,quantum,1,DEU,hardware,False,0,Yes,102.45,3185.75,24,19,3,Medium,Breakthrough,High,9
+PAT-2003-125,2021,iot,3,USA,software,True,1,Yes,15.97,6651.79,28,23,2,Medium,Moderate,Medium,4
+PAT-2003-126,2024,quantum,3,RUS,cybersecurity,False,1,No,23.29,9458.67,21,54,2,Medium,Significant,High,1
+PAT-2003-127,2022,blockchain,4,RUS,fintech,False,0,Yes,500.0,3778.52,9,10,2,Medium,Marginal,Low,1
+PAT-2003-128,2022,quantum,3,CHN,cybersecurity,True,0,No,24.01,7668.81,32,9,3,Low,Moderate,Low,3
+PAT-2003-129,2021,iot,3,USA,healthtech,False,1,Yes,223.95,8627.32,14,17,1,Medium,Significant,High,2
+PAT-2003-130,2021,ai_ml,3,GBR,fintech,False,0,Yes,95.19,9797.84,18,18,3,Low,Significant,Medium,4
+PAT-2003-131,2023,cybersecurity,3,CHN,software,False,1,Yes,359.1,2967.51,11,29,2,Low,Significant,Very High,2
+PAT-2003-132,2022,ai_ml,3,USA,software,True,1,Yes,21.81,1189.22,35,36,3,Medium,Significant,Very High,5
+PAT-2003-133,2022,ai_ml,1,CHN,software,False,1,Yes,109.87,2974.22,44,39,2,Medium,Moderate,Medium,2
+PAT-2003-134,2024,ai_ml,3,GBR,fintech,False,0,Yes,495.64,560.66,17,12,2,Medium,Moderate,Medium,1
+PAT-2003-135,2024,blockchain,2,USA,software,True,1,Yes,21.99,1174.14,10,25,2,Medium,Moderate,Medium,0
+PAT-2003-136,2024,blockchain,3,IND,software,False,0,No,2.85,6118.07,8,12,2,High,Marginal,Very Low,3
+PAT-2003-137,2021,iot,4,IND,healthtech,False,0,No,8.2,3665.6,28,11,2,Medium,Significant,High,4
+PAT-2003-138,2022,cybersecurity,3,GBR,software,False,0,No,16.71,6969.39,21,8,3,Medium,Significant,Medium,3
+PAT-2003-139,2024,ai_ml,1,USA,healthtech,False,1,Yes,159.65,7651.78,34,40,2,Medium,Breakthrough,High,2
+PAT-2003-140,2022,iot,3,USA,telecom,True,1,No,14.18,7734.59,20,23,3,High,Moderate,Low,3
+PAT-2003-141,2020,ai_ml,1,USA,fintech,False,1,Yes,61.68,3750.6,28,34,3,Low,Moderate,Medium,3
+PAT-2003-142,2023,quantum,2,USA,hardware,True,1,Yes,278.32,1350.99,40,34,3,Medium,Moderate,High,4
+PAT-2003-143,2022,ai_ml,1,GBR,hardware,True,1,No,13.77,2670.79,34,30,3,Medium,Moderate,Medium,2
+PAT-2003-144,2022,ai_ml,2,CHN,software,False,1,Yes,398.62,2601.64,25,34,3,Low,Moderate,Low,3
+PAT-2003-145,2024,iot,3,USA,hardware,True,1,Yes,119.64,8355.35,24,23,1,Medium,Moderate,Low,0
+PAT-2003-146,2023,iot,4,RUS,hardware,False,0,Yes,110.37,7647.42,22,15,2,High,Moderate,Low,2
+PAT-2003-147,2022,quantum,1,JPN,hardware,False,1,No,15.14,3503.16,28,30,3,Medium,Moderate,Low,3
+PAT-2003-148,2022,iot,2,KOR,hardware,False,1,No,2.46,9694.69,22,30,2,Medium,Marginal,Very Low,0
+PAT-2003-149,2022,quantum,3,USA,software,False,1,No,3.1,6252.58,34,42,3,Medium,Moderate,High,1
+PAT-2003-150,2020,blockchain,4,RUS,fintech,False,1,Yes,186.07,6175.94,17,25,1,Medium,Marginal,Low,1
+PAT-2003-151,2023,ai_ml,1,GBR,fintech,True,0,No,51.66,4219.07,28,10,3,Medium,Significant,Medium,3
+PAT-2003-152,2023,ai_ml,2,DEU,software,False,1,Yes,91.21,2153.45,47,40,3,Low,Moderate,High,3
+PAT-2003-153,2021,ai_ml,2,USA,healthtech,True,1,Yes,351.07,3192.3,22,30,3,Low,Breakthrough,Medium,6
+PAT-2003-154,2021,ai_ml,3,GBR,software,True,1,Yes,23.08,9325.27,21,45,3,Medium,Moderate,Medium,3
+PAT-2003-155,2024,blockchain,3,DEU,telecom,False,1,Yes,33.77,4407.59,6,28,3,Low,Marginal,Low,3
+PAT-2003-156,2020,blockchain,2,USA,fintech,True,0,No,24.51,9227.46,6,13,1,High,Marginal,Very Low,2
+PAT-2003-157,2022,iot,1,KOR,hardware,False,1,No,87.11,7971.18,28,20,3,Low,Moderate,Low,3
+PAT-2003-158,2022,blockchain,3,USA,fintech,False,1,Yes,120.54,3624.14,15,29,2,Low,Moderate,High,1
+PAT-2003-159,2023,iot,4,RUS,hardware,False,1,Yes,47.99,6561.08,10,19,1,Medium,Significant,Medium,3
+PAT-2003-160,2021,iot,2,DEU,healthtech,True,1,Yes,33.58,5835.23,29,29,1,High,Significant,Medium,5
+PAT-2003-161,2023,ai_ml,1,DEU,software,True,1,Yes,45.17,4428.15,31,28,2,Medium,Breakthrough,Very High,2
+PAT-2003-162,2022,ai_ml,2,USA,fintech,True,1,Yes,51.49,9270.83,18,28,2,Medium,Significant,Very High,3
+PAT-2003-163,2023,iot,4,USA,hardware,True,1,No,54.09,1527.88,8,25,2,Medium,Marginal,Very Low,2
+PAT-2003-164,2020,iot,1,CHN,hardware,True,1,No,43.37,2710.87,9,16,2,Medium,Significant,High,2
+PAT-2003-165,2022,ai_ml,1,KOR,software,False,1,Yes,63.47,5706.86,25,33,2,High,Moderate,High,2
+PAT-2003-166,2022,ai_ml,3,USA,software,True,0,Yes,167.44,8502.62,20,25,3,High,Significant,High,8
+PAT-2003-167,2021,iot,2,DEU,hardware,False,1,Yes,500.0,6116.0,24,29,2,Low,Significant,High,3
+PAT-2003-168,2020,iot,1,GBR,telecom,True,0,No,8.23,4524.24,8,7,2,Medium,Significant,Medium,2
+PAT-2003-169,2021,ai_ml,2,USA,software,False,1,No,4.84,2840.42,45,30,3,Low,Breakthrough,Medium,7
+PAT-2003-170,2021,blockchain,4,IND,fintech,False,1,Yes,355.95,4411.8,15,27,1,Low,Marginal,Very Low,1
+PAT-2003-171,2020,cybersecurity,2,USA,fintech,False,1,Yes,155.42,1340.03,15,25,2,Low,Moderate,Medium,2
+PAT-2003-172,2024,ai_ml,2,USA,fintech,True,1,Yes,244.92,8279.8,46,43,3,High,Moderate,Medium,6
+PAT-2003-173,2022,cybersecurity,3,USA,software,False,1,No,13.34,763.23,10,21,3,Medium,Moderate,High,3
+PAT-2003-174,2023,ai_ml,2,CHN,software,False,1,Yes,166.87,5990.47,21,22,3,High,Significant,High,4
+PAT-2003-175,2024,iot,3,USA,healthtech,False,0,Yes,73.48,8071.72,9,15,2,Medium,Breakthrough,Medium,2
+PAT-2003-176,2020,blockchain,3,IND,fintech,False,1,Yes,116.66,7115.02,5,28,2,Medium,Moderate,Medium,1
+PAT-2003-177,2023,ai_ml,2,CHN,healthtech,False,1,No,30.39,4832.99,18,45,3,Low,Marginal,Low,3
+PAT-2003-178,2024,cybersecurity,4,DEU,telecom,False,0,No,28.31,6800.26,18,13,2,Low,Moderate,High,3
+PAT-2003-179,2023,blockchain,2,CHN,fintech,False,1,Yes,15.1,9276.01,6,22,3,Medium,Moderate,Medium,6
+PAT-2003-180,2022,cybersecurity,1,GBR,software,False,1,No,29.38,6398.15,16,20,1,Medium,Moderate,Medium,0
+PAT-2003-181,2022,ai_ml,1,USA,software,True,1,No,32.06,6247.52,46,49,2,Low,Significant,Medium,2
+PAT-2003-182,2020,cybersecurity,2,CHN,software,False,1,No,16.3,9089.56,11,14,2,Medium,Moderate,High,1
+PAT-2003-183,2022,cybersecurity,2,USA,telecom,True,0,Yes,93.84,4796.07,19,5,2,High,Moderate,Medium,2
+PAT-2003-184,2024,iot,1,CHN,telecom,False,1,No,39.26,1472.82,12,25,1,Low,Moderate,High,1
+PAT-2003-185,2024,ai_ml,2,KOR,healthtech,False,1,Yes,500.0,1731.45,25,28,2,Medium,Moderate,Medium,1
+PAT-2003-186,2020,iot,4,DEU,hardware,False,0,No,26.14,5780.46,20,13,2,Medium,Significant,Medium,1
+PAT-2003-187,2023,iot,2,USA,hardware,False,0,Yes,33.52,838.28,22,14,3,Medium,Significant,High,5
+PAT-2003-188,2021,cybersecurity,3,USA,software,False,0,No,17.55,4830.25,21,6,1,Medium,Significant,Medium,2
+PAT-2003-189,2024,blockchain,3,GBR,fintech,True,1,Yes,124.04,9739.16,10,27,2,Medium,Moderate,Low,0
+PAT-2003-190,2020,ai_ml,3,USA,software,False,0,No,52.96,3359.19,32,15,2,Medium,Marginal,Very Low,2
+PAT-2003-191,2024,ai_ml,3,GBR,software,False,1,No,20.13,7804.12,16,39,3,High,Breakthrough,Medium,5
+PAT-2003-192,2023,iot,3,USA,software,False,1,Yes,500.0,6240.56,10,28,3,Low,Moderate,Low,2
+PAT-2003-193,2020,cybersecurity,3,GBR,software,False,0,Yes,86.53,3257.52,24,10,2,High,Marginal,Very Low,2
+PAT-2003-194,2020,ai_ml,1,USA,healthtech,True,1,No,13.53,5216.95,21,36,3,Low,Breakthrough,High,5
+PAT-2003-195,2023,iot,3,USA,hardware,False,1,No,70.36,5168.69,18,27,2,High,Moderate,Medium,2
+PAT-2003-196,2021,cybersecurity,4,RUS,software,True,1,No,29.66,2064.52,25,30,2,Medium,Moderate,Medium,2
+PAT-2003-197,2022,ai_ml,2,KOR,healthtech,False,0,Yes,35.83,8169.17,50,9,2,Low,Significant,Low,4
+PAT-2003-198,2024,ai_ml,3,USA,fintech,False,0,No,18.33,7407.45,33,25,3,Low,Significant,High,4
+PAT-2003-199,2022,iot,4,RUS,telecom,False,0,Yes,25.92,6821.02,15,6,1,Medium,Significant,Medium,2
+PAT-2003-200,2022,iot,2,CHN,hardware,False,0,Yes,19.23,951.95,14,14,3,Low,Significant,Medium,7
+PAT-2003-201,2022,ai_ml,1,KOR,software,False,0,No,29.67,5042.19,44,13,2,Medium,Significant,Medium,4
+PAT-2003-202,2020,quantum,2,USA,hardware,False,0,Yes,37.98,8161.78,45,21,2,High,Moderate,Medium,4
+PAT-2003-203,2024,iot,2,USA,telecom,False,0,Yes,92.9,3906.21,12,7,3,High,Significant,Low,5
+PAT-2003-204,2021,cybersecurity,4,RUS,fintech,False,0,Yes,500.0,6332.91,27,7,3,Low,Moderate,High,3
+PAT-2003-205,2021,cybersecurity,3,GBR,software,True,1,Yes,292.58,2762.08,12,29,1,Low,Moderate,Medium,3
+PAT-2003-206,2021,quantum,1,JPN,hardware,True,0,No,54.86,8357.25,50,24,2,High,Breakthrough,High,3
+PAT-2003-207,2024,iot,2,KOR,hardware,False,1,Yes,88.49,8441.8,8,30,1,Medium,Significant,High,3
+PAT-2003-208,2020,ai_ml,2,USA,fintech,True,0,No,17.75,8334.24,21,19,3,Low,Marginal,Very Low,2
+PAT-2003-209,2024,iot,2,USA,telecom,True,0,Yes,101.16,1676.27,29,9,2,Medium,Marginal,Very Low,4
+PAT-2003-210,2023,ai_ml,1,KOR,healthtech,False,1,Yes,106.28,2886.18,25,31,2,Low,Breakthrough,Very High,3
+PAT-2003-211,2023,iot,2,USA,healthtech,False,1,No,59.15,5236.48,17,29,2,Medium,Marginal,Low,1
+PAT-2003-212,2024,ai_ml,2,KOR,software,False,1,Yes,122.09,3449.57,15,28,2,Medium,Significant,Very High,1
+PAT-2003-213,2023,iot,4,RUS,telecom,False,0,No,68.55,5885.04,20,8,3,High,Marginal,Very Low,6
+PAT-2003-214,2024,ai_ml,1,USA,hardware,True,1,Yes,179.27,924.31,25,31,3,Low,Significant,High,2
+PAT-2003-215,2020,ai_ml,3,USA,fintech,False,1,Yes,6.03,1646.79,41,33,3,High,Moderate,Low,4
+PAT-2003-216,2023,ai_ml,1,USA,software,True,1,No,15.32,6207.24,40,34,3,Low,Moderate,Low,4
+PAT-2003-217,2022,iot,2,USA,hardware,True,1,Yes,390.61,2409.29,9,23,1,Low,Moderate,Low,2
+PAT-2003-218,2022,quantum,1,GBR,software,True,1,Yes,71.8,2707.69,45,39,3,Low,Breakthrough,Very High,4
+PAT-2003-219,2024,ai_ml,2,USA,healthtech,False,0,Yes,51.33,6636.38,35,22,3,High,Moderate,Low,6
+PAT-2003-220,2024,cybersecurity,2,JPN,software,True,1,No,24.54,3193.11,8,22,2,Low,Moderate,High,0
+PAT-2003-221,2023,cybersecurity,2,USA,telecom,True,1,Yes,310.76,5875.98,15,23,3,Medium,Moderate,Medium,5
+PAT-2003-222,2022,ai_ml,3,GBR,hardware,True,0,No,30.6,5195.36,49,18,2,Low,Moderate,Medium,3
+PAT-2003-223,2022,iot,4,USA,telecom,False,0,No,9.34,1629.84,12,17,1,Medium,Moderate,Medium,1
+PAT-2003-224,2022,blockchain,3,IND,fintech,False,0,No,35.96,2114.29,11,13,3,Medium,Moderate,Low,4
+PAT-2003-225,2022,ai_ml,3,DEU,software,False,0,Yes,500.0,6259.66,33,15,3,Medium,Moderate,Medium,4
+PAT-2003-226,2022,iot,2,CHN,telecom,False,1,Yes,83.63,2723.45,29,33,1,Medium,Significant,High,3
+PAT-2003-227,2020,ai_ml,3,USA,software,False,1,Yes,37.21,6313.39,25,43,3,High,Marginal,Low,3
+PAT-2003-228,2020,cybersecurity,3,USA,software,True,0,No,15.61,4296.87,15,5,3,Medium,Significant,High,5
+PAT-2003-229,2023,cybersecurity,1,USA,software,True,1,No,9.69,3494.34,11,24,1,Medium,Moderate,High,1
+PAT-2003-230,2022,quantum,3,USA,hardware,True,1,Yes,500.0,2302.15,25,48,3,Medium,Marginal,Very Low,4
+PAT-2003-231,2024,iot,3,CHN,hardware,False,1,Yes,331.31,1483.3,15,15,3,Medium,Moderate,Medium,4
+PAT-2003-232,2023,iot,1,DEU,hardware,False,1,No,22.22,3473.32,29,33,1,Medium,Moderate,High,0
+PAT-2003-233,2020,cybersecurity,3,USA,software,True,1,Yes,380.46,7553.58,24,20,1,Medium,Breakthrough,Medium,2
+PAT-2003-234,2021,ai_ml,1,GBR,software,True,0,No,22.14,7604.85,20,9,3,Medium,Breakthrough,High,3
+PAT-2003-235,2021,ai_ml,1,CHN,healthtech,False,1,No,26.52,1140.02,38,39,3,Medium,Breakthrough,Medium,4
+PAT-2003-236,2024,iot,1,DEU,telecom,True,1,No,160.19,4630.36,9,24,3,Medium,Marginal,Low,2
+PAT-2003-237,2021,ai_ml,1,KOR,fintech,False,1,Yes,153.95,8903.55,48,40,2,Low,Moderate,Low,1
+PAT-2003-238,2022,ai_ml,1,USA,software,True,0,No,1.68,6646.81,15,15,3,Low,Significant,High,5
+PAT-2003-239,2024,ai_ml,1,CHN,fintech,False,1,Yes,156.71,2977.67,17,37,2,Low,Moderate,High,2
+PAT-2003-240,2024,iot,4,RUS,hardware,False,0,No,28.14,3065.81,24,9,1,Low,Marginal,Very Low,1
+PAT-2003-241,2021,ai_ml,1,CHN,software,False,1,No,13.03,4328.07,44,39,3,Medium,Significant,Very High,10
+PAT-2003-242,2020,ai_ml,3,RUS,software,True,1,No,35.2,5703.57,43,24,3,High,Significant,Medium,5
+PAT-2003-243,2021,ai_ml,2,CHN,fintech,False,1,No,79.56,4160.71,41,45,3,Medium,Marginal,Low,4
+PAT-2003-244,2020,blockchain,3,USA,fintech,True,1,Yes,46.6,8535.73,12,29,1,Medium,Moderate,Medium,1
+PAT-2003-245,2021,cybersecurity,1,DEU,software,True,1,Yes,254.28,7321.0,20,22,1,Medium,Moderate,Low,1
+PAT-2003-246,2022,ai_ml,2,KOR,software,True,1,No,38.15,8267.42,24,34,3,Low,Breakthrough,Very High,4
+PAT-2003-247,2024,iot,2,JPN,hardware,True,1,Yes,76.42,5266.77,8,30,3,High,Moderate,Medium,2
+PAT-2003-248,2022,quantum,2,JPN,hardware,True,1,Yes,22.21,1538.34,42,37,3,Low,Moderate,Low,4
+PAT-2003-249,2023,ai_ml,3,IND,healthtech,True,1,Yes,71.91,9502.76,38,60,3,High,Moderate,Medium,6
+PAT-2003-250,2021,quantum,1,USA,hardware,False,0,No,33.81,9742.52,41,9,3,Medium,Significant,High,4
+PAT-2003-251,2023,iot,4,DEU,software,True,0,No,19.6,932.36,10,13,1,Low,Marginal,Low,1
+PAT-2003-252,2023,iot,1,CHN,software,True,0,No,12.63,3212.06,21,11,3,Medium,Moderate,High,6
+PAT-2003-253,2024,ai_ml,2,USA,fintech,True,0,Yes,246.37,7709.03,33,16,2,High,Breakthrough,Medium,3
+PAT-2003-254,2024,ai_ml,1,USA,fintech,True,1,Yes,113.99,7963.7,50,31,2,Medium,Moderate,Low,0
+PAT-2003-255,2021,cybersecurity,2,CHN,software,False,1,Yes,126.97,6278.06,17,21,1,Low,Breakthrough,Very High,2
+PAT-2003-256,2020,quantum,3,USA,software,False,0,No,67.95,3949.23,50,21,2,Medium,Moderate,Low,1
+PAT-2003-257,2021,cybersecurity,2,USA,software,False,0,Yes,6.26,1680.23,27,6,1,Medium,Significant,Low,4
+PAT-2003-258,2022,cybersecurity,3,USA,software,True,0,Yes,168.76,599.77,8,7,3,Medium,Moderate,Low,4
+PAT-2003-259,2024,ai_ml,2,CHN,healthtech,True,1,Yes,500.0,2930.64,23,39,3,Medium,Marginal,Low,2
+PAT-2003-260,2022,quantum,3,IND,hardware,False,0,Yes,63.48,3091.95,24,12,3,Low,Moderate,Low,3
+PAT-2003-261,2023,blockchain,3,GBR,fintech,False,1,Yes,100.88,2526.05,19,28,3,Low,Moderate,Medium,3
+PAT-2003-262,2022,quantum,1,USA,hardware,True,1,No,63.06,2845.24,18,19,2,Medium,Significant,Medium,3
+PAT-2003-263,2021,ai_ml,3,GBR,software,False,1,Yes,500.0,4928.61,15,40,3,Low,Moderate,Medium,2
+PAT-2003-264,2021,ai_ml,2,JPN,software,True,1,Yes,46.52,5199.11,37,37,2,High,Marginal,Very Low,2
+PAT-2003-265,2023,quantum,2,JPN,hardware,True,0,Yes,442.16,4109.12,18,10,3,Low,Moderate,Low,3
+PAT-2003-266,2023,quantum,2,CHN,software,False,1,Yes,115.82,7193.12,34,30,3,Low,Moderate,Medium,4
+PAT-2003-267,2022,iot,4,DEU,telecom,True,0,Yes,88.28,3081.26,24,9,1,Medium,Moderate,High,2
+PAT-2003-268,2021,ai_ml,1,DEU,fintech,True,0,Yes,340.65,8964.78,47,13,3,Medium,Significant,Medium,3
+PAT-2003-269,2023,ai_ml,3,RUS,software,False,0,Yes,500.0,9496.77,16,18,3,Low,Moderate,High,4
+PAT-2003-270,2021,cybersecurity,3,RUS,software,False,1,No,17.68,8126.84,12,27,2,Medium,Significant,High,4
+PAT-2003-271,2024,blockchain,3,IND,fintech,True,1,Yes,500.0,8971.71,11,19,2,Low,Marginal,Very Low,3
+PAT-2003-272,2021,blockchain,2,USA,software,False,1,Yes,35.02,7609.94,10,19,2,Medium,Significant,High,3
+PAT-2003-273,2020,iot,4,DEU,hardware,False,0,No,15.27,8328.28,21,11,1,Medium,Marginal,Very Low,2
+PAT-2003-274,2022,blockchain,2,USA,software,True,0,Yes,224.49,3988.07,7,13,1,Low,Moderate,Medium,1
+PAT-2003-275,2022,iot,3,CHN,hardware,False,0,Yes,50.63,1351.02,22,11,1,Low,Moderate,Low,1
+PAT-2003-276,2022,blockchain,3,DEU,fintech,False,1,Yes,72.98,1301.76,8,24,3,Medium,Marginal,Very Low,2
+PAT-2003-277,2022,quantum,3,GBR,hardware,True,0,Yes,500.0,1538.33,47,21,2,Low,Significant,Low,3
+PAT-2003-278,2024,cybersecurity,1,JPN,software,True,0,No,66.99,5710.34,22,10,3,High,Significant,Medium,5
+PAT-2003-279,2022,cybersecurity,3,DEU,software,True,0,Yes,500.0,5509.88,22,10,1,High,Significant,Medium,5
+PAT-2003-280,2022,iot,3,CHN,hardware,False,1,No,3.29,4958.56,29,28,1,Low,Marginal,Very Low,5
+PAT-2003-281,2022,blockchain,3,USA,fintech,True,0,Yes,35.9,7709.17,11,4,2,High,Moderate,Medium,2
+PAT-2003-282,2020,iot,2,KOR,hardware,True,1,Yes,197.22,754.48,29,35,2,Medium,Moderate,High,3
+PAT-2003-283,2022,quantum,2,JPN,hardware,False,1,Yes,99.31,7405.22,37,40,2,High,Marginal,Low,2
+PAT-2003-284,2021,iot,3,CHN,hardware,False,0,No,33.41,3428.32,14,5,2,Medium,Moderate,Low,2
+PAT-2003-285,2023,iot,1,KOR,hardware,True,1,No,10.59,1810.38,10,21,2,Medium,Moderate,High,3
+PAT-2003-286,2020,iot,1,KOR,software,False,1,Yes,105.31,5349.95,14,22,2,High,Marginal,Very Low,2
+PAT-2003-287,2024,iot,3,GBR,healthtech,False,1,Yes,324.2,918.11,17,24,1,High,Significant,Medium,3
+PAT-2003-288,2022,iot,3,GBR,software,False,0,Yes,92.43,593.0,21,9,2,Low,Moderate,Medium,2
+PAT-2003-289,2024,ai_ml,2,CHN,software,False,1,Yes,158.93,9910.1,31,40,2,Medium,Significant,High,3
+PAT-2003-290,2022,blockchain,3,IND,fintech,True,1,No,22.03,8617.6,19,32,2,Medium,Marginal,Very Low,1
+PAT-2003-291,2020,iot,2,KOR,hardware,False,1,Yes,241.08,2204.51,20,21,2,Medium,Moderate,Low,2
+PAT-2003-292,2023,ai_ml,1,USA,software,True,1,No,169.59,7994.18,36,46,2,Medium,Significant,Very High,1
+PAT-2003-293,2023,cybersecurity,3,IND,software,False,0,Yes,500.0,5794.43,23,15,1,Medium,Moderate,Low,1
+PAT-2003-294,2023,iot,4,USA,hardware,False,0,No,28.32,812.2,13,14,2,Medium,Significant,High,4
+PAT-2003-295,2022,ai_ml,3,GBR,healthtech,False,1,Yes,44.54,8671.17,40,36,3,Medium,Moderate,Medium,3
+PAT-2003-296,2023,quantum,3,CHN,hardware,False,1,No,16.86,3945.23,20,40,2,Medium,Breakthrough,High,5
+PAT-2003-297,2024,iot,3,DEU,hardware,True,1,No,55.43,6700.16,9,27,1,Low,Moderate,Medium,3
+PAT-2003-298,2023,quantum,3,IND,software,False,0,No,24.27,9439.87,29,15,2,Medium,Significant,Low,1
+PAT-2003-299,2021,blockchain,3,IND,fintech,True,0,No,18.67,9943.92,9,11,2,Medium,Moderate,Medium,2
+PAT-2003-300,2023,cybersecurity,4,IND,software,False,1,No,33.39,2348.38,20,35,3,Medium,Marginal,Very Low,4
+PAT-2003-301,2023,blockchain,2,JPN,fintech,True,0,Yes,384.45,5594.55,13,13,3,Low,Marginal,Low,4
+PAT-2003-302,2024,iot,3,GBR,hardware,False,0,No,2.71,5342.01,28,10,2,Medium,Moderate,Medium,1
+PAT-2003-303,2022,ai_ml,2,USA,fintech,False,1,Yes,105.28,7983.49,44,40,2,Low,Marginal,Very Low,1
+PAT-2003-304,2022,iot,4,USA,telecom,False,0,No,21.43,549.8,14,5,1,Medium,Marginal,Very Low,1
+PAT-2003-305,2023,iot,3,CHN,hardware,False,0,Yes,112.52,4506.32,22,8,1,Medium,Significant,Medium,3
+PAT-2003-306,2022,iot,3,CHN,hardware,False,0,Yes,500.0,2575.0,11,5,2,Medium,Moderate,Medium,2
+PAT-2003-307,2023,blockchain,3,USA,fintech,True,0,Yes,273.45,4806.2,14,7,1,Medium,Marginal,Low,3
+PAT-2003-308,2022,quantum,1,KOR,hardware,False,1,No,6.28,3156.46,22,30,3,Medium,Breakthrough,High,4
+PAT-2003-309,2021,iot,1,JPN,software,False,1,No,8.97,8189.32,17,31,2,Low,Moderate,Low,1
+PAT-2003-310,2023,ai_ml,2,JPN,software,False,1,Yes,100.09,5242.58,19,42,3,Medium,Moderate,High,2
+PAT-2003-311,2020,cybersecurity,3,USA,software,True,1,Yes,239.94,5990.04,24,19,1,High,Moderate,Medium,2
+PAT-2003-312,2021,iot,4,IND,hardware,False,0,No,8.51,8205.35,26,13,2,High,Significant,Medium,6
+PAT-2003-313,2023,cybersecurity,1,KOR,software,False,0,No,9.59,2415.79,28,12,2,High,Significant,High,7
+PAT-2003-314,2023,cybersecurity,2,USA,software,False,1,No,17.09,5071.5,26,22,2,Medium,Significant,Very High,4
+PAT-2003-315,2024,cybersecurity,2,DEU,software,True,0,Yes,12.98,894.78,22,11,1,Low,Moderate,Medium,3
+PAT-2003-316,2021,quantum,2,JPN,hardware,True,1,Yes,40.27,9032.74,33,39,3,High,Marginal,Very Low,2
+PAT-2003-317,2020,iot,3,GBR,telecom,True,1,Yes,53.97,1622.65,9,23,1,Medium,Significant,Medium,2
+PAT-2003-318,2024,ai_ml,2,JPN,healthtech,True,1,No,52.6,5487.47,20,30,2,Medium,Moderate,High,1
+PAT-2003-319,2021,iot,3,USA,telecom,False,0,Yes,313.37,824.24,10,7,2,Medium,Significant,Medium,1
+PAT-2003-320,2021,quantum,2,USA,software,False,1,Yes,252.13,9274.82,41,42,3,Medium,Significant,High,3
+PAT-2003-321,2021,iot,2,USA,software,True,0,No,30.83,8233.44,13,14,3,Low,Significant,High,4
+PAT-2003-322,2022,cybersecurity,2,CHN,software,False,1,Yes,193.56,1348.34,27,38,1,Medium,Moderate,High,2
+PAT-2003-323,2024,ai_ml,3,IND,healthtech,False,1,Yes,500.0,4156.3,45,42,2,High,Breakthrough,Very High,5
+PAT-2003-324,2023,blockchain,3,GBR,telecom,False,0,Yes,500.0,4253.09,8,7,2,Medium,Marginal,Low,1
+PAT-2003-325,2023,iot,4,RUS,healthtech,False,1,Yes,63.72,2725.45,12,21,1,Medium,Marginal,Low,3
+PAT-2003-326,2021,blockchain,3,USA,fintech,True,0,Yes,59.82,8664.38,8,10,2,Medium,Marginal,Very Low,0
+PAT-2003-327,2022,ai_ml,2,USA,software,True,1,No,205.23,9127.11,47,36,3,Medium,Marginal,Low,4
+PAT-2003-328,2022,ai_ml,1,CHN,software,False,1,No,8.97,7457.31,16,43,2,High,Significant,High,3
+PAT-2003-329,2020,quantum,3,USA,hardware,False,1,No,65.45,2387.93,31,46,2,Low,Moderate,Medium,1
+PAT-2003-330,2021,blockchain,3,IND,fintech,True,0,Yes,210.49,1103.21,18,15,2,Low,Moderate,Low,3
+PAT-2003-331,2021,ai_ml,2,USA,fintech,False,0,No,24.68,3477.49,20,16,3,Low,Moderate,Medium,3
+PAT-2003-332,2020,ai_ml,2,USA,healthtech,False,1,Yes,56.02,1013.7,48,36,2,Low,Significant,Very High,2
+PAT-2003-333,2022,blockchain,3,GBR,fintech,True,1,Yes,252.92,9749.73,5,31,3,Medium,Marginal,Low,3
+PAT-2003-334,2023,ai_ml,2,CHN,software,False,1,No,185.17,7938.8,45,46,3,Low,Marginal,Low,6
+PAT-2003-335,2020,iot,2,DEU,telecom,True,0,No,10.5,9258.58,25,11,2,Medium,Significant,Low,2
+PAT-2003-336,2022,quantum,2,USA,software,False,1,Yes,440.53,4601.02,30,40,3,Medium,Marginal,Very Low,5
+PAT-2003-337,2023,ai_ml,1,USA,software,False,0,Yes,146.16,6202.17,27,13,3,Medium,Breakthrough,High,5
+PAT-2003-338,2023,iot,3,GBR,hardware,True,1,Yes,143.39,1981.17,12,16,2,Medium,Significant,Medium,2
+PAT-2003-339,2023,ai_ml,1,DEU,software,False,1,Yes,113.07,7272.74,29,31,3,Low,Breakthrough,High,2
+PAT-2003-340,2022,ai_ml,2,USA,healthtech,False,1,Yes,64.8,7582.54,42,55,2,Medium,Moderate,Low,2
+PAT-2003-341,2023,cybersecurity,4,IND,software,False,0,No,77.96,6500.7,13,6,2,Low,Significant,High,4
+PAT-2003-342,2021,iot,3,USA,hardware,False,0,Yes,164.66,7981.87,17,10,2,Low,Moderate,Low,2
+PAT-2003-343,2022,cybersecurity,2,DEU,software,False,1,Yes,500.0,3132.44,14,29,2,Low,Moderate,Low,1
+PAT-2003-344,2021,ai_ml,3,IND,software,False,1,Yes,193.41,9545.44,43,40,3,Low,Moderate,Low,4
+PAT-2003-345,2022,ai_ml,1,DEU,software,False,0,Yes,484.75,9149.41,17,22,3,High,Moderate,Low,3
+PAT-2003-346,2022,blockchain,3,USA,fintech,False,0,Yes,209.95,5097.94,16,12,1,Medium,Moderate,High,2
+PAT-2003-347,2021,blockchain,3,USA,fintech,True,0,Yes,31.17,2463.0,15,5,3,Low,Significant,High,3
+PAT-2003-348,2023,cybersecurity,4,USA,software,False,0,No,10.65,3507.51,19,9,2,Medium,Significant,Medium,3
+PAT-2003-349,2021,ai_ml,1,CHN,healthtech,True,0,Yes,315.12,2163.06,28,15,2,Low,Significant,Medium,2
+PAT-2003-350,2021,cybersecurity,2,CHN,software,False,0,Yes,52.74,4134.24,25,10,1,High,Marginal,Very Low,1
+PAT-2003-351,2020,cybersecurity,2,DEU,fintech,True,1,Yes,52.89,1293.76,16,23,1,Medium,Marginal,Low,0
+PAT-2003-352,2022,iot,1,CHN,hardware,False,1,Yes,167.14,9722.45,17,24,2,Low,Marginal,Very Low,1
+PAT-2003-353,2021,ai_ml,1,CHN,software,False,1,Yes,57.22,6431.03,49,42,3,Low,Significant,Very High,5
+PAT-2003-354,2022,iot,2,USA,hardware,True,1,Yes,11.2,1780.12,28,29,3,Medium,Marginal,Very Low,1
+PAT-2003-355,2021,ai_ml,3,CHN,software,False,0,Yes,90.85,4228.88,39,10,2,Medium,Moderate,High,2
+PAT-2003-356,2023,quantum,2,CHN,software,False,1,No,58.66,6330.87,30,34,3,High,Moderate,Medium,3
+PAT-2003-357,2024,blockchain,3,RUS,fintech,True,1,Yes,153.32,4645.82,13,16,1,Low,Moderate,High,1
+PAT-2003-358,2022,cybersecurity,2,DEU,software,True,1,Yes,23.6,5367.48,14,21,1,Medium,Moderate,Medium,2
+PAT-2003-359,2023,iot,1,GBR,software,False,1,No,47.95,5298.95,13,25,3,Low,Moderate,Medium,4
+PAT-2003-360,2024,iot,3,DEU,telecom,False,1,No,26.92,815.43,14,21,1,Low,Moderate,Medium,0
+PAT-2003-361,2024,iot,1,DEU,software,False,1,No,33.78,7590.48,9,28,3,High,Moderate,Medium,2
+PAT-2003-362,2023,iot,4,USA,hardware,False,1,No,56.22,655.89,22,22,2,Medium,Marginal,Very Low,2
+PAT-2003-363,2024,cybersecurity,3,USA,software,True,0,No,31.98,8470.32,26,9,2,High,Moderate,High,3
+PAT-2003-364,2024,ai_ml,3,IND,software,False,0,Yes,421.12,4796.47,49,12,2,Low,Breakthrough,Medium,3
+PAT-2003-365,2023,cybersecurity,1,USA,telecom,False,1,No,52.32,5858.05,26,29,2,Low,Significant,High,2
+PAT-2003-366,2022,quantum,2,USA,hardware,False,1,No,36.06,504.41,32,43,3,Low,Marginal,Low,3
+PAT-2003-367,2020,cybersecurity,1,USA,software,True,1,No,53.02,9032.3,28,22,1,Low,Moderate,Low,2
+PAT-2003-368,2020,blockchain,3,USA,fintech,False,0,Yes,500.0,3463.26,12,6,1,Low,Moderate,Low,0
+PAT-2003-369,2022,quantum,2,CHN,hardware,True,1,Yes,154.31,1879.39,37,40,3,Medium,Moderate,Medium,3
+PAT-2003-370,2022,ai_ml,1,USA,software,True,1,No,3.06,3393.09,30,27,3,Medium,Significant,Very High,2
+PAT-2003-371,2022,quantum,2,USA,software,True,1,No,187.24,501.36,19,46,2,Medium,Marginal,Low,2
+PAT-2003-372,2022,ai_ml,2,USA,software,True,1,Yes,37.12,9859.09,47,42,3,Medium,Moderate,Low,2
+PAT-2003-373,2022,ai_ml,1,USA,software,True,1,Yes,64.95,5708.15,46,45,2,Low,Significant,Very High,1
+PAT-2003-374,2023,blockchain,2,KOR,fintech,False,0,Yes,500.0,7003.79,14,12,1,Medium,Marginal,Very Low,3
+PAT-2003-375,2020,ai_ml,2,JPN,software,False,1,Yes,123.3,3007.37,42,28,2,High,Moderate,Medium,3
+PAT-2003-376,2021,blockchain,4,GBR,fintech,False,0,Yes,73.76,929.54,12,9,2,Medium,Marginal,Very Low,2
+PAT-2003-377,2023,quantum,1,CHN,hardware,False,1,No,37.46,2788.64,37,36,2,Medium,Breakthrough,Very High,3
+PAT-2003-378,2023,ai_ml,2,CHN,software,False,1,Yes,165.11,5605.26,36,28,2,Low,Moderate,Medium,2
+PAT-2003-379,2024,iot,3,USA,telecom,False,1,No,8.04,3007.7,24,26,2,Medium,Moderate,Medium,1
+PAT-2003-380,2024,ai_ml,1,GBR,healthtech,True,1,No,17.42,1760.97,32,31,3,Medium,Significant,Medium,4
+PAT-2003-381,2024,quantum,1,DEU,hardware,True,1,No,121.64,4084.23,37,28,2,Low,Moderate,Medium,0
+PAT-2003-382,2021,quantum,2,CHN,hardware,False,0,No,28.99,4075.64,43,18,3,Low,Marginal,Very Low,1
+PAT-2003-383,2022,blockchain,3,RUS,software,True,1,No,26.89,588.68,11,15,2,Medium,Moderate,Medium,2
+PAT-2003-384,2021,iot,3,DEU,hardware,False,1,Yes,73.44,1935.01,17,21,3,Medium,Significant,Very High,3
+PAT-2003-385,2023,cybersecurity,3,RUS,software,True,0,No,23.22,9481.22,22,11,2,Medium,Significant,Medium,1
+PAT-2003-386,2024,quantum,1,USA,hardware,False,1,No,133.81,5720.19,24,39,3,Medium,Breakthrough,High,4
+PAT-2003-387,2021,blockchain,3,USA,fintech,True,1,Yes,192.58,8631.26,17,29,2,Low,Moderate,Medium,0
+PAT-2003-388,2022,blockchain,2,USA,fintech,True,1,Yes,102.85,6785.66,7,26,2,Medium,Moderate,Medium,1
+PAT-2003-389,2021,quantum,1,CHN,software,False,0,Yes,27.12,7824.84,28,18,2,High,Significant,Low,3
+PAT-2003-390,2021,ai_ml,3,GBR,software,False,1,Yes,42.63,9884.81,40,30,3,Low,Significant,Very High,6
+PAT-2003-391,2021,quantum,1,KOR,software,False,1,No,10.52,9399.07,31,42,3,Low,Breakthrough,Medium,5
+PAT-2003-392,2020,ai_ml,2,JPN,software,True,0,Yes,53.38,530.24,23,12,3,Medium,Moderate,Medium,4
+PAT-2003-393,2024,quantum,2,JPN,software,False,1,No,9.95,4456.3,35,36,2,Low,Moderate,High,0
+PAT-2003-394,2022,ai_ml,1,DEU,software,True,1,No,15.48,4212.33,41,48,2,Medium,Significant,High,1
+PAT-2003-395,2023,ai_ml,3,USA,healthtech,False,0,Yes,93.29,856.12,26,18,2,Medium,Moderate,Low,2
+PAT-2003-396,2023,cybersecurity,2,CHN,software,False,0,No,21.51,4813.9,17,6,3,High,Marginal,Very Low,6
+PAT-2003-397,2021,cybersecurity,2,KOR,telecom,False,1,No,23.79,7772.94,8,30,2,High,Significant,Medium,4
+PAT-2003-398,2021,cybersecurity,4,RUS,telecom,False,0,No,8.98,603.65,22,6,2,High,Moderate,Low,3
+PAT-2003-399,2023,cybersecurity,3,GBR,software,False,0,Yes,171.45,6784.2,28,6,2,Medium,Significant,Medium,4
+PAT-2003-400,2021,blockchain,3,USA,fintech,True,0,Yes,31.62,8523.96,9,9,3,Medium,Marginal,Low,6
+PAT-2004-001,2024,ai_ml,1,USA,software,True,1,Yes,33.92,2926.39,46,24,3,Low,Significant,Medium,3
+PAT-2004-002,2020,ai_ml,1,GBR,software,True,1,No,75.53,3277.89,20,40,3,Medium,Breakthrough,Medium,3
+PAT-2004-003,2023,iot,1,GBR,healthtech,True,1,Yes,500.0,9439.79,14,31,1,Medium,Moderate,High,3
+PAT-2004-004,2023,ai_ml,3,RUS,hardware,True,0,Yes,30.93,4186.11,43,10,2,High,Significant,Low,2
+PAT-2004-005,2021,cybersecurity,3,CHN,fintech,False,1,Yes,15.0,7756.65,16,14,2,Low,Moderate,Medium,2
+PAT-2004-006,2021,ai_ml,1,JPN,healthtech,True,1,No,23.3,1758.82,42,27,3,Medium,Breakthrough,High,3
+PAT-2004-007,2024,ai_ml,2,KOR,software,False,1,Yes,45.83,9790.59,22,34,3,High,Moderate,Low,5
+PAT-2004-008,2021,ai_ml,2,CHN,healthtech,False,1,No,26.29,3628.04,24,51,3,High,Significant,High,5
+PAT-2004-009,2022,ai_ml,3,RUS,healthtech,False,0,No,35.33,6995.49,27,15,3,Low,Moderate,Medium,2
+PAT-2004-010,2022,ai_ml,3,USA,hardware,True,1,No,21.45,7883.83,44,30,3,Low,Moderate,Low,3
+PAT-2004-011,2021,iot,1,DEU,hardware,True,1,No,156.48,2843.44,23,24,2,Low,Moderate,Medium,1
+PAT-2004-012,2023,ai_ml,2,CHN,software,False,0,Yes,387.81,1623.98,46,13,3,Medium,Moderate,High,3
+PAT-2004-013,2023,iot,3,DEU,hardware,False,1,Yes,20.74,2363.09,24,23,3,Medium,Moderate,Low,1
+PAT-2004-014,2022,cybersecurity,3,USA,software,True,1,Yes,29.17,7062.47,10,18,2,High,Breakthrough,High,6
+PAT-2004-015,2023,iot,1,DEU,software,True,1,Yes,252.82,6557.54,11,32,1,High,Significant,Medium,4
+PAT-2004-016,2021,iot,3,RUS,telecom,True,1,Yes,336.54,8349.33,19,22,1,Medium,Moderate,Medium,0
+PAT-2004-017,2020,blockchain,3,CHN,fintech,True,1,Yes,31.73,2556.44,7,28,1,Medium,Moderate,Low,1
+PAT-2004-018,2022,ai_ml,1,USA,software,False,1,Yes,69.58,8787.62,18,40,3,Low,Significant,Medium,4
+PAT-2004-019,2024,ai_ml,2,USA,fintech,False,1,Yes,231.27,7473.13,45,34,3,Low,Moderate,Low,3
+PAT-2004-020,2020,cybersecurity,4,USA,software,False,1,No,21.08,8558.87,9,31,2,Low,Significant,High,3
+PAT-2004-021,2021,iot,2,CHN,software,False,1,Yes,69.18,3886.74,15,24,3,Medium,Moderate,High,3
+PAT-2004-022,2022,ai_ml,2,USA,software,True,1,Yes,7.03,8853.23,44,45,3,Medium,Significant,High,2
+PAT-2004-023,2023,blockchain,2,CHN,fintech,False,1,Yes,79.45,5861.87,9,33,1,High,Marginal,Low,3
+PAT-2004-024,2020,quantum,2,CHN,software,False,1,No,376.41,4842.06,36,34,2,Medium,Moderate,Medium,3
+PAT-2004-025,2022,iot,1,GBR,hardware,False,1,No,3.87,7171.43,23,26,3,Low,Moderate,Low,4
+PAT-2004-026,2023,iot,2,KOR,telecom,False,0,Yes,500.0,1078.78,16,13,1,Low,Moderate,Medium,2
+PAT-2004-027,2022,cybersecurity,1,CHN,telecom,True,1,Yes,176.25,3240.95,16,23,1,High,Moderate,High,4
+PAT-2004-028,2021,iot,4,IND,hardware,False,1,Yes,153.47,4458.44,25,20,1,Medium,Moderate,Medium,2
+PAT-2004-029,2021,iot,2,USA,hardware,False,1,Yes,284.98,8648.77,9,26,3,Medium,Moderate,Medium,1
+PAT-2004-030,2022,ai_ml,2,JPN,software,False,0,Yes,500.0,1555.54,25,25,3,Low,Moderate,High,2
+PAT-2004-031,2022,ai_ml,2,JPN,healthtech,False,1,Yes,127.03,5267.58,16,33,2,Medium,Significant,Very High,2
+PAT-2004-032,2024,cybersecurity,2,CHN,software,False,1,No,19.81,6403.59,26,31,2,Low,Marginal,Very Low,4
+PAT-2004-033,2023,iot,2,USA,hardware,True,1,Yes,74.18,4418.79,24,19,2,Medium,Moderate,Medium,4
+PAT-2004-034,2023,blockchain,2,USA,telecom,True,0,Yes,101.14,4509.31,15,6,1,Medium,Moderate,Medium,1
+PAT-2004-035,2024,iot,3,USA,healthtech,True,1,Yes,9.53,7974.46,12,25,2,Medium,Moderate,Medium,0
+PAT-2004-036,2022,ai_ml,1,CHN,fintech,False,1,Yes,303.17,3735.52,20,40,3,Medium,Moderate,Medium,2
+PAT-2004-037,2022,quantum,2,USA,hardware,True,1,Yes,70.98,9279.07,30,36,2,Low,Marginal,Low,3
+PAT-2004-038,2024,ai_ml,2,CHN,software,False,1,Yes,443.22,1435.31,44,46,3,High,Moderate,High,3
+PAT-2004-039,2021,quantum,2,USA,hardware,True,1,No,151.67,4828.21,22,54,3,Medium,Marginal,Low,1
+PAT-2004-040,2023,iot,2,KOR,telecom,False,0,Yes,78.11,7845.83,29,12,2,Low,Marginal,Very Low,1
+PAT-2004-041,2023,ai_ml,2,JPN,software,True,1,Yes,148.52,5772.18,45,48,2,Medium,Moderate,High,1
+PAT-2004-042,2020,ai_ml,1,CHN,software,False,1,No,12.12,9532.5,30,33,3,Medium,Significant,Very High,2
+PAT-2004-043,2022,quantum,2,DEU,hardware,True,0,Yes,132.89,6784.9,49,18,2,Medium,Marginal,Low,1
+PAT-2004-044,2021,ai_ml,1,DEU,software,True,1,Yes,63.74,3123.67,39,30,2,Medium,Breakthrough,Very High,2
+PAT-2004-045,2021,ai_ml,1,KOR,fintech,False,1,No,156.09,6430.07,38,43,2,Medium,Significant,Medium,1
+PAT-2004-046,2022,quantum,3,USA,hardware,True,0,Yes,143.84,5937.53,20,12,3,Medium,Significant,Low,3
+PAT-2004-047,2021,blockchain,3,CHN,fintech,False,1,Yes,118.15,3517.47,16,27,1,Low,Marginal,Very Low,4
+PAT-2004-048,2023,blockchain,2,USA,software,False,1,Yes,45.35,1497.53,5,19,1,Low,Marginal,Low,3
+PAT-2004-049,2024,ai_ml,2,JPN,software,False,1,Yes,102.32,8805.18,27,40,3,Medium,Significant,Very High,7
+PAT-2004-050,2023,cybersecurity,3,IND,software,False,0,Yes,500.0,2900.81,13,12,1,High,Moderate,Medium,3
+PAT-2004-051,2021,ai_ml,1,CHN,software,False,1,No,5.71,5298.16,17,28,3,Low,Significant,Medium,3
+PAT-2004-052,2021,ai_ml,3,IND,software,True,0,Yes,19.86,5772.55,33,13,3,Medium,Breakthrough,High,3
+PAT-2004-053,2021,ai_ml,2,JPN,software,True,1,No,12.4,3690.14,30,33,3,Low,Significant,Very High,5
+PAT-2004-054,2020,ai_ml,2,USA,software,True,1,Yes,129.83,622.2,50,37,3,Low,Moderate,Low,2
+PAT-2004-055,2024,ai_ml,2,CHN,software,True,0,Yes,216.59,9808.36,39,18,3,Medium,Moderate,Low,5
+PAT-2004-056,2022,ai_ml,1,CHN,software,False,1,Yes,296.99,2413.97,46,36,3,Medium,Breakthrough,Very High,3
+PAT-2004-057,2021,ai_ml,3,IND,fintech,False,0,Yes,223.46,9640.39,15,13,2,Medium,Moderate,Medium,2
+PAT-2004-058,2023,blockchain,3,RUS,fintech,False,1,No,6.71,2373.45,12,28,2,Low,Marginal,Low,2
+PAT-2004-059,2022,cybersecurity,2,USA,software,True,1,Yes,249.02,5843.68,11,31,2,Low,Moderate,Medium,1
+PAT-2004-060,2020,ai_ml,3,DEU,healthtech,False,0,Yes,81.86,3282.93,36,13,2,Low,Moderate,Medium,2
+PAT-2004-061,2021,ai_ml,2,CHN,healthtech,True,1,No,30.22,3586.54,45,33,2,High,Moderate,Medium,3
+PAT-2004-062,2023,cybersecurity,4,IND,telecom,False,0,No,30.52,9289.46,10,13,3,Low,Moderate,Medium,2
+PAT-2004-063,2023,cybersecurity,2,DEU,software,False,1,Yes,49.86,5050.9,25,16,1,Medium,Marginal,Low,1
+PAT-2004-064,2021,iot,2,KOR,hardware,False,0,Yes,345.07,829.83,23,8,2,Medium,Moderate,High,0
+PAT-2004-065,2024,ai_ml,1,CHN,software,True,1,No,3.52,3923.85,50,27,2,Medium,Moderate,Low,2
+PAT-2004-066,2024,blockchain,4,DEU,fintech,False,0,Yes,17.47,8211.54,7,9,1,Medium,Marginal,Low,2
+PAT-2004-067,2023,ai_ml,3,GBR,fintech,True,0,Yes,319.13,5830.64,17,13,3,High,Significant,High,6
+PAT-2004-068,2021,ai_ml,1,CHN,software,True,1,No,107.1,1166.84,26,31,3,High,Moderate,Low,3
+PAT-2004-069,2020,blockchain,2,JPN,fintech,True,1,Yes,500.0,3307.78,10,32,2,Medium,Moderate,Medium,0
+PAT-2004-070,2024,iot,3,GBR,hardware,False,1,Yes,71.84,8622.82,19,25,3,Medium,Significant,High,6
+PAT-2004-071,2021,blockchain,3,GBR,software,True,1,No,71.57,3131.78,9,17,2,High,Marginal,Low,5
+PAT-2004-072,2023,iot,2,DEU,software,False,1,No,248.74,2702.77,19,19,1,High,Moderate,High,3
+PAT-2004-073,2023,ai_ml,2,CHN,healthtech,False,0,Yes,500.0,2977.22,38,6,3,Medium,Moderate,Medium,2
+PAT-2004-074,2020,ai_ml,3,USA,hardware,True,0,No,4.41,8065.74,29,25,3,Low,Significant,Medium,2
+PAT-2004-075,2023,quantum,3,IND,software,False,0,No,26.45,9378.83,43,16,2,Medium,Moderate,Medium,0
+PAT-2004-076,2024,cybersecurity,3,DEU,telecom,False,1,Yes,212.55,621.34,13,20,3,Medium,Breakthrough,Very High,2
+PAT-2004-077,2023,ai_ml,1,USA,software,True,1,No,40.26,4806.91,44,40,2,Medium,Moderate,High,3
+PAT-2004-078,2022,iot,4,RUS,software,False,1,Yes,246.44,2280.41,29,32,2,Low,Moderate,Low,3
+PAT-2004-079,2024,ai_ml,2,USA,fintech,False,1,No,14.27,1556.11,34,37,2,Low,Significant,High,2
+PAT-2004-080,2022,ai_ml,2,CHN,software,True,1,No,7.75,3316.75,24,34,3,Medium,Significant,Medium,3
+PAT-2004-081,2023,iot,1,USA,hardware,True,0,Yes,139.36,831.26,29,6,3,Medium,Moderate,High,3
+PAT-2004-082,2023,ai_ml,2,USA,software,True,1,No,37.21,6940.58,18,37,2,Low,Significant,High,4
+PAT-2004-083,2023,blockchain,2,CHN,telecom,True,1,Yes,500.0,3925.48,14,29,1,Low,Marginal,Low,3
+PAT-2004-084,2021,blockchain,3,USA,fintech,False,0,No,56.91,8396.11,14,10,1,Medium,Marginal,Very Low,0
+PAT-2004-085,2020,ai_ml,3,DEU,fintech,False,0,No,20.13,7126.08,36,16,3,Medium,Moderate,Medium,3
+PAT-2004-086,2021,ai_ml,3,GBR,hardware,False,0,No,4.13,3780.44,23,24,2,Medium,Significant,High,1
+PAT-2004-087,2022,ai_ml,1,JPN,fintech,False,1,Yes,406.52,7710.05,22,42,2,High,Breakthrough,Medium,4
+PAT-2004-088,2022,cybersecurity,4,RUS,telecom,False,0,Yes,447.88,8500.44,25,15,3,High,Marginal,Very Low,6
+PAT-2004-089,2022,iot,1,DEU,hardware,True,1,No,38.96,4562.62,16,15,3,Medium,Moderate,Medium,2
+PAT-2004-090,2022,blockchain,3,GBR,fintech,False,1,Yes,43.51,7848.32,16,21,1,High,Marginal,Very Low,2
+PAT-2004-091,2023,ai_ml,1,CHN,healthtech,True,0,Yes,294.08,9300.41,48,28,2,High,Moderate,High,1
+PAT-2004-092,2024,iot,3,DEU,hardware,False,0,No,54.78,7127.5,21,12,1,High,Moderate,High,1
+PAT-2004-093,2021,ai_ml,3,GBR,software,False,0,No,39.39,2421.6,43,13,3,Low,Moderate,Medium,1
+PAT-2004-094,2023,iot,2,CHN,hardware,True,1,Yes,102.0,2753.64,14,29,2,Medium,Marginal,Low,2
+PAT-2004-095,2023,quantum,1,USA,hardware,True,1,Yes,46.45,6865.84,46,39,3,Medium,Significant,High,6
+PAT-2004-096,2022,blockchain,2,USA,software,False,1,No,12.39,2323.29,18,16,1,Low,Significant,High,3
+PAT-2004-097,2021,ai_ml,2,CHN,healthtech,True,1,Yes,408.39,8006.12,21,52,3,Medium,Moderate,Medium,4
+PAT-2004-098,2023,ai_ml,2,USA,software,True,1,No,6.45,5021.57,30,22,3,High,Marginal,Low,4
+PAT-2004-099,2024,ai_ml,1,DEU,software,True,0,No,123.34,8684.72,48,10,3,High,Moderate,Medium,2
+PAT-2004-100,2023,blockchain,3,GBR,telecom,False,0,Yes,91.98,3587.29,12,6,3,Medium,Marginal,Low,2
+PAT-2004-101,2024,cybersecurity,2,CHN,software,False,1,Yes,94.87,7689.83,20,21,3,Medium,Moderate,Medium,2
+PAT-2004-102,2024,ai_ml,2,JPN,healthtech,True,1,Yes,43.13,1340.52,18,43,3,Medium,Significant,High,3
+PAT-2004-103,2022,iot,2,CHN,software,False,1,Yes,500.0,4462.52,14,25,1,High,Moderate,Low,2
+PAT-2004-104,2023,iot,2,DEU,hardware,False,1,Yes,500.0,9185.68,8,24,3,Medium,Significant,High,3
+PAT-2004-105,2022,ai_ml,2,CHN,software,False,0,Yes,17.56,541.21,43,15,3,Low,Marginal,Very Low,2
+PAT-2004-106,2024,ai_ml,3,USA,software,False,1,No,5.83,4140.42,42,33,3,Medium,Marginal,Low,2
+PAT-2004-107,2020,ai_ml,2,KOR,healthtech,False,1,Yes,34.99,4894.12,40,46,3,Low,Significant,Very High,5
+PAT-2004-108,2022,iot,4,DEU,hardware,False,1,No,85.09,9845.58,13,20,2,Medium,Significant,High,3
+PAT-2004-109,2024,blockchain,4,GBR,fintech,False,0,No,16.03,1330.75,19,7,2,Low,Marginal,Very Low,4
+PAT-2004-110,2021,iot,3,USA,telecom,True,1,Yes,258.81,5391.6,21,28,1,Medium,Moderate,Low,3
+PAT-2004-111,2023,cybersecurity,1,GBR,software,False,1,No,31.0,5622.08,13,28,3,Medium,Significant,High,5
+PAT-2004-112,2022,quantum,2,USA,software,True,1,Yes,50.87,6470.76,25,40,2,High,Significant,High,2
+PAT-2004-113,2024,cybersecurity,2,CHN,software,True,1,No,6.95,1457.22,18,19,1,Medium,Moderate,High,1
+PAT-2004-114,2024,quantum,1,CHN,cybersecurity,False,1,No,4.96,7696.61,49,39,2,Low,Moderate,Medium,0
+PAT-2004-115,2021,cybersecurity,2,JPN,software,True,1,Yes,343.5,3561.59,29,24,3,Medium,Marginal,Very Low,2
+PAT-2004-116,2023,quantum,2,USA,hardware,True,0,No,82.22,732.95,37,19,2,Medium,Moderate,Low,1
+PAT-2004-117,2021,iot,2,USA,hardware,True,0,Yes,44.63,7668.72,17,14,2,Medium,Breakthrough,Medium,4
+PAT-2004-118,2023,quantum,1,CHN,cybersecurity,False,0,Yes,46.58,5183.57,44,6,2,Low,Breakthrough,Low,3
+PAT-2004-119,2023,cybersecurity,2,DEU,software,True,1,Yes,131.75,7379.77,14,23,1,Medium,Moderate,Medium,6
+PAT-2004-120,2023,blockchain,2,USA,fintech,True,1,Yes,105.18,9421.91,12,25,2,Low,Moderate,High,1
+PAT-2004-121,2020,iot,2,KOR,telecom,True,1,Yes,138.51,7705.26,25,33,1,Low,Breakthrough,High,6
+PAT-2004-122,2021,iot,3,IND,hardware,True,0,Yes,102.27,8606.63,19,2,2,Medium,Moderate,Medium,2
+PAT-2004-123,2023,cybersecurity,3,USA,software,True,0,Yes,44.81,3455.14,19,13,2,Medium,Moderate,Medium,1
+PAT-2004-124,2022,blockchain,3,USA,fintech,False,1,Yes,95.17,4971.74,15,25,1,Medium,Moderate,High,2
+PAT-2004-125,2022,quantum,1,USA,cybersecurity,True,0,Yes,500.0,5417.67,20,6,2,Low,Breakthrough,Medium,2
+PAT-2004-126,2020,quantum,3,IND,hardware,False,1,Yes,137.92,4180.87,31,45,2,High,Moderate,Medium,1
+PAT-2004-127,2021,cybersecurity,3,USA,software,False,1,Yes,84.61,9935.91,16,26,2,Medium,Moderate,Low,1
+PAT-2004-128,2024,ai_ml,1,CHN,hardware,False,1,No,31.23,2373.59,37,31,3,Medium,Breakthrough,Very High,7
+PAT-2004-129,2020,iot,3,CHN,telecom,False,1,Yes,8.39,9667.0,10,23,1,Medium,Marginal,Low,2
+PAT-2004-130,2022,quantum,2,JPN,software,False,1,Yes,52.68,2768.71,16,51,3,Medium,Moderate,Low,4
+PAT-2004-131,2024,cybersecurity,2,USA,software,True,1,Yes,345.97,3243.07,17,26,2,Low,Moderate,Low,1
+PAT-2004-132,2020,cybersecurity,2,CHN,software,False,1,No,43.62,6761.52,9,33,2,Low,Marginal,Very Low,3
+PAT-2004-133,2023,iot,3,USA,hardware,False,1,Yes,110.78,1458.02,10,28,2,Low,Moderate,Medium,1
+PAT-2004-134,2021,iot,2,USA,healthtech,True,1,Yes,127.17,7943.5,15,26,2,Medium,Moderate,Low,1
+PAT-2004-135,2024,ai_ml,2,CHN,software,False,1,Yes,69.22,3182.39,32,31,2,High,Marginal,Very Low,3
+PAT-2004-136,2023,cybersecurity,4,IND,software,False,0,No,52.64,1734.24,16,11,1,Medium,Moderate,Medium,0
+PAT-2004-137,2024,ai_ml,1,GBR,fintech,True,1,No,34.31,7881.01,20,51,3,Medium,Breakthrough,Very High,3
+PAT-2004-138,2021,iot,2,USA,hardware,True,1,Yes,298.23,5857.02,14,26,3,High,Marginal,Very Low,4
+PAT-2004-139,2022,quantum,1,GBR,cybersecurity,True,1,No,18.66,4340.0,48,21,3,High,Significant,Very High,4
+PAT-2004-140,2023,blockchain,4,DEU,fintech,False,1,Yes,8.64,4271.1,11,17,1,High,Marginal,Low,2
+PAT-2004-141,2021,ai_ml,3,USA,software,True,0,No,106.8,4759.98,25,16,2,Medium,Significant,Low,1
+PAT-2004-142,2021,ai_ml,2,USA,fintech,True,1,Yes,69.08,3096.9,18,43,3,High,Marginal,Very Low,5
+PAT-2004-143,2020,cybersecurity,4,DEU,telecom,False,0,Yes,228.06,3460.73,10,14,1,Low,Significant,Low,5
+PAT-2004-144,2024,iot,2,USA,software,False,1,No,25.14,7075.1,23,25,2,Low,Marginal,Low,4
+PAT-2004-145,2023,ai_ml,2,DEU,software,True,1,Yes,500.0,3278.75,50,33,2,High,Marginal,Low,1
+PAT-2004-146,2023,iot,2,CHN,telecom,False,1,Yes,458.7,8302.02,20,26,2,Medium,Moderate,Low,2
+PAT-2004-147,2023,ai_ml,2,DEU,software,False,1,Yes,500.0,5724.75,42,33,3,Medium,Significant,High,4
+PAT-2004-148,2022,cybersecurity,2,USA,software,False,1,No,3.91,3057.59,21,32,1,Medium,Moderate,Low,2
+PAT-2004-149,2022,ai_ml,1,DEU,software,False,0,No,15.86,9788.67,29,25,2,Low,Moderate,Low,2
+PAT-2004-150,2022,ai_ml,1,DEU,fintech,True,1,Yes,200.73,3401.48,27,46,3,High,Significant,High,4
+PAT-2004-151,2023,ai_ml,1,CHN,healthtech,False,1,No,6.44,7996.33,34,40,2,High,Breakthrough,High,2
+PAT-2004-152,2021,iot,3,RUS,hardware,True,1,Yes,79.76,8378.08,25,15,1,Medium,Moderate,Low,1
+PAT-2004-153,2024,blockchain,3,CHN,fintech,False,1,Yes,107.25,2133.92,5,23,2,Low,Marginal,Low,0
+PAT-2004-154,2023,quantum,2,DEU,hardware,True,1,No,53.76,3714.93,38,27,3,Low,Significant,High,7
+PAT-2004-155,2021,blockchain,3,RUS,fintech,False,1,Yes,74.85,602.45,7,26,1,Low,Marginal,Very Low,2
+PAT-2004-156,2022,ai_ml,2,CHN,fintech,True,1,Yes,50.69,3527.6,47,45,3,High,Marginal,Very Low,5
+PAT-2004-157,2020,ai_ml,3,RUS,software,True,1,Yes,71.3,1633.76,30,40,2,Medium,Significant,High,1
+PAT-2004-158,2024,ai_ml,2,DEU,healthtech,False,1,Yes,32.01,9886.77,35,36,3,Medium,Significant,High,6
+PAT-2004-159,2024,cybersecurity,3,USA,telecom,False,0,Yes,14.46,2957.63,9,9,1,Low,Moderate,Medium,1
+PAT-2004-160,2024,ai_ml,1,CHN,fintech,False,0,No,7.1,9602.58,16,9,3,Low,Moderate,Medium,3
+PAT-2004-161,2021,cybersecurity,4,GBR,software,False,1,No,7.14,4705.22,24,24,1,High,Significant,High,4
+PAT-2004-162,2021,ai_ml,1,CHN,software,False,1,Yes,500.0,7201.69,16,30,3,Low,Breakthrough,Very High,3
+PAT-2004-163,2021,ai_ml,3,GBR,software,False,1,No,28.82,3487.85,23,39,2,Medium,Marginal,Very Low,1
+PAT-2004-164,2020,ai_ml,1,CHN,fintech,False,1,Yes,80.3,9828.63,24,36,2,Medium,Moderate,High,2
+PAT-2004-165,2020,ai_ml,2,USA,software,False,1,No,18.77,6705.15,29,40,3,High,Marginal,Low,4
+PAT-2004-166,2020,quantum,1,USA,cybersecurity,True,1,Yes,87.52,3702.34,30,33,3,Medium,Breakthrough,Very High,3
+PAT-2004-167,2024,iot,3,USA,software,True,0,Yes,298.3,3382.87,27,9,2,High,Marginal,Very Low,1
+PAT-2004-168,2020,ai_ml,1,USA,software,True,0,Yes,43.07,3188.57,21,10,3,High,Significant,Medium,6
+PAT-2004-169,2020,iot,1,CHN,software,False,1,Yes,242.61,9886.95,11,21,3,Medium,Marginal,Very Low,2
+PAT-2004-170,2023,iot,4,RUS,telecom,False,0,Yes,127.99,7732.95,11,11,1,Low,Breakthrough,Medium,1
+PAT-2004-171,2022,cybersecurity,2,CHN,software,False,0,Yes,78.13,8261.15,9,8,2,Medium,Moderate,Medium,2
+PAT-2004-172,2023,cybersecurity,3,USA,fintech,False,1,Yes,500.0,9986.26,9,24,2,Medium,Marginal,Low,0
+PAT-2004-173,2023,iot,4,RUS,software,False,1,No,5.91,8141.36,18,29,1,Medium,Moderate,High,0
+PAT-2004-174,2024,quantum,1,GBR,hardware,True,1,No,81.79,520.13,17,36,2,Low,Breakthrough,Medium,3
+PAT-2004-175,2023,quantum,1,DEU,hardware,True,1,No,15.68,2107.12,44,37,2,High,Breakthrough,High,4
+PAT-2004-176,2022,blockchain,3,IND,fintech,True,1,Yes,439.42,4478.82,8,29,2,Low,Moderate,Low,3
+PAT-2004-177,2023,iot,1,DEU,telecom,True,1,No,72.17,6914.04,13,25,2,High,Marginal,Low,1
+PAT-2004-178,2022,ai_ml,1,CHN,healthtech,False,1,Yes,35.71,500.99,39,42,2,Low,Breakthrough,Medium,2
+PAT-2004-179,2021,quantum,2,KOR,hardware,False,1,Yes,179.03,1133.62,38,33,3,High,Marginal,Very Low,9
+PAT-2004-180,2022,cybersecurity,3,GBR,software,True,0,Yes,193.37,1504.49,11,9,3,High,Moderate,Medium,5
+PAT-2004-181,2021,ai_ml,1,USA,fintech,True,0,Yes,94.32,6538.1,21,16,3,Low,Breakthrough,Low,2
+PAT-2004-182,2023,quantum,1,DEU,hardware,True,1,No,44.85,6828.93,39,40,3,Low,Breakthrough,Medium,5
+PAT-2004-183,2021,cybersecurity,2,KOR,software,False,1,Yes,127.01,2924.89,20,20,2,High,Moderate,Low,3
+PAT-2004-184,2021,ai_ml,1,GBR,software,True,1,No,34.93,3074.16,23,25,3,Low,Moderate,Medium,2
+PAT-2004-185,2021,iot,2,JPN,telecom,False,1,Yes,224.16,5092.62,20,26,1,High,Moderate,Low,2
+PAT-2004-186,2023,cybersecurity,2,DEU,software,True,1,Yes,41.59,6345.18,14,32,1,Low,Significant,High,1
+PAT-2004-187,2021,cybersecurity,3,USA,software,False,1,No,18.25,2383.75,19,23,3,Low,Moderate,Medium,3
+PAT-2004-188,2023,ai_ml,2,CHN,software,False,1,No,14.03,537.33,34,37,2,Medium,Moderate,Low,1
+PAT-2004-189,2024,ai_ml,2,USA,healthtech,True,0,No,43.33,3937.35,30,10,3,High,Marginal,Very Low,3
+PAT-2004-190,2020,iot,4,DEU,software,False,1,Yes,142.69,8876.75,28,29,1,High,Marginal,Very Low,3
+PAT-2004-191,2023,ai_ml,3,USA,healthtech,False,1,No,9.4,2738.34,38,39,3,Medium,Marginal,Low,2
+PAT-2004-192,2021,ai_ml,3,GBR,software,True,0,Yes,396.14,8180.56,47,18,2,High,Significant,Medium,5
+PAT-2004-193,2021,ai_ml,3,USA,software,False,1,Yes,127.05,796.29,19,37,3,Medium,Significant,High,4
+PAT-2004-194,2023,ai_ml,1,CHN,software,False,1,Yes,500.0,3867.53,43,42,3,Medium,Breakthrough,Very High,3
+PAT-2004-195,2024,iot,2,DEU,hardware,False,0,Yes,70.5,4500.45,29,12,2,Medium,Moderate,Medium,2
+PAT-2004-196,2021,iot,3,RUS,software,False,1,Yes,83.07,4583.72,24,28,2,Low,Significant,Medium,1
+PAT-2004-197,2022,iot,2,USA,telecom,True,1,Yes,18.8,2568.87,16,30,3,High,Moderate,High,4
+PAT-2004-198,2021,quantum,3,GBR,hardware,True,0,Yes,274.05,6435.64,45,16,3,Low,Marginal,Very Low,2
+PAT-2004-199,2022,blockchain,3,GBR,fintech,True,0,No,54.26,4765.61,14,4,1,Medium,Significant,Low,2
+PAT-2004-200,2023,ai_ml,3,DEU,healthtech,True,0,Yes,90.57,5353.52,49,12,3,High,Significant,Medium,5
+PAT-2004-201,2023,ai_ml,2,JPN,software,True,1,Yes,38.03,1576.57,47,31,3,Low,Moderate,Medium,4
+PAT-2004-202,2023,ai_ml,2,JPN,healthtech,True,1,No,23.09,4935.82,36,28,2,Medium,Moderate,High,5
+PAT-2004-203,2020,ai_ml,2,USA,healthtech,True,1,Yes,127.89,9221.21,17,48,2,High,Marginal,Low,1
+PAT-2004-204,2023,ai_ml,2,USA,software,True,0,Yes,108.48,4420.68,22,19,2,High,Moderate,Low,2
+PAT-2004-205,2023,ai_ml,1,KOR,fintech,False,1,Yes,500.0,8098.82,28,42,3,Low,Breakthrough,High,3
+PAT-2004-206,2023,ai_ml,2,CHN,healthtech,True,1,No,104.74,8883.66,16,34,2,Low,Moderate,Medium,0
+PAT-2004-207,2020,iot,3,CHN,hardware,True,1,No,14.5,7000.83,19,33,2,Low,Moderate,Medium,1
+PAT-2004-208,2022,iot,1,DEU,hardware,True,1,Yes,50.85,1594.56,25,27,1,Medium,Moderate,Medium,0
+PAT-2004-209,2022,cybersecurity,3,DEU,software,False,1,No,32.18,4941.72,28,35,2,Low,Significant,Medium,5
+PAT-2004-210,2020,quantum,2,JPN,software,False,1,No,59.33,5815.85,42,33,3,High,Moderate,High,4
+PAT-2004-211,2021,iot,2,USA,telecom,False,1,No,40.42,2752.13,18,32,1,Medium,Significant,Medium,3
+PAT-2004-212,2022,ai_ml,2,JPN,software,False,1,Yes,152.11,3304.67,33,52,3,High,Moderate,Medium,5
+PAT-2004-213,2023,iot,2,JPN,telecom,True,1,No,19.51,3780.46,25,23,3,Medium,Significant,Medium,2
+PAT-2004-214,2021,ai_ml,1,DEU,fintech,True,1,No,4.93,6366.64,41,52,2,High,Moderate,High,1
+PAT-2004-215,2023,blockchain,3,USA,software,False,1,No,33.29,4276.59,17,19,2,Medium,Significant,Very High,2
+PAT-2004-216,2022,blockchain,2,CHN,fintech,False,1,Yes,29.48,9943.1,16,26,1,Medium,Moderate,Medium,1
+PAT-2004-217,2023,blockchain,2,USA,telecom,False,1,Yes,487.23,5076.99,9,28,1,Medium,Moderate,Medium,1
+PAT-2004-218,2022,ai_ml,1,JPN,healthtech,True,0,Yes,80.51,8984.03,19,7,3,Medium,Breakthrough,Medium,7
+PAT-2004-219,2022,iot,3,USA,hardware,True,0,No,67.56,4077.81,16,9,1,Medium,Breakthrough,High,1
+PAT-2004-220,2023,quantum,1,DEU,cybersecurity,True,1,No,10.0,6745.94,28,46,3,High,Breakthrough,High,3
+PAT-2004-221,2024,quantum,3,USA,hardware,False,0,No,31.19,4290.19,30,13,3,Medium,Marginal,Low,1
+PAT-2004-222,2022,iot,1,KOR,hardware,True,0,Yes,97.52,6834.95,22,12,1,Medium,Moderate,Medium,1
+PAT-2004-223,2022,iot,2,CHN,telecom,False,1,Yes,308.88,7560.49,19,20,1,Medium,Moderate,Low,3
+PAT-2004-224,2023,ai_ml,1,DEU,software,True,1,No,81.03,4431.65,28,34,3,Low,Moderate,Low,2
+PAT-2004-225,2023,iot,1,USA,hardware,True,0,No,32.48,7590.59,19,5,2,Low,Moderate,Medium,1
+PAT-2004-226,2020,iot,4,RUS,software,False,1,No,32.09,5373.26,25,31,1,Low,Moderate,High,1
+PAT-2004-227,2022,ai_ml,1,GBR,hardware,True,1,Yes,24.18,2861.74,49,43,2,Medium,Breakthrough,High,2
+PAT-2004-228,2022,ai_ml,1,KOR,healthtech,False,1,Yes,58.69,4261.93,33,18,2,Medium,Breakthrough,High,1
+PAT-2004-229,2024,cybersecurity,3,USA,software,True,0,Yes,32.8,8047.05,23,6,2,Medium,Moderate,Medium,0
+PAT-2004-230,2022,iot,3,CHN,healthtech,False,1,No,5.25,815.11,17,19,2,High,Moderate,Medium,2
+PAT-2004-231,2022,blockchain,3,CHN,software,False,1,No,22.45,9364.55,14,31,2,Low,Moderate,Low,2
+PAT-2004-232,2024,iot,3,USA,hardware,False,1,No,7.22,1644.31,17,27,2,Medium,Significant,Medium,3
+PAT-2004-233,2022,blockchain,2,USA,telecom,False,1,Yes,173.48,2427.21,13,28,2,Medium,Marginal,Very Low,0
+PAT-2004-234,2021,blockchain,2,JPN,fintech,True,1,No,53.09,3916.54,5,28,1,Low,Moderate,High,2
+PAT-2004-235,2021,ai_ml,2,USA,software,True,0,Yes,202.22,895.84,20,6,3,Low,Marginal,Very Low,3
+PAT-2004-236,2020,blockchain,3,GBR,fintech,False,0,Yes,15.66,2674.72,15,16,3,Medium,Moderate,Medium,3
+PAT-2004-237,2020,iot,3,USA,telecom,True,1,Yes,19.64,3719.73,23,26,2,Medium,Marginal,Low,2
+PAT-2004-238,2022,ai_ml,2,USA,fintech,True,0,Yes,9.82,4842.76,45,10,3,Low,Marginal,Very Low,3
+PAT-2004-239,2023,quantum,1,KOR,software,True,1,No,21.12,7721.02,21,43,3,High,Moderate,Medium,3
+PAT-2004-240,2023,ai_ml,1,CHN,software,False,1,No,61.87,8323.24,39,42,3,High,Moderate,High,5
+PAT-2004-241,2020,iot,4,IND,hardware,True,0,No,3.65,3666.38,16,8,3,Medium,Marginal,Very Low,2
+PAT-2004-242,2022,iot,3,USA,telecom,True,0,No,139.42,2925.95,18,12,1,High,Significant,High,3
+PAT-2004-243,2021,iot,3,USA,software,False,0,Yes,75.39,999.45,19,7,2,High,Significant,Low,3
+PAT-2004-244,2024,iot,2,CHN,telecom,False,0,No,15.25,7904.79,17,7,1,Medium,Moderate,Low,3
+PAT-2004-245,2021,cybersecurity,4,RUS,fintech,True,0,No,206.53,9905.56,21,14,2,Medium,Moderate,High,1
+PAT-2004-246,2023,iot,2,KOR,hardware,True,1,Yes,59.31,5045.05,24,23,1,Low,Moderate,Medium,2
+PAT-2004-247,2021,iot,3,USA,healthtech,False,0,Yes,500.0,1287.4,11,9,1,Medium,Moderate,High,0
+PAT-2004-248,2023,iot,4,RUS,telecom,False,1,No,19.74,3974.72,17,26,2,Low,Moderate,Medium,5
+PAT-2004-249,2022,ai_ml,2,USA,healthtech,False,1,Yes,500.0,8886.51,47,48,2,Low,Significant,Medium,4
+PAT-2004-250,2023,ai_ml,2,CHN,software,False,1,Yes,294.04,7520.89,48,34,2,High,Moderate,Medium,2
+PAT-2004-251,2021,blockchain,4,USA,fintech,False,1,Yes,73.25,1969.57,8,34,3,Medium,Moderate,Medium,4
+PAT-2004-252,2024,ai_ml,1,USA,software,True,1,No,26.26,2384.28,28,39,3,Low,Significant,High,4
+PAT-2004-253,2022,blockchain,3,GBR,fintech,False,1,Yes,126.57,4981.55,14,22,1,Medium,Moderate,Low,0
+PAT-2004-254,2023,blockchain,3,GBR,fintech,False,1,No,23.84,3534.98,17,34,1,Low,Marginal,Very Low,0
+PAT-2004-255,2023,iot,1,DEU,telecom,True,0,No,37.73,8085.16,28,8,2,Medium,Breakthrough,Medium,2
+PAT-2004-256,2024,ai_ml,2,USA,fintech,False,1,Yes,58.18,8753.44,42,31,2,High,Marginal,Low,3
+PAT-2004-257,2021,quantum,1,DEU,hardware,True,1,Yes,101.77,640.29,23,43,3,Low,Breakthrough,Very High,6
+PAT-2004-258,2021,blockchain,3,IND,software,False,1,No,30.66,2299.06,10,23,3,Medium,Marginal,Very Low,1
+PAT-2004-259,2021,iot,1,DEU,hardware,True,1,No,7.0,9980.42,8,23,1,Medium,Marginal,Very Low,0
+PAT-2004-260,2021,ai_ml,2,USA,software,True,1,Yes,500.0,5700.5,17,52,2,Medium,Moderate,Medium,1
+PAT-2004-261,2022,blockchain,3,USA,fintech,True,1,Yes,17.57,3339.43,19,31,2,Medium,Significant,High,1
+PAT-2004-262,2024,ai_ml,3,RUS,fintech,True,0,Yes,500.0,5620.77,35,16,3,Medium,Moderate,Medium,3
+PAT-2004-263,2024,iot,2,CHN,software,True,1,Yes,22.73,4607.48,18,23,1,Medium,Marginal,Very Low,1
+PAT-2004-264,2022,ai_ml,1,GBR,software,False,1,Yes,129.87,5344.19,47,28,3,High,Significant,High,5
+PAT-2004-265,2023,cybersecurity,4,IND,software,False,1,No,5.89,9290.66,16,18,1,Medium,Significant,Medium,2
+PAT-2004-266,2024,ai_ml,2,USA,software,True,1,Yes,15.62,7494.23,22,39,2,Medium,Moderate,Medium,3
+PAT-2004-267,2024,iot,3,IND,telecom,False,0,Yes,56.07,2492.16,25,7,1,Medium,Significant,Low,3
+PAT-2004-268,2021,ai_ml,1,DEU,software,True,1,Yes,60.16,4097.48,23,25,3,High,Significant,High,7
+PAT-2004-269,2022,iot,1,KOR,telecom,False,1,Yes,88.38,2884.15,26,30,1,Low,Moderate,Low,2
+PAT-2004-270,2023,blockchain,3,CHN,fintech,False,1,Yes,203.4,4870.82,5,24,3,Medium,Marginal,Low,3
+PAT-2004-271,2021,blockchain,4,IND,fintech,True,1,Yes,37.18,1250.45,17,23,2,Medium,Significant,Very High,3
+PAT-2004-272,2022,ai_ml,1,USA,software,True,1,No,53.04,5917.24,15,33,3,Medium,Significant,Medium,4
+PAT-2004-273,2024,ai_ml,1,USA,software,False,1,Yes,500.0,5204.72,49,27,3,Low,Breakthrough,Very High,3
+PAT-2004-274,2024,ai_ml,2,USA,healthtech,True,0,Yes,500.0,7435.81,50,18,3,Low,Moderate,High,6
+PAT-2004-275,2024,cybersecurity,4,IND,telecom,False,0,Yes,290.55,6617.17,8,10,2,Low,Significant,Low,1
+PAT-2004-276,2023,blockchain,3,USA,fintech,False,1,Yes,82.94,8457.59,19,25,1,Low,Marginal,Very Low,1
+PAT-2004-277,2021,ai_ml,3,GBR,healthtech,False,1,Yes,100.31,7270.37,25,30,3,Medium,Moderate,Medium,3
+PAT-2004-278,2021,cybersecurity,4,USA,software,False,1,No,81.33,9315.18,11,26,2,High,Significant,Medium,3
+PAT-2004-279,2022,ai_ml,2,USA,software,False,0,Yes,500.0,1947.39,19,12,3,Medium,Marginal,Low,3
+PAT-2004-280,2022,blockchain,4,IND,fintech,False,1,Yes,83.27,2434.41,6,44,2,Low,Marginal,Very Low,1
+PAT-2004-281,2022,iot,3,USA,software,True,1,Yes,358.49,4787.34,23,25,1,High,Marginal,Very Low,4
+PAT-2004-282,2023,cybersecurity,1,JPN,software,True,0,Yes,350.68,5449.24,29,13,1,Medium,Significant,Medium,2
+PAT-2004-283,2022,iot,2,CHN,hardware,False,1,Yes,8.71,4685.68,25,32,1,High,Moderate,Low,3
+PAT-2004-284,2023,blockchain,3,RUS,software,True,0,No,247.71,6811.2,18,11,1,Medium,Moderate,Medium,1
+PAT-2004-285,2021,cybersecurity,1,DEU,telecom,False,1,Yes,316.47,9834.43,10,28,1,High,Moderate,Low,2
+PAT-2004-286,2021,ai_ml,3,IND,software,False,1,No,43.34,3383.67,39,33,3,Medium,Breakthrough,Very High,3
+PAT-2004-287,2020,cybersecurity,4,RUS,software,False,0,No,70.62,5066.8,24,4,1,High,Moderate,Medium,2
+PAT-2004-288,2021,quantum,2,USA,software,True,0,Yes,24.32,4007.65,22,3,2,Medium,Breakthrough,High,1
+PAT-2004-289,2024,cybersecurity,1,GBR,fintech,True,1,Yes,301.66,9439.05,21,26,3,High,Moderate,Medium,3
+PAT-2004-290,2022,ai_ml,3,CHN,fintech,False,1,Yes,32.31,1808.51,15,39,2,Medium,Significant,Medium,2
+PAT-2004-291,2021,ai_ml,1,KOR,fintech,False,1,Yes,3.07,4533.06,32,33,2,Low,Breakthrough,Medium,3
+PAT-2004-292,2023,iot,3,IND,hardware,False,1,Yes,30.08,5986.45,20,19,2,Low,Significant,Very High,1
+PAT-2004-293,2022,iot,3,DEU,hardware,False,1,No,10.06,4624.45,28,24,2,High,Moderate,Medium,4
+PAT-2004-294,2020,iot,2,CHN,hardware,False,1,Yes,16.26,9987.26,29,20,2,Medium,Moderate,Low,3
+PAT-2004-295,2021,cybersecurity,4,USA,software,True,0,Yes,266.61,7145.24,24,8,2,Low,Significant,Medium,3
+PAT-2004-296,2021,iot,1,JPN,software,True,0,Yes,75.91,8777.08,10,7,2,Low,Moderate,Medium,1
+PAT-2004-297,2023,ai_ml,1,USA,software,True,0,Yes,101.25,1523.76,22,15,3,Low,Significant,High,4
+PAT-2004-298,2021,blockchain,2,JPN,fintech,True,1,No,21.36,1147.16,6,16,2,Medium,Moderate,Medium,0
+PAT-2004-299,2020,ai_ml,2,CHN,software,False,1,No,53.26,1888.68,19,43,2,Medium,Marginal,Very Low,3
+PAT-2004-300,2020,ai_ml,2,USA,software,True,1,Yes,213.78,3802.23,41,28,3,High,Moderate,Medium,5
+PAT-2004-301,2022,ai_ml,1,USA,hardware,False,0,Yes,135.25,9008.46,22,7,3,Medium,Moderate,Low,3
+PAT-2004-302,2020,quantum,1,CHN,hardware,False,1,Yes,71.84,2774.94,24,43,3,Medium,Significant,Medium,5
+PAT-2004-303,2023,iot,3,CHN,software,False,0,Yes,500.0,6937.21,19,6,2,Medium,Moderate,Low,1
+PAT-2004-304,2021,iot,3,RUS,hardware,True,0,Yes,500.0,6120.0,8,10,1,Medium,Marginal,Low,1
+PAT-2004-305,2023,blockchain,4,DEU,fintech,False,0,Yes,82.63,9166.41,12,10,1,Medium,Marginal,Low,2
+PAT-2004-306,2022,iot,2,USA,hardware,True,1,No,33.63,4278.79,20,23,1,High,Moderate,Low,4
+PAT-2004-307,2022,quantum,3,USA,software,False,0,No,20.32,816.44,47,18,2,High,Moderate,Medium,1
+PAT-2004-308,2020,cybersecurity,4,RUS,software,True,0,No,18.63,719.98,8,6,1,Medium,Moderate,Low,2
+PAT-2004-309,2023,iot,3,RUS,hardware,False,1,Yes,32.93,6576.47,15,18,2,High,Moderate,Low,3
+PAT-2004-310,2024,quantum,1,DEU,cybersecurity,True,0,No,37.67,8312.52,35,18,2,High,Significant,Low,3
+PAT-2004-311,2020,iot,2,CHN,healthtech,False,1,Yes,74.87,4752.98,29,25,2,Medium,Marginal,Low,4
+PAT-2004-312,2021,blockchain,2,USA,fintech,True,0,No,22.18,5595.82,9,6,1,Medium,Moderate,Medium,2
+PAT-2004-313,2024,cybersecurity,1,USA,software,True,0,Yes,500.0,7030.23,27,14,1,Medium,Significant,High,1
+PAT-2004-314,2022,blockchain,3,IND,fintech,False,0,Yes,289.82,6606.56,14,12,1,Low,Significant,Medium,2
+PAT-2004-315,2021,blockchain,3,GBR,software,False,0,Yes,53.26,3514.85,17,13,2,Medium,Marginal,Low,2
+PAT-2004-316,2021,ai_ml,2,JPN,fintech,True,1,Yes,98.45,6279.03,40,39,3,High,Moderate,High,5
+PAT-2004-317,2023,iot,4,USA,healthtech,False,1,Yes,301.19,9876.45,14,19,1,Low,Moderate,High,0
+PAT-2004-318,2023,iot,4,RUS,hardware,False,1,No,44.84,7459.22,19,25,2,Medium,Moderate,Medium,2
+PAT-2004-319,2022,iot,3,IND,telecom,False,1,Yes,48.14,4698.1,14,29,2,Medium,Significant,High,1
+PAT-2004-320,2024,blockchain,3,USA,fintech,True,0,Yes,64.17,6195.65,7,12,2,Medium,Marginal,Very Low,0
+PAT-2004-321,2022,ai_ml,3,USA,healthtech,True,0,Yes,23.63,1616.0,17,16,3,Low,Moderate,Medium,3
+PAT-2004-322,2021,cybersecurity,2,CHN,software,False,1,Yes,109.2,8349.63,19,24,2,High,Significant,Very High,4
+PAT-2004-323,2022,ai_ml,1,DEU,healthtech,True,0,Yes,230.65,4128.14,15,18,2,Low,Significant,Medium,3
+PAT-2004-324,2022,cybersecurity,1,CHN,telecom,False,0,Yes,45.81,2071.21,19,9,1,High,Breakthrough,Medium,4
+PAT-2004-325,2021,ai_ml,2,CHN,healthtech,False,1,Yes,28.92,6116.23,18,39,3,Medium,Moderate,High,3
+PAT-2004-326,2020,iot,1,USA,telecom,False,1,No,51.92,5556.05,20,21,1,Medium,Marginal,Low,1
+PAT-2004-327,2022,iot,3,RUS,hardware,False,1,Yes,345.63,8221.72,14,25,1,Low,Moderate,Low,2
+PAT-2004-328,2023,quantum,2,JPN,hardware,True,1,Yes,159.11,3703.68,41,39,2,High,Marginal,Low,2
+PAT-2004-329,2020,ai_ml,2,CHN,software,False,1,No,47.46,4498.3,23,34,2,Medium,Breakthrough,Very High,1
+PAT-2004-330,2022,cybersecurity,2,USA,fintech,True,1,No,120.19,9957.01,19,30,3,Medium,Moderate,Low,3
+PAT-2004-331,2023,iot,2,USA,hardware,False,0,No,17.99,6420.09,12,12,3,High,Marginal,Very Low,5
+PAT-2004-332,2023,iot,1,USA,telecom,True,1,No,145.16,2082.42,21,30,1,Low,Moderate,High,2
+PAT-2004-333,2023,iot,1,USA,hardware,True,1,Yes,274.92,722.62,25,25,3,Medium,Moderate,Medium,3
+PAT-2004-334,2023,ai_ml,2,USA,healthtech,False,1,Yes,249.26,8038.09,23,34,3,Medium,Significant,Medium,3
+PAT-2004-335,2023,blockchain,3,DEU,fintech,False,0,Yes,142.38,1954.03,13,6,2,Low,Moderate,Medium,1
+PAT-2004-336,2020,ai_ml,3,GBR,software,False,0,Yes,200.68,8796.71,40,21,3,Medium,Moderate,Low,3
+PAT-2004-337,2022,ai_ml,2,JPN,software,True,1,Yes,20.31,3547.87,36,45,3,Medium,Marginal,Low,1
+PAT-2004-338,2023,iot,2,CHN,hardware,False,1,No,184.62,9789.35,20,27,1,Medium,Moderate,Medium,2
+PAT-2004-339,2021,blockchain,4,USA,fintech,True,0,Yes,111.93,9415.7,18,8,3,Low,Significant,Medium,3
+PAT-2004-340,2020,ai_ml,1,CHN,fintech,False,1,Yes,82.2,773.15,38,27,3,High,Moderate,Medium,5
+PAT-2004-341,2021,ai_ml,3,CHN,software,False,1,Yes,27.35,8306.26,25,27,2,Medium,Marginal,Very Low,2
+PAT-2004-342,2022,ai_ml,2,CHN,software,False,1,Yes,21.68,9144.9,34,34,3,High,Moderate,Medium,3
+PAT-2004-343,2022,ai_ml,3,IND,software,False,0,No,17.42,4460.43,17,18,3,High,Marginal,Very Low,3
+PAT-2004-344,2021,iot,3,DEU,hardware,True,0,Yes,16.1,3441.96,26,5,3,Low,Significant,Medium,4
+PAT-2004-345,2023,ai_ml,2,JPN,fintech,False,1,Yes,130.43,1546.76,26,36,3,Low,Significant,Very High,3
+PAT-2004-346,2024,cybersecurity,1,USA,software,False,1,No,96.04,6022.18,14,23,3,Medium,Significant,High,2
+PAT-2004-347,2021,ai_ml,3,CHN,software,False,0,Yes,130.99,7373.36,29,13,2,High,Marginal,Very Low,4
+PAT-2004-348,2024,ai_ml,1,USA,healthtech,True,1,Yes,286.57,5423.52,17,34,2,Medium,Breakthrough,Medium,1
+PAT-2004-349,2020,cybersecurity,2,CHN,telecom,False,1,Yes,22.94,9500.64,8,20,1,Medium,Moderate,High,1
+PAT-2004-350,2024,ai_ml,1,CHN,software,True,0,No,9.92,1312.69,35,16,3,Medium,Moderate,Medium,6
+PAT-2004-351,2024,blockchain,2,JPN,fintech,True,1,No,28.4,4321.69,6,26,2,Medium,Moderate,Medium,3
+PAT-2004-352,2020,cybersecurity,1,USA,software,True,0,No,29.49,2592.89,27,12,1,Medium,Significant,Low,3
+PAT-2004-353,2023,cybersecurity,3,GBR,software,False,1,No,58.24,2891.43,26,27,2,High,Moderate,Medium,2
+PAT-2004-354,2024,iot,3,USA,telecom,False,1,No,69.33,7243.53,8,30,2,Medium,Marginal,Very Low,1
+PAT-2004-355,2024,ai_ml,1,KOR,software,False,0,No,14.75,5646.63,27,13,2,Medium,Breakthrough,Low,1
+PAT-2004-356,2024,iot,2,USA,software,True,1,Yes,109.85,4203.75,27,27,3,High,Marginal,Very Low,2
+PAT-2004-357,2022,cybersecurity,1,KOR,software,False,0,Yes,11.44,9533.98,28,5,1,High,Moderate,Medium,2
+PAT-2004-358,2020,cybersecurity,4,IND,software,False,1,No,46.67,9006.23,27,15,3,Medium,Significant,High,5
+PAT-2004-359,2023,ai_ml,1,CHN,fintech,False,1,No,47.86,9606.4,34,40,2,Medium,Breakthrough,High,2
+PAT-2004-360,2023,blockchain,4,USA,fintech,False,0,No,12.91,5659.58,13,10,2,High,Marginal,Low,3
+PAT-2004-361,2023,ai_ml,1,USA,healthtech,True,1,Yes,135.31,9213.05,30,40,2,Low,Significant,Medium,3
+PAT-2004-362,2022,ai_ml,1,USA,fintech,False,1,Yes,208.93,6901.77,26,34,2,Medium,Breakthrough,High,2
+PAT-2004-363,2022,iot,3,DEU,hardware,False,1,No,9.78,7686.55,12,21,2,Medium,Significant,Medium,1
+PAT-2004-364,2021,ai_ml,3,GBR,software,True,1,No,96.87,4144.76,27,28,2,Medium,Moderate,Medium,2
+PAT-2004-365,2023,ai_ml,1,JPN,software,True,1,No,48.43,4467.46,46,34,3,High,Breakthrough,Very High,6
+PAT-2004-366,2020,ai_ml,3,GBR,healthtech,False,1,Yes,72.4,4502.21,17,49,2,Medium,Moderate,Medium,1
+PAT-2004-367,2023,blockchain,3,CHN,fintech,True,1,Yes,81.31,7286.36,10,28,3,High,Significant,Medium,4
+PAT-2004-368,2023,ai_ml,1,GBR,software,True,0,No,17.94,4756.43,23,18,3,Medium,Breakthrough,Medium,4
+PAT-2004-369,2022,blockchain,3,DEU,fintech,False,1,Yes,132.63,5799.1,14,15,1,Low,Moderate,Medium,2
+PAT-2004-370,2022,ai_ml,2,USA,fintech,True,1,Yes,36.34,6024.73,35,51,3,Medium,Moderate,High,1
+PAT-2004-371,2021,cybersecurity,1,DEU,telecom,False,1,Yes,179.77,4362.27,27,21,3,Low,Marginal,Low,4
+PAT-2004-372,2024,ai_ml,1,CHN,software,False,0,Yes,500.0,5376.92,25,24,2,Medium,Breakthrough,Low,3
+PAT-2004-373,2023,iot,3,IND,hardware,False,1,Yes,19.3,3427.85,14,31,2,Low,Moderate,Medium,1
+PAT-2004-374,2022,ai_ml,3,USA,software,False,1,No,85.81,1704.7,32,27,2,Medium,Significant,Very High,1
+PAT-2004-375,2021,ai_ml,2,USA,software,True,1,Yes,90.86,2295.37,28,30,3,Low,Moderate,High,2
+PAT-2004-376,2021,ai_ml,3,GBR,software,False,0,No,13.03,2851.77,20,9,3,High,Moderate,High,4
+PAT-2004-377,2022,ai_ml,2,CHN,software,False,1,Yes,185.27,827.29,42,31,2,Low,Moderate,High,0
+PAT-2004-378,2024,ai_ml,2,CHN,software,False,1,No,8.68,4335.35,47,34,2,Low,Breakthrough,Very High,2
+PAT-2004-379,2023,blockchain,4,USA,fintech,False,1,No,45.24,1392.57,10,22,1,Low,Moderate,High,3
+PAT-2004-380,2021,iot,2,JPN,telecom,True,1,Yes,323.75,3610.55,12,28,2,Low,Moderate,Medium,2
+PAT-2004-381,2024,ai_ml,3,USA,healthtech,False,0,Yes,500.0,3773.98,49,15,3,Medium,Significant,Medium,4
+PAT-2004-382,2022,blockchain,3,USA,fintech,False,1,Yes,350.11,7203.44,16,27,1,Medium,Moderate,Low,1
+PAT-2004-383,2024,iot,4,USA,telecom,True,1,Yes,108.57,2003.61,8,23,2,Low,Significant,Medium,1
+PAT-2004-384,2021,ai_ml,2,USA,hardware,False,1,Yes,24.03,6737.28,39,37,2,Medium,Moderate,Medium,1
+PAT-2004-385,2023,blockchain,4,RUS,fintech,False,1,Yes,96.01,840.39,6,18,3,High,Marginal,Low,5
+PAT-2004-386,2024,ai_ml,2,JPN,software,False,1,Yes,63.46,2909.72,40,24,3,High,Moderate,Medium,4
+PAT-2004-387,2021,ai_ml,2,USA,software,True,1,No,39.42,9708.6,21,39,2,High,Significant,High,3
+PAT-2004-388,2023,blockchain,3,USA,telecom,False,0,No,47.61,1974.89,7,14,2,Medium,Marginal,Very Low,1
+PAT-2004-389,2024,cybersecurity,1,USA,software,True,0,No,14.54,6037.16,12,15,3,Low,Moderate,High,4
+PAT-2004-390,2021,cybersecurity,3,USA,software,True,1,No,11.38,723.28,24,28,1,Medium,Breakthrough,Medium,1
+PAT-2004-391,2020,cybersecurity,3,USA,fintech,True,0,Yes,500.0,5266.77,26,18,1,Low,Significant,Low,3
+PAT-2004-392,2023,blockchain,3,GBR,fintech,False,0,Yes,22.29,1601.3,9,14,2,Low,Moderate,Medium,1
+PAT-2004-393,2021,ai_ml,2,KOR,software,False,0,Yes,195.05,1898.2,23,13,3,Medium,Marginal,Low,3
+PAT-2004-394,2020,ai_ml,1,USA,software,False,1,Yes,112.34,9035.65,36,46,3,Medium,Moderate,High,2
+PAT-2004-395,2022,ai_ml,3,GBR,healthtech,False,1,Yes,144.14,1464.4,50,45,2,Medium,Marginal,Low,1
+PAT-2004-396,2023,ai_ml,3,RUS,fintech,True,0,Yes,38.84,7022.22,32,15,2,Low,Moderate,Low,1
+PAT-2004-397,2021,ai_ml,1,CHN,software,True,1,Yes,73.48,9230.38,34,24,3,Medium,Significant,High,2
+PAT-2004-398,2021,blockchain,3,USA,fintech,False,1,Yes,130.76,9679.69,5,25,3,Medium,Marginal,Very Low,2
+PAT-2004-399,2023,ai_ml,1,CHN,software,False,1,No,16.95,6633.35,18,37,3,Medium,Moderate,Low,3
+PAT-2004-400,2022,ai_ml,1,CHN,software,False,1,No,10.25,8118.96,23,37,3,Low,Significant,High,4
