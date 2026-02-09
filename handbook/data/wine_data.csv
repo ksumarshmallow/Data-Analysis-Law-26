@@ -1,0 +1,213 @@
+name,price (PLN),country,region,color,alcohol (%),volume (liters),taste,punctation
+Acústic Auditori Montsant DO,345.0,Spain,Catalonia,red,15.0,0.75,dry,91.0
+Acústic Negre Montsant DO,116.0,Spain,Catalonia,red,15.0,0.75,dry,91.0
+Acústic Negre Montsant DO magnum,234.0,Spain,Catalonia,red,15.0,1.5,dry,91.0
+Alvear Pedro Ximénez Montilla-Moriles DO,150.0,Spain,Andalusia,white,16.0,0.75,sweet,97.0
+Armand de Brignac Rosé Champagne AOC NV,2999.0,France,Champagne,rose,12.5,0.75,dry,93.0
+Arzuaga Navarro La Planta Ribera Del Duero DO,85.0,Spain,Ribera del Duero,red,14.0,0.75,dry,90.0
+Baigorri de Garage Rioja DOC,322.0,Spain,Rioja,red,15.0,0.75,dry,91.0
+Barco del Corneta CUCÚ Cantaba La Rana DO Rueda,77.0,Spain,Castile (Castilla y Leon),white,12.0,0.75,dry,91.0
+Barco del Corneta Verdejo DO Rueda,149.0,Spain,Castile (Castilla y Leon),white,13.5,0.75,dry,94.0
+BIANCHI Enzo Bianchi Gran Corte San Rafael Mendoza,340.0,Argentina,Mendoza,red,14.5,0.75,dry,91.0
+Bideona Tempranillo de Laderas Rioja DOC,59.0,Spain,Rioja,red,14.0,0.75,dry,91.0
+Bideona Viura de Cabezadas Rioja DOC,59.0,Spain,Rioja,white,13.0,0.75,dry,91.0
+Bodegas Bhilar Blanco Rioja DOC,121.0,Spain,Rioja,white,12.5,0.75,dry,90.0
+Bodegas Bhilar Finca Hapa Tinto Rioja DOC,234.0,Spain,Rioja,red,14.5,0.75,dry,94.0
+Bodegas Bhilar Lágrimas de Graciano Rioja DOC,95.0,Spain,Rioja,red,13.5,0.75,dry,90.0
+Bodegas Bhilar Tinto Rioja DOC,121.0,Spain,Rioja,red,13.5,0.75,dry,91.0
+Bodegas el Angosto Angosto Tinto Valencia DOP,65.0,Spain,Valencia,red,12.5,0.75,dry,91.0
+Bodegas Fariña Crianza Toro DO,119.0,Spain,Castile (Castilla y Leon),red,14.0,0.75,dry,90.0
+Borgo Scopeto Chianti Classico DOCG,98.0,Italy,Tuscany,red,13.0,0.75,dry,91.0
+Brancaia Chianti Classico Riserva DOCG,250.0,Italy,Tuscany,red,13.5,0.75,dry,93.0
+Brunello di Montalcino Capanna,309.0,Italy,Tuscany,red,14.5,0.75,dry,92.0
+Brunello di Montalcino Fattoria dei Barbi,352.0,Italy,Tuscany,red,14.5,0.75,dry,94.5
+Brunello di Montalcino Riserva Capanna,649.0,Italy,Tuscany,red,14.5,0.75,dry,94.0
+Brunello di Montalcino Riserva DOCG Il Poggione,465.0,Italy,Tuscany,red,14.5,0.75,dry,96.0
+Brunello Tenuta Nuova Casanova di Neri,815.0,Italy,Tuscany,red,15.0,0.75,dry,95.5
+Caparzo Rosso di Montalcino DOC,128.0,Italy,Tuscany,red,13.5,0.75,dry,91.0
+Casa Balaguer El Carro de la Mata Alicante DO,176.0,Spain,Valencia,orange,13.5,0.75,dry,91.0
+Casa Balaguer La Rambla del Peligrés Alicante DO,96.0,Spain,Valencia,red,13.0,0.75,dry,91.0
+Casa Balaguer Tragolargo tinto Alicante DO,69.0,Spain,Valencia,red,13.0,0.75,dry,91.0
+Castello del Terriccio Lupicaia Toscana IGT,785.0,Italy,Tuscany,red,14.0,0.75,dry,93.0
+Castello del Terriccio Tassinaia Toscana IGT,219.0,Italy,Tuscany,red,14.0,0.75,dry,95.0
+Catena Cabernet Sauvignon Mendoza,115.0,Argentina,Mendoza,red,13.5,0.75,dry,91.0
+"Cérvoles Colors Negre, Costers del Segre DO",69.0,Spain,Catalonia,red,14.5,0.75,dry,90.0
+"Cérvoles Garnatxa, Costers del Segre DO",96.0,Spain,Catalonia,red,14.5,0.75,dry,94.0
+Chapoutier Prestige Granilites Rouge Saint-Joseph AOP Bio Organic,223.0,France,Rhône Valley,red,13.0,0.75,dry,91.0
+Chardonnay St. Valentin St. Michele Eppan,195.0,Italy,Trentino Alto Adige,white,14.0,0.75,dry,93.0
+Château de Sales AOC Pomerol,279.0,France,Bordeaux,red,14.0,0.75,dry,93.0
+Chateau Lacoste Borie Pauillac,299.0,France,Bordeaux,red,13.5,0.75,dry,93.0
+Château Miraval Miraval Rosé Côtes de Provence AOP,209.0,France,Provence,rose,13.5,0.75,dry,90.666664
+Chateau Mouton Rothschild Cru Classe,4450.0,France,Bordeaux,red,13.0,0.75,dry,95.0
+Château Rieussec Premiere Cru Classe Sauternes AOC,569.0,France,Bordeaux,white,13.5,0.75,sweet,96.0
+Chianti Classico Fattoria di Felsina,135.0,Italy,Tuscany,red,13.5,0.75,dry,91.0
+De Stefani Pinot Grigio delle Venezie DOC,79.0,Italy,Veneto,white,12.5,0.75,dry,93.0
+"Domaine Chandon de Briailles Savigny-Les-Beaune 1er Cru ""Les Laviers"" Bio",397.0,France,Burgundy,red,12.5,0.75,dry,93.0
+Domaine Chanson Pommard 1er Cru Les Charmots AOC,517.0,France,Burgundy,red,13.5,0.75,dry,93.0
+Domaine Vieux Telegraphe Telegramme Rouge Chateauneuf-du Pape AOC,233.0,France,Rhône Valley,red,14.5,0.75,dry,92.5
+Domaines Ott Clos Mireille Blanc de Blancs Cru Classé Côtes De Provence AOC,269.0,France,Provence,white,13.5,0.75,dry,91.0
+Domaines Schlumberger Les Princes Abbés Gewurztraminer Alsace AOP,149.0,France,Alsace,white,13.0,0.75,semi-sweet,90.0
+Domaines Schlumberger Les Princes Abbés Pinot Gris Alsace AOP,139.0,France,Alsace,white,13.5,0.75,dry,92.0
+"Dominio de Pingus ""Flor de Pingus"" Ribera Del Duero DO",611.0,Spain,Ribera del Duero,red,14.0,0.75,dry,94.0
+"Dominio de Pingus ""Pingus"" Ribera Del Duero DO",5599.0,Spain,Ribera del Duero,red,15.0,0.75,dry,98.333336
+Donnafugata CUORDILAVA Dolce&Gabbana Etna Rosso DOC,845.0,Italy,Sicily,red,14.0,0.75,dry,91.0
+Dorli Muhr Carnuntum Rot DAC Carnuntum,105.0,Austria,Niederösterreich,red,12.5,0.75,dry,90.0
+Dorli Muhr Prellenkirchen Villages Niederösterreich,85.0,Austria,Niederösterreich,white,12.5,0.75,dry,92.0
+Dorli Muhr Ried Spitzerberg Obere Rotered,199.0,Austria,Niederösterreich,red,13.0,0.75,dry,94.5
+Dorli Muhr Syrah Niederösterreich,199.0,Austria,Niederösterreich,red,13.0,0.75,dry,95.0
+"Dr Loosen Ürziger Würzgarten Riesling Grosses Gewächs ""Alte Reben""",227.0,Germany,Moselle-Saar-Ruwer,white,12.5,0.75,dry,95.0
+El Esteco Don David Reserve Chardonnay Calchaquí Valley,65.0,Argentina,Cafayate,white,14.5,0.75,dry,90.0
+El Esteco Finca Notables Cabernet Sauvignon Calchaquí Valley,149.0,Argentina,Cafayate,red,14.5,0.75,dry,91.5
+El Esteco Old Vines Torrontés Calchaquí Valley,79.0,Argentina,Cafayate,white,14.0,0.75,dry,95.0
+Famille Perrin Les Sinards Châteauneuf-du-Pape AOC,339.0,France,Rhône Valley,red,14.5,0.75,dry,92.0
+Feudi di San Gregorio Serpico Aglianico DOC,321.0,Italy,Campaign,red,14.0,0.75,dry,96.0
+Frontonio Botijo Garnacha Blanca Organic Valdejalón IGP,59.0,Spain,Aragon,white,12.5,0.75,dry,90.0
+Frontonio Botijo Rojo Garnacha Organic Valdejalón IGP,59.0,Spain,Aragon,red,12.5,0.75,dry,91.0
+Frontonio Microcósmico Garnacha Tinto Valdejalón IGP,99.0,Spain,Aragon,red,13.5,0.75,dry,92.0
+GAJA Ca'Marcanda Promis Toscana IGT,368.0,Italy,Tuscany,red,13.5,0.75,dry,92.0
+GAJA Ca'Marcanda Vistamare Toscana IGT,404.0,Italy,Tuscany,white,13.5,0.75,dry,92.0
+Gruner Veltliner Grub Schloss Gobelsburg,275.0,Austria,Kamptal,white,13.5,0.75,dry,91.0
+Gruner Veltliner STEINSETZ Schloss Gobelsburg,139.0,Austria,Kamptal,white,13.0,0.75,dry,92.0
+Guicciardini Strozzi Ocra Bolgheri DOC,179.0,Italy,Tuscany,red,13.5,0.75,dry,90.0
+Guicciardini Strozzi Villa Cusona Chianti DOCG,85.0,Italy,Tuscany,red,13.5,0.75,dry,93.0
+Guicciardini Strozzi Villa Cusona Vernaccia di San Gimignano DOCG,89.0,Italy,Tuscany,white,12.5,0.75,dry,90.0
+H. BLIN Brut Rosé Champagne AOC NV,259.0,France,Champagne,rose,12.5,0.75,dry,91.0
+Il Nocio Vino Nobile di Montepulciano Boscarelli,499.0,Italy,Tuscany,red,14.5,0.75,dry,93.0
+Kanonkop Kadette Pinotage,89.0,South Africa,Western Cape,red,14.3,0.75,dry,91.0
+La Valentina Binomio Montepulciano d'Abruzzo DOC,229.0,Italy,Abruzzo,red,14.5,0.75,dry,94.0
+La Valentina Spelt Cerasuolo d'Abruzzo Superiore DOC,113.0,Italy,Abruzzo,rose,13.0,0.75,dry,93.0
+Lapostolle Cabernet Sauvignon Valle de Colchagua DO,87.0,Chile,Rapel Valley,red,14.5,0.75,dry,92.0
+Lapostolle Merlot Valle de Rapel DO,87.0,Chile,Rapel Valley,red,14.5,0.75,dry,90.0
+Lapostolle Sauvignon Blanc Valle de Rapel DO,87.0,Chile,Rapel Valley,white,13.5,0.75,dry,92.0
+Livio Felluga Pinot Grigio Colli Orientali del Friuli DOC,186.0,Italy,Friuli,white,13.0,0.75,dry,92.0
+Livio Felluga Sauvignon Blanc Collio DOC,165.0,Italy,Friuli,white,13.0,0.75,dry,90.0
+Louis Jadot Château des Jacques Moulin-à-Vent AOC,169.0,France,Beaujolais,red,14.0,0.75,dry,90.0
+Louis Jadot Couvent Des Jacobins Pinot Noir Bourgogne AOC,189.0,France,Burgundy,red,12.5,0.75,dry,90.0
+Louis Jadot Le Vaucrain Côte de Nuits Villages AOC,286.0,France,Burgundy,red,12.5,0.75,dry,91.0
+Louis Jadot Nuits-Saint-Georges AOC,474.0,France,Burgundy,red,13.5,0.75,dry,93.0
+Louis Jadot Pommard AOC,449.0,France,Burgundy,red,13.5,0.75,dry,92.0
+Marina Cvetic Montepulciano D’Abruzzo DOC Riserva,217.0,Italy,Abruzzo,red,14.5,0.75,dry,93.0
+Mas de Daumas Gassac,402.0,France,Languedoc (Languedoc),red,14.0,0.75,dry,93.0
+Mas de Mas Saint-Chinian AOC,74.0,France,Languedoc (Languedoc),red,14.0,0.75,dry,90.0
+Massolino Nebbiolo Langhe DOP,145.0,Italy,Piedmont,red,14.0,0.75,dry,92.0
+Merayo Aquiana Tinto Mencía Bierzo DO,119.0,Spain,Castile (Castilla y Leon),red,14.5,0.75,dry,93.0
+Merayo Godello Bierzo DO,75.0,Spain,Castile (Castilla y Leon),white,13.0,0.75,dry,91.0
+Merayo Las Tres Filas Mencía Bierzo DO,75.0,Spain,Castile (Castilla y Leon),red,14.0,0.75,dry,91.5
+Morgante Don Antonio Nero d'Avola Riserva Sicilia DOC,229.0,Italy,Sicily,red,14.5,0.75,dry,93.0
+Morgante Nero d'Avola Sicilia DOC,89.0,Italy,Sicily,red,14.5,0.75,dry,90.0
+Murviedro Sericis Monastrell Cepas Viejas Alicante DOP,89.0,Spain,Valencia,red,14.0,0.75,dry,90.0
+Mustiguillo Atance Bobal Valencia DOP,55.0,Spain,Valencia,red,13.0,0.75,dry,91.0
+Neumayer Grüner Veltliner Rafasetzen Traisental DAC,113.0,Austria,Traisental,white,12.5,0.75,dry,92.0
+Neumayer Grüner Veltliner Schieflage Traisental DAC,96.0,Austria,Traisental,white,12.5,0.75,dry,90.0
+Neumayer Grüner Veltliner Zwirch Reserve Erste Lage Traisental DAC,167.0,Austria,Traisental,white,14.0,0.75,dry,92.0
+Neumayer Riesling Ried Rothenbart Reserve Erste Lage Traisental DAC,169.0,Austria,Traisental,white,13.0,0.75,dry,95.0
+Nine Stones Shiraz Barossa Valley,84.0,Australia,Barossa Valley,red,14.0,0.75,dry,90.0
+Paco & Lola PRIME Albariño Lías Rías Baixas DO,129.0,Spain,Galicia,white,13.0,0.75,dry,92.0
+Pascual Toso Alta Reserva Cabernet Sauvignon Mendoza,209.0,Argentina,Mendoza,red,14.0,0.75,dry,93.0
+Pascual Toso Alta Reserva Malbec Mendoza,209.0,Argentina,Mendoza,red,14.0,0.75,dry,93.0
+Pascual Toso Barrancas Toso Mendoza,85.0,Argentina,Mendoza,red,14.5,0.75,dry,94.0
+Pascual Toso Finca Pedegral Mendoza,339.0,Argentina,Mendoza,red,14.5,0.75,dry,94.0
+Península Apóstata Old Vine Tempranillo VdT Castilla,79.0,Spain,Castile (Castilla y Leon),red,15.0,0.75,dry,92.0
+Péter Vida Bonsai Old Vines Kadarka Szekszárd,145.0,Hungary,Shakespeare,red,12.5,0.75,dry,94.0
+Pinot Grigio St.Valentin St. Michele Eppan,179.0,Italy,Trentino Alto Adige,white,14.5,0.75,dry,93.5
+Pinot Noir Reserve Auer,152.1,Austria,Weinland,red,13.5,0.75,dry,95.0
+Poggio Al Tesoro Sondraia Bolgheri Superiore DOC,369.0,Italy,Tuscany,red,15.0,0.75,dry,92.0
+Prà OTTO Soave Classico DOC,79.0,Italy,Veneto,white,12.5,0.75,dry,93.0
+Pradorey ADARO. Ribera del Duero DO,121.0,Spain,Castile (Castilla y Leon),red,14.0,0.75,dry,93.0
+Pradorey Élite Ribera del Duero DO,189.0,Spain,Castile (Castilla y Leon),red,14.0,0.75,dry,96.0
+Pradorey Origen Joven Ribera del Duero DO,63.0,Spain,Castile (Castilla y Leon),red,14.0,0.75,dry,90.0
+Pradorey Reserva Finca La Mina Ribera del Duero DO,155.0,Spain,Castile (Castilla y Leon),red,14.5,0.75,dry,93.0
+Prestige Arenes Rouge Cornas AOP Chapoutier,265.0,France,Rhône Valley,red,14.0,0.75,dry,92.0
+Rafa Bernabé Musikanto Rosato Alicante DO,114.0,Spain,Valencia,rose,14.5,0.75,dry,91.0
+Rafael Palacios Louro do Bolo Valdeorras DO,129.0,Spain,Galicia,white,13.5,0.75,dry,93.0
+Raventós i Blanc de Nit Conca del Riu Anoia,126.0,Spain,Catalonia,rose,12.5,0.75,dry,93.0
+Recanati Marawi Judean Hills,195.0,Israel,Galilee,white,11.0,0.75,dry,90.0
+Remelluri Lindes de Remelluri Viñedos de Labastida Rioja DO,119.0,Spain,Rioja,red,14.0,0.75,dry,93.0
+Remelluri Lindes de Remelluri Viñedos de San Vicente de la Sonsierra Rioja DOC,119.0,Spain,Rioja,red,14.0,0.75,dry,93.0
+Remelluri Reserva Rioja DOC,199.0,Spain,Rioja,red,14.0,0.75,dry,94.0
+Ricasoli Antico Feudo della Trappola Toscana IGT,74.0,Italy,Tuscany,red,14.0,0.75,dry,92.0
+Ricasoli Brolio Chianti Classico DOCG,106.0,Italy,Tuscany,red,14.0,0.75,dry,92.0
+Ricasoli Rocca Guicciarda Riserva Chianti Classico DOCG,129.0,Italy,Tuscany,red,13.5,0.75,dry,92.0
+Ricasoli Torricella Bianco Toscana IGT,129.0,Italy,Tuscany,white,14.0,0.75,dry,90.5
+Ritme Plaer Priorat DOQ,208.0,Spain,Catalonia,red,15.0,0.75,dry,90.0
+Rodney Strong Cabernet Sauvignon Alexander Valley AVA,179.0,United States of America,California,red,14.5,0.75,dry,93.0
+Rodney Strong Chardonnay Chalk Hill AVA,135.0,United States of America,California,white,13.5,0.75,dry,93.0
+Rodney Strong Chardonnay Sonoma Valley AVA,115.0,United States of America,California,white,13.5,0.75,dry,90.0
+Rodney Strong Reserve Cabernet Sauvignon Alexander Valley AVA,359.0,United States of America,California,red,15.0,0.75,dry,91.0
+Rodney Strong Symmetry Alexander Valley AVA,419.0,United States of America,California,red,15.0,0.75,dry,91.0
+Rotgipfler Auer,69.0,Austria,Weinland,white,13.0,0.75,dry,90.0
+Rotgipfler Premium Auer,109.0,Austria,Weinland,white,13.5,0.75,dry,92.0
+Sancerre Les Baronnes Henri Bourgeois,175.0,France,Loire Valley,white,13.5,0.75,dry,90.0
+Seifried Nelson 'Sweet Agnes' Riesling,149.0,New Zealand,Nelson,white,12.5,0.375,sweet,90.0
+Selection Nova Domus Terlaner Cuvee Riserva Alto Adige DOC,282.0,Italy,Trentino Alto Adige,white,14.0,0.75,dry,95.0
+Selections Parcellaires Varonniers Rouge Crozes-Hermitage AOP Bio Chapoutier,389.0,France,Rhône Valley,red,13.0,0.75,dry,93.0
+SiurAlta Orange DO Montsant Vins Nus,146.0,Spain,Catalonia,orange,13.0,0.75,dry,90.0
+Sotto Casa Vino Nobile di Montepulciano Riserva Boscarelli,261.0,Italy,Tuscany,red,14.0,0.75,dry,94.0
+St. Michael-Eppan Pinot Noir Riserva St. Valentin,239.0,Italy,Trentino Alto Adige,red,14.5,0.75,dry,93.333336
+Tabali Payen Syrah · Cabernet Franc Valle de Limari DO,349.0,Chile,Valle Limarí,red,14.0,0.75,dry,93.5
+Telmo Rodriguez Gaba Do Xil Tinto DO Valdeorras,89.0,Spain,Galicia,red,13.5,0.75,dry,91.0
+Telmo Rodriguez GAGO Toro DO,145.0,Spain,"Castile (Castilla y Leon), Galicia",red,14.5,0.75,dry,90.0
+Telmo Rodriguez LANZAGA DOCa Rioja BIO ECO,187.0,Spain,Rioja,red,15.5,0.75,dry,92.0
+Tenuta San Leonardo 'San Leonardo' Vigneti Delle Dolomiti IGT,599.0,Italy,Trentino Alto Adige,red,13.5,0.75,dry,91.666664
+Tenuta San Guido Guidalberto Toscana IGT,339.0,Italy,Tuscany,red,14.5,0.75,dry,90.0
+Tenuta San Guido Le Difese Toscana IGT,199.0,Italy,Tuscany,red,14.0,0.75,dry,90.0
+Tenuta San Leonardo Terre Vigneti Delle Dolomiti IGT,135.0,Italy,Trentino Alto Adige,red,13.5,0.75,dry,91.5
+Tenuta San Leonardo Vette Vigneti Delle Dolomiti IGT,115.0,Italy,Trentino Alto Adige,white,13.5,0.75,dry,91.0
+Tenuta San Leonardo Villa Gresti Vigneti Delle Dolomiti IGT,235.0,Italy,Trentino Alto Adige,red,13.5,0.75,dry,94.0
+Two Hands Bella`s Garden Shiraz Barossa Valley,289.0,Australia,Barossa Valley,red,14.0,0.75,dry,93.0
+Two Hands Sexy Beast Cabernet Sauvignon McLaren Vale,149.0,Australia,McLaren Vale,red,14.1,0.75,dry,91.0
+Vega Sicilia Alión Ribera del Duero DO,642.0,Spain,Ribera del Duero,red,15.0,0.75,dry,95.333336
+VIK 'Vik' Valle de Cachapoal DO,859.0,Chile,Cachapoal,red,14.5,0.75,dry,96.0
+VIK Milla Cala Valle de Cachapoal DO,269.0,Chile,Cachapoal,red,14.5,0.75,dry,94.0
+Viñedos de Nieva Verdejo DO Rueda,55.0,Spain,Castile (Castilla y Leon),white,12.0,0.75,dry,90.0
+Vino Nobile di Montepulciano Boscarelli,187.0,Italy,Tuscany,red,14.0,0.75,dry,90.0
+Vino Nobile di Montepulciano Poliziano,189.0,Italy,Tuscany,red,14.5,0.75,dry,90.0
+Vino Nobile di Montepulciano Poliziano magnum,379.0,Italy,Tuscany,red,14.0,1.5,dry,91.5
+Vino Nobile di Montepulciano Riserva Boscarelli,214.0,Italy,Tuscany,red,14.0,0.75,dry,92.0
+Zorzal Garnacha Navarra DO,59.0,Spain,Navarre,red,13.5,0.75,dry,92.0
+Zorzal Lecciones de Vuelo Garnacha Navarra DO,349.0,Spain,Navarre,red,14.0,0.75,dry,94.0
+Alheit Huilkrans Bio,362.0,South Africa,Western Cape,white,13.36,0.75,dry,93.5
+Allegrini Amarone Valpolicella Classico DOCG Magnum,799.0,Italy,Veneto,red,16.0,1.5,dry,92.0
+Angelo Gaja Barbaresco DOCG,1758.0,Italy,Piedmont,red,14.0,0.75,dry,95.0
+Angelo Gaja Sori Tildin Barbaresco DOP,3299.0,Italy,Piedmont,red,14.0,0.75,dry,95.5
+Brancaia Chianti Classico DOCG,154.0,Italy,Tuscany,red,13.5,0.75,dry,92.0
+Brunello di Montalcino DOCG Il Poggione,284.0,Italy,Tuscany,red,14.5,0.75,dry,94.0
+Casa Balaguer Benimaquía Alicante DO,109.0,Spain,Valencia,orange,13.5,0.75,dry,92.0
+Casa Balaguer El Vivero Alicante DO,119.0,Spain,Valencia,red,13.0,0.75,dry,91.0
+Casa Balaguer Salicornio Malvasia Alicante DO,99.0,Spain,Valencia,orange,13.5,0.75,dry,92.0
+Chapoutier Selections Parcellaires Pavillon Rouge Ermitage AOP Bio,2799.0,France,Rhône Valley,red,14.0,0.75,dry,100.0
+Château Laroque AOC Saint-Émilion Grand Cru Classé,369.0,France,Bordeaux,red,13.5,0.75,dry,94.5
+Château Mazeyres Pomerol AOC,311.0,France,Bordeaux,red,13.5,0.75,dry,93.0
+Chateau Mouton Rothschild Cru Classe,5999.0,France,Bordeaux,red,13.0,0.75,dry,99.0
+Chateau Nenin Pomerol AOC,678.0,France,Bordeaux,red,13.5,0.75,dry,94.0
+Domaine Chanson Chassagne Montrachet 1er Cru Les Chenevottes AOC,499.0,France,Burgundy,white,13.5,0.75,dry,93.0
+Domaine Chanson Le Bourgogne Pinot Noir AOC,115.0,France,Burgundy,red,12.5,0.75,dry,90.0
+Domaine Chanson Meursault AOC,329.0,France,Burgundy,white,13.5,0.75,dry,90.0
+Domaine Chanson Santenay AOC,173.0,France,Burgundy,red,13.5,0.75,dry,90.0
+Dominio de Pingus PSI Ribera Del Duero DO,237.0,Spain,Ribera del Duero,red,14.0,0.75,dry,92.5
+Dorli Muhr Prellenkirchen Samt&Seide DAC Carnuntum,129.0,Austria,Niederösterreich,red,13.0,0.75,dry,92.0
+Famille Perrin Château de Beaucastel Châteauneuf-du-Pape AOC,629.0,France,Rhône Valley,red,14.5,0.75,dry,98.0
+GAJA Ca'Marcanda Camarcanda Bolgheri DOC,1049.0,Italy,Tuscany,red,13.5,0.75,dry,95.333336
+GAJA Ca'Marcanda Magari Bolgheri DOC,573.0,Italy,Tuscany,red,14.5,0.75,dry,92.5
+Gewürztraminer St. Valentin St Michael-Eppan,239.0,Italy,Trentino Alto Adige,white,14.5,0.75,dry,93.0
+Gruner Veltliner LAMM Schloss Gobelsburg,279.0,Austria,Kamptal,white,13.0,0.75,dry,94.0
+Livio Felluga Terre Alte Rosazzo DOCG,429.0,Italy,Friuli,white,13.0,0.75,dry,94.0
+Louis Jadot Corton Grand Cru AOC,739.0,France,Burgundy,red,13.5,0.75,dry,92.0
+Louis Jadot La Garenne Puligny Montrachet Premier Cru AOC,716.0,France,Burgundy,white,13.5,0.75,dry,93.0
+Paolo Scavino Langhe Nebbiolo DOC,129.0,Italy,Piedmont,red,14.5,0.75,dry,92.0
+Pinot Grigio St. Michael Eppan,69.0,Italy,Trentino Alto Adige,white,13.5,0.75,dry,90.0
+Pinot Noir Auer,75.0,Austria,Weinland,red,13.0,0.75,dry,91.0
+Pinot Noir Krafuss Alois Lageder Alto Adige DOC,350.0,Italy,Trentino Alto Adige,red,13.5,0.75,dry,92.0
+Prestige Monier de la Sizeranne Rouge Hermitage AOP Bio Organic Chapoutier,425.0,France,Rhône Valley,red,14.0,0.75,dry,95.0
+Rafa Bernabé Acequión Pet-Nat,85.0,Spain,Valencia,orange,11.5,0.75,dry,91.0
+Rafa Bernabé Ramblís Monastrell Alicante DO,97.0,Spain,Valencia,red,14.5,0.75,dry,91.0
+Riesling Albert Mann Rosenberg,229.0,France,Alsace,white,12.5,0.75,dry,92.0
+Riesling Zeltinger Schlossberg Auslese Selbach,169.0,Germany,Moselle-Saar-Ruwer,white,8.5,0.75,sweet,93.0
+Santa Sofia Amarone DOCG,345.0,Italy,Veneto,red,14.0,0.75,dry,93.0
+Santa Sofia Amarone Riserva DOCG,479.0,Italy,Veneto,red,14.0,0.75,dry,94.0
+Sassicaia Tenuta San Guido,2499.0,Italy,Tuscany,red,13.5,0.75,dry,96.0
+Sauvignon St.Valentin St. Michael-Eppan,239.0,Italy,Trentino Alto Adige,white,14.5,0.75,dry,92.5
+Sottimano Cotta Barbaresco DOCG,469.0,Italy,Piedmont,red,13.5,0.75,dry,92.0
+Tinto Pesquera Millenium Gran Reserva Ribera del Duero DO,616.0,Spain,Ribera del Duero,red,14.5,0.75,dry,93.0
+Villa Maria Taylors Pass Sauvignon Blanc Marlborough,145.0,New Zealand,Marlborough,white,13.5,0.75,dry,90.0
+Wino Barolo Paolo Scavino,269.0,Italy,Piedmont,red,14.0,0.75,dry,93.0
